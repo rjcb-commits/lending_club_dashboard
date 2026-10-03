@@ -1,0 +1,7 @@
+.venv/
+data_raw/
+mockups/
+TABLEAU_BUILD_GUIDE.md
+*.pyc
+__pycache__/
+.DS_Store

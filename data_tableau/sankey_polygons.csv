@@ -1,0 +1,2919 @@
+shape_id,shape_type,color_group,grade,outcome,dollars_b,point_order,x,y
+S-A,link,Grade A,A,,4.243,0,2.5,0.0
+S-A,link,Grade A,A,,4.243,1,3.6875,0.0
+S-A,link,Grade A,A,,4.243,2,4.875,0.0
+S-A,link,Grade A,A,,4.243,3,6.0625,0.0
+S-A,link,Grade A,A,,4.243,4,7.25,0.0
+S-A,link,Grade A,A,,4.243,5,8.4375,0.0
+S-A,link,Grade A,A,,4.243,6,9.625,0.0
+S-A,link,Grade A,A,,4.243,7,10.8125,0.0
+S-A,link,Grade A,A,,4.243,8,12.0,0.0
+S-A,link,Grade A,A,,4.243,9,13.1875,0.0
+S-A,link,Grade A,A,,4.243,10,14.375,0.0
+S-A,link,Grade A,A,,4.243,11,15.5625,0.0
+S-A,link,Grade A,A,,4.243,12,16.75,0.0
+S-A,link,Grade A,A,,4.243,13,17.9375,0.0
+S-A,link,Grade A,A,,4.243,14,19.125,0.0
+S-A,link,Grade A,A,,4.243,15,20.3125,0.0
+S-A,link,Grade A,A,,4.243,16,21.5,0.0
+S-A,link,Grade A,A,,4.243,17,22.6875,0.0
+S-A,link,Grade A,A,,4.243,18,23.875,0.0
+S-A,link,Grade A,A,,4.243,19,25.0625,0.0
+S-A,link,Grade A,A,,4.243,20,26.25,0.0
+S-A,link,Grade A,A,,4.243,21,27.4375,0.0
+S-A,link,Grade A,A,,4.243,22,28.625,0.0
+S-A,link,Grade A,A,,4.243,23,29.8125,0.0
+S-A,link,Grade A,A,,4.243,24,31.0,0.0
+S-A,link,Grade A,A,,4.243,25,32.1875,0.0
+S-A,link,Grade A,A,,4.243,26,33.375,0.0
+S-A,link,Grade A,A,,4.243,27,34.5625,0.0
+S-A,link,Grade A,A,,4.243,28,35.75,0.0
+S-A,link,Grade A,A,,4.243,29,36.9375,0.0
+S-A,link,Grade A,A,,4.243,30,38.125,0.0
+S-A,link,Grade A,A,,4.243,31,39.3125,0.0
+S-A,link,Grade A,A,,4.243,32,40.5,0.0
+S-A,link,Grade A,A,,4.243,33,41.6875,0.0
+S-A,link,Grade A,A,,4.243,34,42.875,0.0
+S-A,link,Grade A,A,,4.243,35,44.0625,0.0
+S-A,link,Grade A,A,,4.243,36,45.25,0.0
+S-A,link,Grade A,A,,4.243,37,46.4375,0.0
+S-A,link,Grade A,A,,4.243,38,47.625,0.0
+S-A,link,Grade A,A,,4.243,39,48.8125,0.0
+S-A,link,Grade A,A,,4.243,40,50.0,0.0
+S-A,link,Grade A,A,,4.243,41,50.0,4.244
+S-A,link,Grade A,A,,4.243,42,48.8125,4.2444
+S-A,link,Grade A,A,,4.243,43,47.625,4.2449
+S-A,link,Grade A,A,,4.243,44,46.4375,4.2455
+S-A,link,Grade A,A,,4.243,45,45.25,4.2464
+S-A,link,Grade A,A,,4.243,46,44.0625,4.2476
+S-A,link,Grade A,A,,4.243,47,42.875,4.2492
+S-A,link,Grade A,A,,4.243,48,41.6875,4.2514
+S-A,link,Grade A,A,,4.243,49,40.5,4.2543
+S-A,link,Grade A,A,,4.243,50,39.3125,4.2581
+S-A,link,Grade A,A,,4.243,51,38.125,4.2632
+S-A,link,Grade A,A,,4.243,52,36.9375,4.2698
+S-A,link,Grade A,A,,4.243,53,35.75,4.2784
+S-A,link,Grade A,A,,4.243,54,34.5625,4.2894
+S-A,link,Grade A,A,,4.243,55,33.375,4.3034
+S-A,link,Grade A,A,,4.243,56,32.1875,4.3206
+S-A,link,Grade A,A,,4.243,57,31.0,4.3415
+S-A,link,Grade A,A,,4.243,58,29.8125,4.3661
+S-A,link,Grade A,A,,4.243,59,28.625,4.3939
+S-A,link,Grade A,A,,4.243,60,27.4375,4.4242
+S-A,link,Grade A,A,,4.243,61,26.25,4.4559
+S-A,link,Grade A,A,,4.243,62,25.0625,4.4876
+S-A,link,Grade A,A,,4.243,63,23.875,4.5179
+S-A,link,Grade A,A,,4.243,64,22.6875,4.5457
+S-A,link,Grade A,A,,4.243,65,21.5,4.5703
+S-A,link,Grade A,A,,4.243,66,20.3125,4.5911
+S-A,link,Grade A,A,,4.243,67,19.125,4.6084
+S-A,link,Grade A,A,,4.243,68,17.9375,4.6224
+S-A,link,Grade A,A,,4.243,69,16.75,4.6334
+S-A,link,Grade A,A,,4.243,70,15.5625,4.642
+S-A,link,Grade A,A,,4.243,71,14.375,4.6486
+S-A,link,Grade A,A,,4.243,72,13.1875,4.6537
+S-A,link,Grade A,A,,4.243,73,12.0,4.6575
+S-A,link,Grade A,A,,4.243,74,10.8125,4.6604
+S-A,link,Grade A,A,,4.243,75,9.625,4.6625
+S-A,link,Grade A,A,,4.243,76,8.4375,4.6642
+S-A,link,Grade A,A,,4.243,77,7.25,4.6654
+S-A,link,Grade A,A,,4.243,78,6.0625,4.6663
+S-A,link,Grade A,A,,4.243,79,4.875,4.6669
+S-A,link,Grade A,A,,4.243,80,3.6875,4.6674
+S-A,link,Grade A,A,,4.243,81,2.5,4.6678
+S-B,link,Grade B,B,,5.932,0,2.5,4.6687
+S-B,link,Grade B,B,,5.932,1,3.6875,4.6686
+S-B,link,Grade B,B,,5.932,2,4.875,4.6685
+S-B,link,Grade B,B,,5.932,3,6.0625,4.6684
+S-B,link,Grade B,B,,5.932,4,7.25,4.6682
+S-B,link,Grade B,B,,5.932,5,8.4375,4.668
+S-B,link,Grade B,B,,5.932,6,9.625,4.6677
+S-B,link,Grade B,B,,5.932,7,10.8125,4.6673
+S-B,link,Grade B,B,,5.932,8,12.0,4.6668
+S-B,link,Grade B,B,,5.932,9,13.1875,4.6661
+S-B,link,Grade B,B,,5.932,10,14.375,4.6652
+S-B,link,Grade B,B,,5.932,11,15.5625,4.6641
+S-B,link,Grade B,B,,5.932,12,16.75,4.6625
+S-B,link,Grade B,B,,5.932,13,17.9375,4.6606
+S-B,link,Grade B,B,,5.932,14,19.125,4.6581
+S-B,link,Grade B,B,,5.932,15,20.3125,4.655
+S-B,link,Grade B,B,,5.932,16,21.5,4.6513
+S-B,link,Grade B,B,,5.932,17,22.6875,4.6469
+S-B,link,Grade B,B,,5.932,18,23.875,4.642
+S-B,link,Grade B,B,,5.932,19,25.0625,4.6365
+S-B,link,Grade B,B,,5.932,20,26.25,4.6309
+S-B,link,Grade B,B,,5.932,21,27.4375,4.6252
+S-B,link,Grade B,B,,5.932,22,28.625,4.6198
+S-B,link,Grade B,B,,5.932,23,29.8125,4.6149
+S-B,link,Grade B,B,,5.932,24,31.0,4.6105
+S-B,link,Grade B,B,,5.932,25,32.1875,4.6068
+S-B,link,Grade B,B,,5.932,26,33.375,4.6037
+S-B,link,Grade B,B,,5.932,27,34.5625,4.6012
+S-B,link,Grade B,B,,5.932,28,35.75,4.5993
+S-B,link,Grade B,B,,5.932,29,36.9375,4.5977
+S-B,link,Grade B,B,,5.932,30,38.125,4.5966
+S-B,link,Grade B,B,,5.932,31,39.3125,4.5957
+S-B,link,Grade B,B,,5.932,32,40.5,4.595
+S-B,link,Grade B,B,,5.932,33,41.6875,4.5945
+S-B,link,Grade B,B,,5.932,34,42.875,4.5941
+S-B,link,Grade B,B,,5.932,35,44.0625,4.5938
+S-B,link,Grade B,B,,5.932,36,45.25,4.5936
+S-B,link,Grade B,B,,5.932,37,46.4375,4.5934
+S-B,link,Grade B,B,,5.932,38,47.625,4.5933
+S-B,link,Grade B,B,,5.932,39,48.8125,4.5932
+S-B,link,Grade B,B,,5.932,40,50.0,4.5931
+S-B,link,Grade B,B,,5.932,41,50.0,10.5266
+S-B,link,Grade B,B,,5.932,42,48.8125,10.5272
+S-B,link,Grade B,B,,5.932,43,47.625,10.528
+S-B,link,Grade B,B,,5.932,44,46.4375,10.529
+S-B,link,Grade B,B,,5.932,45,45.25,10.5304
+S-B,link,Grade B,B,,5.932,46,44.0625,10.5323
+S-B,link,Grade B,B,,5.932,47,42.875,10.5349
+S-B,link,Grade B,B,,5.932,48,41.6875,10.5383
+S-B,link,Grade B,B,,5.932,49,40.5,10.5428
+S-B,link,Grade B,B,,5.932,50,39.3125,10.5488
+S-B,link,Grade B,B,,5.932,51,38.125,10.5568
+S-B,link,Grade B,B,,5.932,52,36.9375,10.5672
+S-B,link,Grade B,B,,5.932,53,35.75,10.5808
+S-B,link,Grade B,B,,5.932,54,34.5625,10.5982
+S-B,link,Grade B,B,,5.932,55,33.375,10.6202
+S-B,link,Grade B,B,,5.932,56,32.1875,10.6474
+S-B,link,Grade B,B,,5.932,57,31.0,10.6803
+S-B,link,Grade B,B,,5.932,58,29.8125,10.719
+S-B,link,Grade B,B,,5.932,59,28.625,10.7628
+S-B,link,Grade B,B,,5.932,60,27.4375,10.8106
+S-B,link,Grade B,B,,5.932,61,26.25,10.8606
+S-B,link,Grade B,B,,5.932,62,25.0625,10.9106
+S-B,link,Grade B,B,,5.932,63,23.875,10.9584
+S-B,link,Grade B,B,,5.932,64,22.6875,11.0022
+S-B,link,Grade B,B,,5.932,65,21.5,11.0408
+S-B,link,Grade B,B,,5.932,66,20.3125,11.0738
+S-B,link,Grade B,B,,5.932,67,19.125,11.101
+S-B,link,Grade B,B,,5.932,68,17.9375,11.123
+S-B,link,Grade B,B,,5.932,69,16.75,11.1404
+S-B,link,Grade B,B,,5.932,70,15.5625,11.154
+S-B,link,Grade B,B,,5.932,71,14.375,11.1644
+S-B,link,Grade B,B,,5.932,72,13.1875,11.1724
+S-B,link,Grade B,B,,5.932,73,12.0,11.1784
+S-B,link,Grade B,B,,5.932,74,10.8125,11.1829
+S-B,link,Grade B,B,,5.932,75,9.625,11.1863
+S-B,link,Grade B,B,,5.932,76,8.4375,11.1889
+S-B,link,Grade B,B,,5.932,77,7.25,11.1908
+S-B,link,Grade B,B,,5.932,78,6.0625,11.1922
+S-B,link,Grade B,B,,5.932,79,4.875,11.1932
+S-B,link,Grade B,B,,5.932,80,3.6875,11.194
+S-B,link,Grade B,B,,5.932,81,2.5,11.1946
+S-C,link,Grade C,C,,6.2186,0,2.5,11.1954
+S-C,link,Grade C,C,,6.2186,1,3.6875,11.1952
+S-C,link,Grade C,C,,6.2186,2,4.875,11.1948
+S-C,link,Grade C,C,,6.2186,3,6.0625,11.1943
+S-C,link,Grade C,C,,6.2186,4,7.25,11.1936
+S-C,link,Grade C,C,,6.2186,5,8.4375,11.1927
+S-C,link,Grade C,C,,6.2186,6,9.625,11.1915
+S-C,link,Grade C,C,,6.2186,7,10.8125,11.1899
+S-C,link,Grade C,C,,6.2186,8,12.0,11.1877
+S-C,link,Grade C,C,,6.2186,9,13.1875,11.1848
+S-C,link,Grade C,C,,6.2186,10,14.375,11.181
+S-C,link,Grade C,C,,6.2186,11,15.5625,11.176
+S-C,link,Grade C,C,,6.2186,12,16.75,11.1695
+S-C,link,Grade C,C,,6.2186,13,17.9375,11.1612
+S-C,link,Grade C,C,,6.2186,14,19.125,11.1507
+S-C,link,Grade C,C,,6.2186,15,20.3125,11.1376
+S-C,link,Grade C,C,,6.2186,16,21.5,11.1219
+S-C,link,Grade C,C,,6.2186,17,22.6875,11.1034
+S-C,link,Grade C,C,,6.2186,18,23.875,11.0824
+S-C,link,Grade C,C,,6.2186,19,25.0625,11.0595
+S-C,link,Grade C,C,,6.2186,20,26.25,11.0356
+S-C,link,Grade C,C,,6.2186,21,27.4375,11.0117
+S-C,link,Grade C,C,,6.2186,22,28.625,10.9888
+S-C,link,Grade C,C,,6.2186,23,29.8125,10.9678
+S-C,link,Grade C,C,,6.2186,24,31.0,10.9493
+S-C,link,Grade C,C,,6.2186,25,32.1875,10.9335
+S-C,link,Grade C,C,,6.2186,26,33.375,10.9205
+S-C,link,Grade C,C,,6.2186,27,34.5625,10.91
+S-C,link,Grade C,C,,6.2186,28,35.75,10.9017
+S-C,link,Grade C,C,,6.2186,29,36.9375,10.8952
+S-C,link,Grade C,C,,6.2186,30,38.125,10.8902
+S-C,link,Grade C,C,,6.2186,31,39.3125,10.8864
+S-C,link,Grade C,C,,6.2186,32,40.5,10.8835
+S-C,link,Grade C,C,,6.2186,33,41.6875,10.8813
+S-C,link,Grade C,C,,6.2186,34,42.875,10.8797
+S-C,link,Grade C,C,,6.2186,35,44.0625,10.8785
+S-C,link,Grade C,C,,6.2186,36,45.25,10.8776
+S-C,link,Grade C,C,,6.2186,37,46.4375,10.8769
+S-C,link,Grade C,C,,6.2186,38,47.625,10.8764
+S-C,link,Grade C,C,,6.2186,39,48.8125,10.876
+S-C,link,Grade C,C,,6.2186,40,50.0,10.8757
+S-C,link,Grade C,C,,6.2186,41,50.0,17.0959
+S-C,link,Grade C,C,,6.2186,42,48.8125,17.0967
+S-C,link,Grade C,C,,6.2186,43,47.625,17.0978
+S-C,link,Grade C,C,,6.2186,44,46.4375,17.0993
+S-C,link,Grade C,C,,6.2186,45,45.25,17.1013
+S-C,link,Grade C,C,,6.2186,46,44.0625,17.104
+S-C,link,Grade C,C,,6.2186,47,42.875,17.1075
+S-C,link,Grade C,C,,6.2186,48,41.6875,17.1123
+S-C,link,Grade C,C,,6.2186,49,40.5,17.1187
+S-C,link,Grade C,C,,6.2186,50,39.3125,17.1272
+S-C,link,Grade C,C,,6.2186,51,38.125,17.1384
+S-C,link,Grade C,C,,6.2186,52,36.9375,17.1531
+S-C,link,Grade C,C,,6.2186,53,35.75,17.1722
+S-C,link,Grade C,C,,6.2186,54,34.5625,17.1967
+S-C,link,Grade C,C,,6.2186,55,33.375,17.2277
+S-C,link,Grade C,C,,6.2186,56,32.1875,17.2661
+S-C,link,Grade C,C,,6.2186,57,31.0,17.3124
+S-C,link,Grade C,C,,6.2186,58,29.8125,17.3669
+S-C,link,Grade C,C,,6.2186,59,28.625,17.4286
+S-C,link,Grade C,C,,6.2186,60,27.4375,17.4959
+S-C,link,Grade C,C,,6.2186,61,26.25,17.5663
+S-C,link,Grade C,C,,6.2186,62,25.0625,17.6367
+S-C,link,Grade C,C,,6.2186,63,23.875,17.704
+S-C,link,Grade C,C,,6.2186,64,22.6875,17.7658
+S-C,link,Grade C,C,,6.2186,65,21.5,17.8202
+S-C,link,Grade C,C,,6.2186,66,20.3125,17.8666
+S-C,link,Grade C,C,,6.2186,67,19.125,17.9049
+S-C,link,Grade C,C,,6.2186,68,17.9375,17.9359
+S-C,link,Grade C,C,,6.2186,69,16.75,17.9604
+S-C,link,Grade C,C,,6.2186,70,15.5625,17.9795
+S-C,link,Grade C,C,,6.2186,71,14.375,17.9942
+S-C,link,Grade C,C,,6.2186,72,13.1875,18.0054
+S-C,link,Grade C,C,,6.2186,73,12.0,18.0139
+S-C,link,Grade C,C,,6.2186,74,10.8125,18.0203
+S-C,link,Grade C,C,,6.2186,75,9.625,18.0251
+S-C,link,Grade C,C,,6.2186,76,8.4375,18.0287
+S-C,link,Grade C,C,,6.2186,77,7.25,18.0313
+S-C,link,Grade C,C,,6.2186,78,6.0625,18.0333
+S-C,link,Grade C,C,,6.2186,79,4.875,18.0348
+S-C,link,Grade C,C,,6.2186,80,3.6875,18.0359
+S-C,link,Grade C,C,,6.2186,81,2.5,18.0367
+S-D,link,Grade D,D,,2.9399,0,2.5,18.0376
+S-D,link,Grade D,D,,2.9399,1,3.6875,18.0371
+S-D,link,Grade D,D,,2.9399,2,4.875,18.0364
+S-D,link,Grade D,D,,2.9399,3,6.0625,18.0354
+S-D,link,Grade D,D,,2.9399,4,7.25,18.0342
+S-D,link,Grade D,D,,2.9399,5,8.4375,18.0325
+S-D,link,Grade D,D,,2.9399,6,9.625,18.0303
+S-D,link,Grade D,D,,2.9399,7,10.8125,18.0272
+S-D,link,Grade D,D,,2.9399,8,12.0,18.0232
+S-D,link,Grade D,D,,2.9399,9,13.1875,18.0179
+S-D,link,Grade D,D,,2.9399,10,14.375,18.0108
+S-D,link,Grade D,D,,2.9399,11,15.5625,18.0016
+S-D,link,Grade D,D,,2.9399,12,16.75,17.9895
+S-D,link,Grade D,D,,2.9399,13,17.9375,17.9741
+S-D,link,Grade D,D,,2.9399,14,19.125,17.9546
+S-D,link,Grade D,D,,2.9399,15,20.3125,17.9304
+S-D,link,Grade D,D,,2.9399,16,21.5,17.9012
+S-D,link,Grade D,D,,2.9399,17,22.6875,17.8669
+S-D,link,Grade D,D,,2.9399,18,23.875,17.828
+S-D,link,Grade D,D,,2.9399,19,25.0625,17.7856
+S-D,link,Grade D,D,,2.9399,20,26.25,17.7413
+S-D,link,Grade D,D,,2.9399,21,27.4375,17.697
+S-D,link,Grade D,D,,2.9399,22,28.625,17.6546
+S-D,link,Grade D,D,,2.9399,23,29.8125,17.6157
+S-D,link,Grade D,D,,2.9399,24,31.0,17.5814
+S-D,link,Grade D,D,,2.9399,25,32.1875,17.5522
+S-D,link,Grade D,D,,2.9399,26,33.375,17.528
+S-D,link,Grade D,D,,2.9399,27,34.5625,17.5085
+S-D,link,Grade D,D,,2.9399,28,35.75,17.4931
+S-D,link,Grade D,D,,2.9399,29,36.9375,17.4811
+S-D,link,Grade D,D,,2.9399,30,38.125,17.4718
+S-D,link,Grade D,D,,2.9399,31,39.3125,17.4648
+S-D,link,Grade D,D,,2.9399,32,40.5,17.4594
+S-D,link,Grade D,D,,2.9399,33,41.6875,17.4554
+S-D,link,Grade D,D,,2.9399,34,42.875,17.4524
+S-D,link,Grade D,D,,2.9399,35,44.0625,17.4501
+S-D,link,Grade D,D,,2.9399,36,45.25,17.4484
+S-D,link,Grade D,D,,2.9399,37,46.4375,17.4472
+S-D,link,Grade D,D,,2.9399,38,47.625,17.4462
+S-D,link,Grade D,D,,2.9399,39,48.8125,17.4456
+S-D,link,Grade D,D,,2.9399,40,50.0,17.445
+S-D,link,Grade D,D,,2.9399,41,50.0,20.3857
+S-D,link,Grade D,D,,2.9399,42,48.8125,20.3864
+S-D,link,Grade D,D,,2.9399,43,47.625,20.3875
+S-D,link,Grade D,D,,2.9399,44,46.4375,20.3889
+S-D,link,Grade D,D,,2.9399,45,45.25,20.3907
+S-D,link,Grade D,D,,2.9399,46,44.0625,20.3933
+S-D,link,Grade D,D,,2.9399,47,42.875,20.3966
+S-D,link,Grade D,D,,2.9399,48,41.6875,20.4011
+S-D,link,Grade D,D,,2.9399,49,40.5,20.4072
+S-D,link,Grade D,D,,2.9399,50,39.3125,20.4151
+S-D,link,Grade D,D,,2.9399,51,38.125,20.4257
+S-D,link,Grade D,D,,2.9399,52,36.9375,20.4395
+S-D,link,Grade D,D,,2.9399,53,35.75,20.4575
+S-D,link,Grade D,D,,2.9399,54,34.5625,20.4806
+S-D,link,Grade D,D,,2.9399,55,33.375,20.5098
+S-D,link,Grade D,D,,2.9399,56,32.1875,20.5459
+S-D,link,Grade D,D,,2.9399,57,31.0,20.5896
+S-D,link,Grade D,D,,2.9399,58,29.8125,20.6409
+S-D,link,Grade D,D,,2.9399,59,28.625,20.699
+S-D,link,Grade D,D,,2.9399,60,27.4375,20.7625
+S-D,link,Grade D,D,,2.9399,61,26.25,20.8288
+S-D,link,Grade D,D,,2.9399,62,25.0625,20.8951
+S-D,link,Grade D,D,,2.9399,63,23.875,20.9585
+S-D,link,Grade D,D,,2.9399,64,22.6875,21.0166
+S-D,link,Grade D,D,,2.9399,65,21.5,21.0679
+S-D,link,Grade D,D,,2.9399,66,20.3125,21.1116
+S-D,link,Grade D,D,,2.9399,67,19.125,21.1477
+S-D,link,Grade D,D,,2.9399,68,17.9375,21.1769
+S-D,link,Grade D,D,,2.9399,69,16.75,21.2
+S-D,link,Grade D,D,,2.9399,70,15.5625,21.218
+S-D,link,Grade D,D,,2.9399,71,14.375,21.2318
+S-D,link,Grade D,D,,2.9399,72,13.1875,21.2424
+S-D,link,Grade D,D,,2.9399,73,12.0,21.2504
+S-D,link,Grade D,D,,2.9399,74,10.8125,21.2564
+S-D,link,Grade D,D,,2.9399,75,9.625,21.2609
+S-D,link,Grade D,D,,2.9399,76,8.4375,21.2643
+S-D,link,Grade D,D,,2.9399,77,7.25,21.2668
+S-D,link,Grade D,D,,2.9399,78,6.0625,21.2686
+S-D,link,Grade D,D,,2.9399,79,4.875,21.27
+S-D,link,Grade D,D,,2.9399,80,3.6875,21.2711
+S-D,link,Grade D,D,,2.9399,81,2.5,21.2718
+S-E,link,Grade E,E,,1.0947,0,2.5,21.2727
+S-E,link,Grade E,E,,1.0947,1,3.6875,21.2722
+S-E,link,Grade E,E,,1.0947,2,4.875,21.2716
+S-E,link,Grade E,E,,1.0947,3,6.0625,21.2708
+S-E,link,Grade E,E,,1.0947,4,7.25,21.2696
+S-E,link,Grade E,E,,1.0947,5,8.4375,21.2681
+S-E,link,Grade E,E,,1.0947,6,9.625,21.2661
+S-E,link,Grade E,E,,1.0947,7,10.8125,21.2633
+S-E,link,Grade E,E,,1.0947,8,12.0,21.2597
+S-E,link,Grade E,E,,1.0947,9,13.1875,21.2548
+S-E,link,Grade E,E,,1.0947,10,14.375,21.2484
+S-E,link,Grade E,E,,1.0947,11,15.5625,21.24
+S-E,link,Grade E,E,,1.0947,12,16.75,21.2291
+S-E,link,Grade E,E,,1.0947,13,17.9375,21.2151
+S-E,link,Grade E,E,,1.0947,14,19.125,21.1974
+S-E,link,Grade E,E,,1.0947,15,20.3125,21.1754
+S-E,link,Grade E,E,,1.0947,16,21.5,21.1489
+S-E,link,Grade E,E,,1.0947,17,22.6875,21.1178
+S-E,link,Grade E,E,,1.0947,18,23.875,21.0825
+S-E,link,Grade E,E,,1.0947,19,25.0625,21.044
+S-E,link,Grade E,E,,1.0947,20,26.25,21.0038
+S-E,link,Grade E,E,,1.0947,21,27.4375,20.9635
+S-E,link,Grade E,E,,1.0947,22,28.625,20.925
+S-E,link,Grade E,E,,1.0947,23,29.8125,20.8897
+S-E,link,Grade E,E,,1.0947,24,31.0,20.8586
+S-E,link,Grade E,E,,1.0947,25,32.1875,20.8321
+S-E,link,Grade E,E,,1.0947,26,33.375,20.8101
+S-E,link,Grade E,E,,1.0947,27,34.5625,20.7924
+S-E,link,Grade E,E,,1.0947,28,35.75,20.7784
+S-E,link,Grade E,E,,1.0947,29,36.9375,20.7675
+S-E,link,Grade E,E,,1.0947,30,38.125,20.7591
+S-E,link,Grade E,E,,1.0947,31,39.3125,20.7527
+S-E,link,Grade E,E,,1.0947,32,40.5,20.7478
+S-E,link,Grade E,E,,1.0947,33,41.6875,20.7442
+S-E,link,Grade E,E,,1.0947,34,42.875,20.7415
+S-E,link,Grade E,E,,1.0947,35,44.0625,20.7394
+S-E,link,Grade E,E,,1.0947,36,45.25,20.7379
+S-E,link,Grade E,E,,1.0947,37,46.4375,20.7367
+S-E,link,Grade E,E,,1.0947,38,47.625,20.7359
+S-E,link,Grade E,E,,1.0947,39,48.8125,20.7353
+S-E,link,Grade E,E,,1.0947,40,50.0,20.7348
+S-E,link,Grade E,E,,1.0947,41,50.0,21.8298
+S-E,link,Grade E,E,,1.0947,42,48.8125,21.8304
+S-E,link,Grade E,E,,1.0947,43,47.625,21.8311
+S-E,link,Grade E,E,,1.0947,44,46.4375,21.8321
+S-E,link,Grade E,E,,1.0947,45,45.25,21.8335
+S-E,link,Grade E,E,,1.0947,46,44.0625,21.8353
+S-E,link,Grade E,E,,1.0947,47,42.875,21.8378
+S-E,link,Grade E,E,,1.0947,48,41.6875,21.8411
+S-E,link,Grade E,E,,1.0947,49,40.5,21.8455
+S-E,link,Grade E,E,,1.0947,50,39.3125,21.8513
+S-E,link,Grade E,E,,1.0947,51,38.125,21.859
+S-E,link,Grade E,E,,1.0947,52,36.9375,21.8691
+S-E,link,Grade E,E,,1.0947,53,35.75,21.8823
+S-E,link,Grade E,E,,1.0947,54,34.5625,21.8991
+S-E,link,Grade E,E,,1.0947,55,33.375,21.9205
+S-E,link,Grade E,E,,1.0947,56,32.1875,21.9468
+S-E,link,Grade E,E,,1.0947,57,31.0,21.9787
+S-E,link,Grade E,E,,1.0947,58,29.8125,22.0162
+S-E,link,Grade E,E,,1.0947,59,28.625,22.0587
+S-E,link,Grade E,E,,1.0947,60,27.4375,22.105
+S-E,link,Grade E,E,,1.0947,61,26.25,22.1534
+S-E,link,Grade E,E,,1.0947,62,25.0625,22.2018
+S-E,link,Grade E,E,,1.0947,63,23.875,22.2482
+S-E,link,Grade E,E,,1.0947,64,22.6875,22.2906
+S-E,link,Grade E,E,,1.0947,65,21.5,22.3281
+S-E,link,Grade E,E,,1.0947,66,20.3125,22.36
+S-E,link,Grade E,E,,1.0947,67,19.125,22.3864
+S-E,link,Grade E,E,,1.0947,68,17.9375,22.4077
+S-E,link,Grade E,E,,1.0947,69,16.75,22.4245
+S-E,link,Grade E,E,,1.0947,70,15.5625,22.4377
+S-E,link,Grade E,E,,1.0947,71,14.375,22.4478
+S-E,link,Grade E,E,,1.0947,72,13.1875,22.4555
+S-E,link,Grade E,E,,1.0947,73,12.0,22.4613
+S-E,link,Grade E,E,,1.0947,74,10.8125,22.4657
+S-E,link,Grade E,E,,1.0947,75,9.625,22.469
+S-E,link,Grade E,E,,1.0947,76,8.4375,22.4715
+S-E,link,Grade E,E,,1.0947,77,7.25,22.4733
+S-E,link,Grade E,E,,1.0947,78,6.0625,22.4747
+S-E,link,Grade E,E,,1.0947,79,4.875,22.4757
+S-E,link,Grade E,E,,1.0947,80,3.6875,22.4765
+S-E,link,Grade E,E,,1.0947,81,2.5,22.477
+S-F,link,Grade F,F,,0.3583,0,2.5,22.4779
+S-F,link,Grade F,F,,0.3583,1,3.6875,22.4776
+S-F,link,Grade F,F,,0.3583,2,4.875,22.4773
+S-F,link,Grade F,F,,0.3583,3,6.0625,22.4768
+S-F,link,Grade F,F,,0.3583,4,7.25,22.4762
+S-F,link,Grade F,F,,0.3583,5,8.4375,22.4753
+S-F,link,Grade F,F,,0.3583,6,9.625,22.4742
+S-F,link,Grade F,F,,0.3583,7,10.8125,22.4727
+S-F,link,Grade F,F,,0.3583,8,12.0,22.4707
+S-F,link,Grade F,F,,0.3583,9,13.1875,22.468
+S-F,link,Grade F,F,,0.3583,10,14.375,22.4644
+S-F,link,Grade F,F,,0.3583,11,15.5625,22.4597
+S-F,link,Grade F,F,,0.3583,12,16.75,22.4537
+S-F,link,Grade F,F,,0.3583,13,17.9375,22.4459
+S-F,link,Grade F,F,,0.3583,14,19.125,22.436
+S-F,link,Grade F,F,,0.3583,15,20.3125,22.4238
+S-F,link,Grade F,F,,0.3583,16,21.5,22.4091
+S-F,link,Grade F,F,,0.3583,17,22.6875,22.3918
+S-F,link,Grade F,F,,0.3583,18,23.875,22.3722
+S-F,link,Grade F,F,,0.3583,19,25.0625,22.3508
+S-F,link,Grade F,F,,0.3583,20,26.25,22.3284
+S-F,link,Grade F,F,,0.3583,21,27.4375,22.306
+S-F,link,Grade F,F,,0.3583,22,28.625,22.2846
+S-F,link,Grade F,F,,0.3583,23,29.8125,22.265
+S-F,link,Grade F,F,,0.3583,24,31.0,22.2477
+S-F,link,Grade F,F,,0.3583,25,32.1875,22.233
+S-F,link,Grade F,F,,0.3583,26,33.375,22.2208
+S-F,link,Grade F,F,,0.3583,27,34.5625,22.211
+S-F,link,Grade F,F,,0.3583,28,35.75,22.2032
+S-F,link,Grade F,F,,0.3583,29,36.9375,22.1971
+S-F,link,Grade F,F,,0.3583,30,38.125,22.1924
+S-F,link,Grade F,F,,0.3583,31,39.3125,22.1889
+S-F,link,Grade F,F,,0.3583,32,40.5,22.1862
+S-F,link,Grade F,F,,0.3583,33,41.6875,22.1841
+S-F,link,Grade F,F,,0.3583,34,42.875,22.1826
+S-F,link,Grade F,F,,0.3583,35,44.0625,22.1815
+S-F,link,Grade F,F,,0.3583,36,45.25,22.1806
+S-F,link,Grade F,F,,0.3583,37,46.4375,22.18
+S-F,link,Grade F,F,,0.3583,38,47.625,22.1795
+S-F,link,Grade F,F,,0.3583,39,48.8125,22.1792
+S-F,link,Grade F,F,,0.3583,40,50.0,22.1789
+S-F,link,Grade F,F,,0.3583,41,50.0,22.5373
+S-F,link,Grade F,F,,0.3583,42,48.8125,22.5376
+S-F,link,Grade F,F,,0.3583,43,47.625,22.538
+S-F,link,Grade F,F,,0.3583,44,46.4375,22.5385
+S-F,link,Grade F,F,,0.3583,45,45.25,22.5392
+S-F,link,Grade F,F,,0.3583,46,44.0625,22.5402
+S-F,link,Grade F,F,,0.3583,47,42.875,22.5414
+S-F,link,Grade F,F,,0.3583,48,41.6875,22.5431
+S-F,link,Grade F,F,,0.3583,49,40.5,22.5454
+S-F,link,Grade F,F,,0.3583,50,39.3125,22.5484
+S-F,link,Grade F,F,,0.3583,51,38.125,22.5524
+S-F,link,Grade F,F,,0.3583,52,36.9375,22.5577
+S-F,link,Grade F,F,,0.3583,53,35.75,22.5644
+S-F,link,Grade F,F,,0.3583,54,34.5625,22.5732
+S-F,link,Grade F,F,,0.3583,55,33.375,22.5842
+S-F,link,Grade F,F,,0.3583,56,32.1875,22.5978
+S-F,link,Grade F,F,,0.3583,57,31.0,22.6143
+S-F,link,Grade F,F,,0.3583,58,29.8125,22.6337
+S-F,link,Grade F,F,,0.3583,59,28.625,22.6557
+S-F,link,Grade F,F,,0.3583,60,27.4375,22.6796
+S-F,link,Grade F,F,,0.3583,61,26.25,22.7047
+S-F,link,Grade F,F,,0.3583,62,25.0625,22.7297
+S-F,link,Grade F,F,,0.3583,63,23.875,22.7537
+S-F,link,Grade F,F,,0.3583,64,22.6875,22.7756
+S-F,link,Grade F,F,,0.3583,65,21.5,22.795
+S-F,link,Grade F,F,,0.3583,66,20.3125,22.8115
+S-F,link,Grade F,F,,0.3583,67,19.125,22.8252
+S-F,link,Grade F,F,,0.3583,68,17.9375,22.8362
+S-F,link,Grade F,F,,0.3583,69,16.75,22.8449
+S-F,link,Grade F,F,,0.3583,70,15.5625,22.8517
+S-F,link,Grade F,F,,0.3583,71,14.375,22.8569
+S-F,link,Grade F,F,,0.3583,72,13.1875,22.8609
+S-F,link,Grade F,F,,0.3583,73,12.0,22.8639
+S-F,link,Grade F,F,,0.3583,74,10.8125,22.8662
+S-F,link,Grade F,F,,0.3583,75,9.625,22.8679
+S-F,link,Grade F,F,,0.3583,76,8.4375,22.8692
+S-F,link,Grade F,F,,0.3583,77,7.25,22.8701
+S-F,link,Grade F,F,,0.3583,78,6.0625,22.8708
+S-F,link,Grade F,F,,0.3583,79,4.875,22.8714
+S-F,link,Grade F,F,,0.3583,80,3.6875,22.8718
+S-F,link,Grade F,F,,0.3583,81,2.5,22.8721
+S-G,link,Grade G,G,,0.1353,0,2.5,22.8729
+S-G,link,Grade G,G,,0.1353,1,3.6875,22.8729
+S-G,link,Grade G,G,,0.1353,2,4.875,22.8729
+S-G,link,Grade G,G,,0.1353,3,6.0625,22.873
+S-G,link,Grade G,G,,0.1353,4,7.25,22.873
+S-G,link,Grade G,G,,0.1353,5,8.4375,22.873
+S-G,link,Grade G,G,,0.1353,6,9.625,22.8731
+S-G,link,Grade G,G,,0.1353,7,10.8125,22.8732
+S-G,link,Grade G,G,,0.1353,8,12.0,22.8732
+S-G,link,Grade G,G,,0.1353,9,13.1875,22.8734
+S-G,link,Grade G,G,,0.1353,10,14.375,22.8735
+S-G,link,Grade G,G,,0.1353,11,15.5625,22.8737
+S-G,link,Grade G,G,,0.1353,12,16.75,22.874
+S-G,link,Grade G,G,,0.1353,13,17.9375,22.8744
+S-G,link,Grade G,G,,0.1353,14,19.125,22.8748
+S-G,link,Grade G,G,,0.1353,15,20.3125,22.8754
+S-G,link,Grade G,G,,0.1353,16,21.5,22.876
+S-G,link,Grade G,G,,0.1353,17,22.6875,22.8768
+S-G,link,Grade G,G,,0.1353,18,23.875,22.8777
+S-G,link,Grade G,G,,0.1353,19,25.0625,22.8787
+S-G,link,Grade G,G,,0.1353,20,26.25,22.8797
+S-G,link,Grade G,G,,0.1353,21,27.4375,22.8807
+S-G,link,Grade G,G,,0.1353,22,28.625,22.8817
+S-G,link,Grade G,G,,0.1353,23,29.8125,22.8825
+S-G,link,Grade G,G,,0.1353,24,31.0,22.8833
+S-G,link,Grade G,G,,0.1353,25,32.1875,22.884
+S-G,link,Grade G,G,,0.1353,26,33.375,22.8845
+S-G,link,Grade G,G,,0.1353,27,34.5625,22.885
+S-G,link,Grade G,G,,0.1353,28,35.75,22.8853
+S-G,link,Grade G,G,,0.1353,29,36.9375,22.8856
+S-G,link,Grade G,G,,0.1353,30,38.125,22.8858
+S-G,link,Grade G,G,,0.1353,31,39.3125,22.886
+S-G,link,Grade G,G,,0.1353,32,40.5,22.8861
+S-G,link,Grade G,G,,0.1353,33,41.6875,22.8862
+S-G,link,Grade G,G,,0.1353,34,42.875,22.8863
+S-G,link,Grade G,G,,0.1353,35,44.0625,22.8863
+S-G,link,Grade G,G,,0.1353,36,45.25,22.8864
+S-G,link,Grade G,G,,0.1353,37,46.4375,22.8864
+S-G,link,Grade G,G,,0.1353,38,47.625,22.8864
+S-G,link,Grade G,G,,0.1353,39,48.8125,22.8864
+S-G,link,Grade G,G,,0.1353,40,50.0,22.8864
+S-G,link,Grade G,G,,0.1353,41,50.0,23.0218
+S-G,link,Grade G,G,,0.1353,42,48.8125,23.0218
+S-G,link,Grade G,G,,0.1353,43,47.625,23.0218
+S-G,link,Grade G,G,,0.1353,44,46.4375,23.0218
+S-G,link,Grade G,G,,0.1353,45,45.25,23.0218
+S-G,link,Grade G,G,,0.1353,46,44.0625,23.0218
+S-G,link,Grade G,G,,0.1353,47,42.875,23.0218
+S-G,link,Grade G,G,,0.1353,48,41.6875,23.0218
+S-G,link,Grade G,G,,0.1353,49,40.5,23.0218
+S-G,link,Grade G,G,,0.1353,50,39.3125,23.0218
+S-G,link,Grade G,G,,0.1353,51,38.125,23.0218
+S-G,link,Grade G,G,,0.1353,52,36.9375,23.0218
+S-G,link,Grade G,G,,0.1353,53,35.75,23.0218
+S-G,link,Grade G,G,,0.1353,54,34.5625,23.0218
+S-G,link,Grade G,G,,0.1353,55,33.375,23.0218
+S-G,link,Grade G,G,,0.1353,56,32.1875,23.0218
+S-G,link,Grade G,G,,0.1353,57,31.0,23.0218
+S-G,link,Grade G,G,,0.1353,58,29.8125,23.0218
+S-G,link,Grade G,G,,0.1353,59,28.625,23.0218
+S-G,link,Grade G,G,,0.1353,60,27.4375,23.0218
+S-G,link,Grade G,G,,0.1353,61,26.25,23.0218
+S-G,link,Grade G,G,,0.1353,62,25.0625,23.0218
+S-G,link,Grade G,G,,0.1353,63,23.875,23.0218
+S-G,link,Grade G,G,,0.1353,64,22.6875,23.0218
+S-G,link,Grade G,G,,0.1353,65,21.5,23.0218
+S-G,link,Grade G,G,,0.1353,66,20.3125,23.0218
+S-G,link,Grade G,G,,0.1353,67,19.125,23.0218
+S-G,link,Grade G,G,,0.1353,68,17.9375,23.0218
+S-G,link,Grade G,G,,0.1353,69,16.75,23.0218
+S-G,link,Grade G,G,,0.1353,70,15.5625,23.0218
+S-G,link,Grade G,G,,0.1353,71,14.375,23.0218
+S-G,link,Grade G,G,,0.1353,72,13.1875,23.0218
+S-G,link,Grade G,G,,0.1353,73,12.0,23.0218
+S-G,link,Grade G,G,,0.1353,74,10.8125,23.0218
+S-G,link,Grade G,G,,0.1353,75,9.625,23.0218
+S-G,link,Grade G,G,,0.1353,76,8.4375,23.0218
+S-G,link,Grade G,G,,0.1353,77,7.25,23.0218
+S-G,link,Grade G,G,,0.1353,78,6.0625,23.0218
+S-G,link,Grade G,G,,0.1353,79,4.875,23.0218
+S-G,link,Grade G,G,,0.1353,80,3.6875,23.0218
+S-G,link,Grade G,G,,0.1353,81,2.5,23.0218
+N-SRC,node,Source,,,20.9218,0,0,0
+N-SRC,node,Source,,,20.9218,1,2.5,0
+N-SRC,node,Source,,,20.9218,2,2.5,23.0218
+N-SRC,node,Source,,,20.9218,3,0,23.0218
+L-A-Paid off,link,Paid off,A,Paid off,1.133,0,52.5,-0.0011
+L-A-Paid off,link,Paid off,A,Paid off,1.133,1,53.6875,-0.0015
+L-A-Paid off,link,Paid off,A,Paid off,1.133,2,54.875,-0.002
+L-A-Paid off,link,Paid off,A,Paid off,1.133,3,56.0625,-0.0027
+L-A-Paid off,link,Paid off,A,Paid off,1.133,4,57.25,-0.0037
+L-A-Paid off,link,Paid off,A,Paid off,1.133,5,58.4375,-0.0049
+L-A-Paid off,link,Paid off,A,Paid off,1.133,6,59.625,-0.0066
+L-A-Paid off,link,Paid off,A,Paid off,1.133,7,60.8125,-0.0089
+L-A-Paid off,link,Paid off,A,Paid off,1.133,8,62.0,-0.012
+L-A-Paid off,link,Paid off,A,Paid off,1.133,9,63.1875,-0.016
+L-A-Paid off,link,Paid off,A,Paid off,1.133,10,64.375,-0.0213
+L-A-Paid off,link,Paid off,A,Paid off,1.133,11,65.5625,-0.0283
+L-A-Paid off,link,Paid off,A,Paid off,1.133,12,66.75,-0.0374
+L-A-Paid off,link,Paid off,A,Paid off,1.133,13,67.9375,-0.0491
+L-A-Paid off,link,Paid off,A,Paid off,1.133,14,69.125,-0.0638
+L-A-Paid off,link,Paid off,A,Paid off,1.133,15,70.3125,-0.0821
+L-A-Paid off,link,Paid off,A,Paid off,1.133,16,71.5,-0.1042
+L-A-Paid off,link,Paid off,A,Paid off,1.133,17,72.6875,-0.1301
+L-A-Paid off,link,Paid off,A,Paid off,1.133,18,73.875,-0.1595
+L-A-Paid off,link,Paid off,A,Paid off,1.133,19,75.0625,-0.1915
+L-A-Paid off,link,Paid off,A,Paid off,1.133,20,76.25,-0.225
+L-A-Paid off,link,Paid off,A,Paid off,1.133,21,77.4375,-0.2585
+L-A-Paid off,link,Paid off,A,Paid off,1.133,22,78.625,-0.2905
+L-A-Paid off,link,Paid off,A,Paid off,1.133,23,79.8125,-0.3199
+L-A-Paid off,link,Paid off,A,Paid off,1.133,24,81.0,-0.3458
+L-A-Paid off,link,Paid off,A,Paid off,1.133,25,82.1875,-0.3679
+L-A-Paid off,link,Paid off,A,Paid off,1.133,26,83.375,-0.3862
+L-A-Paid off,link,Paid off,A,Paid off,1.133,27,84.5625,-0.4009
+L-A-Paid off,link,Paid off,A,Paid off,1.133,28,85.75,-0.4126
+L-A-Paid off,link,Paid off,A,Paid off,1.133,29,86.9375,-0.4217
+L-A-Paid off,link,Paid off,A,Paid off,1.133,30,88.125,-0.4287
+L-A-Paid off,link,Paid off,A,Paid off,1.133,31,89.3125,-0.434
+L-A-Paid off,link,Paid off,A,Paid off,1.133,32,90.5,-0.438
+L-A-Paid off,link,Paid off,A,Paid off,1.133,33,91.6875,-0.4411
+L-A-Paid off,link,Paid off,A,Paid off,1.133,34,92.875,-0.4434
+L-A-Paid off,link,Paid off,A,Paid off,1.133,35,94.0625,-0.4451
+L-A-Paid off,link,Paid off,A,Paid off,1.133,36,95.25,-0.4463
+L-A-Paid off,link,Paid off,A,Paid off,1.133,37,96.4375,-0.4473
+L-A-Paid off,link,Paid off,A,Paid off,1.133,38,97.625,-0.448
+L-A-Paid off,link,Paid off,A,Paid off,1.133,39,98.8125,-0.4485
+L-A-Paid off,link,Paid off,A,Paid off,1.133,40,100.0,-0.4489
+L-A-Paid off,link,Paid off,A,Paid off,1.133,41,100.0,0.6842
+L-A-Paid off,link,Paid off,A,Paid off,1.133,42,98.8125,0.6845
+L-A-Paid off,link,Paid off,A,Paid off,1.133,43,97.625,0.6851
+L-A-Paid off,link,Paid off,A,Paid off,1.133,44,96.4375,0.6858
+L-A-Paid off,link,Paid off,A,Paid off,1.133,45,95.25,0.6867
+L-A-Paid off,link,Paid off,A,Paid off,1.133,46,94.0625,0.688
+L-A-Paid off,link,Paid off,A,Paid off,1.133,47,92.875,0.6897
+L-A-Paid off,link,Paid off,A,Paid off,1.133,48,91.6875,0.692
+L-A-Paid off,link,Paid off,A,Paid off,1.133,49,90.5,0.695
+L-A-Paid off,link,Paid off,A,Paid off,1.133,50,89.3125,0.699
+L-A-Paid off,link,Paid off,A,Paid off,1.133,51,88.125,0.7044
+L-A-Paid off,link,Paid off,A,Paid off,1.133,52,86.9375,0.7114
+L-A-Paid off,link,Paid off,A,Paid off,1.133,53,85.75,0.7205
+L-A-Paid off,link,Paid off,A,Paid off,1.133,54,84.5625,0.7321
+L-A-Paid off,link,Paid off,A,Paid off,1.133,55,83.375,0.7469
+L-A-Paid off,link,Paid off,A,Paid off,1.133,56,82.1875,0.7651
+L-A-Paid off,link,Paid off,A,Paid off,1.133,57,81.0,0.7872
+L-A-Paid off,link,Paid off,A,Paid off,1.133,58,79.8125,0.8131
+L-A-Paid off,link,Paid off,A,Paid off,1.133,59,78.625,0.8425
+L-A-Paid off,link,Paid off,A,Paid off,1.133,60,77.4375,0.8745
+L-A-Paid off,link,Paid off,A,Paid off,1.133,61,76.25,0.908
+L-A-Paid off,link,Paid off,A,Paid off,1.133,62,75.0625,0.9415
+L-A-Paid off,link,Paid off,A,Paid off,1.133,63,73.875,0.9736
+L-A-Paid off,link,Paid off,A,Paid off,1.133,64,72.6875,1.003
+L-A-Paid off,link,Paid off,A,Paid off,1.133,65,71.5,1.0289
+L-A-Paid off,link,Paid off,A,Paid off,1.133,66,70.3125,1.0509
+L-A-Paid off,link,Paid off,A,Paid off,1.133,67,69.125,1.0692
+L-A-Paid off,link,Paid off,A,Paid off,1.133,68,67.9375,1.0839
+L-A-Paid off,link,Paid off,A,Paid off,1.133,69,66.75,1.0956
+L-A-Paid off,link,Paid off,A,Paid off,1.133,70,65.5625,1.1047
+L-A-Paid off,link,Paid off,A,Paid off,1.133,71,64.375,1.1117
+L-A-Paid off,link,Paid off,A,Paid off,1.133,72,63.1875,1.117
+L-A-Paid off,link,Paid off,A,Paid off,1.133,73,62.0,1.1211
+L-A-Paid off,link,Paid off,A,Paid off,1.133,74,60.8125,1.1241
+L-A-Paid off,link,Paid off,A,Paid off,1.133,75,59.625,1.1264
+L-A-Paid off,link,Paid off,A,Paid off,1.133,76,58.4375,1.1281
+L-A-Paid off,link,Paid off,A,Paid off,1.133,77,57.25,1.1294
+L-A-Paid off,link,Paid off,A,Paid off,1.133,78,56.0625,1.1303
+L-A-Paid off,link,Paid off,A,Paid off,1.133,79,54.875,1.131
+L-A-Paid off,link,Paid off,A,Paid off,1.133,80,53.6875,1.1315
+L-A-Paid off,link,Paid off,A,Paid off,1.133,81,52.5,1.1319
+L-A-Still paying,link,Still paying,A,Still paying,2.9875,0,52.5,1.1456
+L-A-Still paying,link,Still paying,A,Still paying,2.9875,1,53.6875,1.15
+L-A-Still paying,link,Still paying,A,Still paying,2.9875,2,54.875,1.1559
+L-A-Still paying,link,Still paying,A,Still paying,2.9875,3,56.0625,1.1639
+L-A-Still paying,link,Still paying,A,Still paying,2.9875,4,57.25,1.1746
+L-A-Still paying,link,Still paying,A,Still paying,2.9875,5,58.4375,1.189
+L-A-Still paying,link,Still paying,A,Still paying,2.9875,6,59.625,1.2083
+L-A-Still paying,link,Still paying,A,Still paying,2.9875,7,60.8125,1.2341
+L-A-Still paying,link,Still paying,A,Still paying,2.9875,8,62.0,1.2686
+L-A-Still paying,link,Still paying,A,Still paying,2.9875,9,63.1875,1.3143
+L-A-Still paying,link,Still paying,A,Still paying,2.9875,10,64.375,1.3747
+L-A-Still paying,link,Still paying,A,Still paying,2.9875,11,65.5625,1.4539
+L-A-Still paying,link,Still paying,A,Still paying,2.9875,12,66.75,1.5568
+L-A-Still paying,link,Still paying,A,Still paying,2.9875,13,67.9375,1.6889
+L-A-Still paying,link,Still paying,A,Still paying,2.9875,14,69.125,1.8558
+L-A-Still paying,link,Still paying,A,Still paying,2.9875,15,70.3125,2.0626
+L-A-Still paying,link,Still paying,A,Still paying,2.9875,16,71.5,2.3125
+L-A-Still paying,link,Still paying,A,Still paying,2.9875,17,72.6875,2.6058
+L-A-Still paying,link,Still paying,A,Still paying,2.9875,18,73.875,2.9385
+L-A-Still paying,link,Still paying,A,Still paying,2.9875,19,75.0625,3.3014
+L-A-Still paying,link,Still paying,A,Still paying,2.9875,20,76.25,3.6807
+L-A-Still paying,link,Still paying,A,Still paying,2.9875,21,77.4375,4.06
+L-A-Still paying,link,Still paying,A,Still paying,2.9875,22,78.625,4.4229
+L-A-Still paying,link,Still paying,A,Still paying,2.9875,23,79.8125,4.7556
+L-A-Still paying,link,Still paying,A,Still paying,2.9875,24,81.0,5.0489
+L-A-Still paying,link,Still paying,A,Still paying,2.9875,25,82.1875,5.2988
+L-A-Still paying,link,Still paying,A,Still paying,2.9875,26,83.375,5.5056
+L-A-Still paying,link,Still paying,A,Still paying,2.9875,27,84.5625,5.6725
+L-A-Still paying,link,Still paying,A,Still paying,2.9875,28,85.75,5.8046
+L-A-Still paying,link,Still paying,A,Still paying,2.9875,29,86.9375,5.9075
+L-A-Still paying,link,Still paying,A,Still paying,2.9875,30,88.125,5.9867
+L-A-Still paying,link,Still paying,A,Still paying,2.9875,31,89.3125,6.0471
+L-A-Still paying,link,Still paying,A,Still paying,2.9875,32,90.5,6.0928
+L-A-Still paying,link,Still paying,A,Still paying,2.9875,33,91.6875,6.1273
+L-A-Still paying,link,Still paying,A,Still paying,2.9875,34,92.875,6.1531
+L-A-Still paying,link,Still paying,A,Still paying,2.9875,35,94.0625,6.1724
+L-A-Still paying,link,Still paying,A,Still paying,2.9875,36,95.25,6.1868
+L-A-Still paying,link,Still paying,A,Still paying,2.9875,37,96.4375,6.1975
+L-A-Still paying,link,Still paying,A,Still paying,2.9875,38,97.625,6.2054
+L-A-Still paying,link,Still paying,A,Still paying,2.9875,39,98.8125,6.2114
+L-A-Still paying,link,Still paying,A,Still paying,2.9875,40,100.0,6.2158
+L-A-Still paying,link,Still paying,A,Still paying,2.9875,41,100.0,9.2033
+L-A-Still paying,link,Still paying,A,Still paying,2.9875,42,98.8125,9.1989
+L-A-Still paying,link,Still paying,A,Still paying,2.9875,43,97.625,9.193
+L-A-Still paying,link,Still paying,A,Still paying,2.9875,44,96.4375,9.185
+L-A-Still paying,link,Still paying,A,Still paying,2.9875,45,95.25,9.1743
+L-A-Still paying,link,Still paying,A,Still paying,2.9875,46,94.0625,9.1599
+L-A-Still paying,link,Still paying,A,Still paying,2.9875,47,92.875,9.1406
+L-A-Still paying,link,Still paying,A,Still paying,2.9875,48,91.6875,9.1148
+L-A-Still paying,link,Still paying,A,Still paying,2.9875,49,90.5,9.0804
+L-A-Still paying,link,Still paying,A,Still paying,2.9875,50,89.3125,9.0347
+L-A-Still paying,link,Still paying,A,Still paying,2.9875,51,88.125,8.9743
+L-A-Still paying,link,Still paying,A,Still paying,2.9875,52,86.9375,8.895
+L-A-Still paying,link,Still paying,A,Still paying,2.9875,53,85.75,8.7921
+L-A-Still paying,link,Still paying,A,Still paying,2.9875,54,84.5625,8.66
+L-A-Still paying,link,Still paying,A,Still paying,2.9875,55,83.375,8.4931
+L-A-Still paying,link,Still paying,A,Still paying,2.9875,56,82.1875,8.2864
+L-A-Still paying,link,Still paying,A,Still paying,2.9875,57,81.0,8.0365
+L-A-Still paying,link,Still paying,A,Still paying,2.9875,58,79.8125,7.7431
+L-A-Still paying,link,Still paying,A,Still paying,2.9875,59,78.625,7.4104
+L-A-Still paying,link,Still paying,A,Still paying,2.9875,60,77.4375,7.0475
+L-A-Still paying,link,Still paying,A,Still paying,2.9875,61,76.25,6.6682
+L-A-Still paying,link,Still paying,A,Still paying,2.9875,62,75.0625,6.2889
+L-A-Still paying,link,Still paying,A,Still paying,2.9875,63,73.875,5.9261
+L-A-Still paying,link,Still paying,A,Still paying,2.9875,64,72.6875,5.5934
+L-A-Still paying,link,Still paying,A,Still paying,2.9875,65,71.5,5.3
+L-A-Still paying,link,Still paying,A,Still paying,2.9875,66,70.3125,5.0501
+L-A-Still paying,link,Still paying,A,Still paying,2.9875,67,69.125,4.8434
+L-A-Still paying,link,Still paying,A,Still paying,2.9875,68,67.9375,4.6765
+L-A-Still paying,link,Still paying,A,Still paying,2.9875,69,66.75,4.5444
+L-A-Still paying,link,Still paying,A,Still paying,2.9875,70,65.5625,4.4415
+L-A-Still paying,link,Still paying,A,Still paying,2.9875,71,64.375,4.3622
+L-A-Still paying,link,Still paying,A,Still paying,2.9875,72,63.1875,4.3018
+L-A-Still paying,link,Still paying,A,Still paying,2.9875,73,62.0,4.2561
+L-A-Still paying,link,Still paying,A,Still paying,2.9875,74,60.8125,4.2217
+L-A-Still paying,link,Still paying,A,Still paying,2.9875,75,59.625,4.1959
+L-A-Still paying,link,Still paying,A,Still paying,2.9875,76,58.4375,4.1766
+L-A-Still paying,link,Still paying,A,Still paying,2.9875,77,57.25,4.1622
+L-A-Still paying,link,Still paying,A,Still paying,2.9875,78,56.0625,4.1515
+L-A-Still paying,link,Still paying,A,Still paying,2.9875,79,54.875,4.1435
+L-A-Still paying,link,Still paying,A,Still paying,2.9875,80,53.6875,4.1376
+L-A-Still paying,link,Still paying,A,Still paying,2.9875,81,52.5,4.1332
+L-A-Late,link,Late,A,Late,0.0368,0,52.5,4.1601
+L-A-Late,link,Late,A,Late,0.0368,1,53.6875,4.1739
+L-A-Late,link,Late,A,Late,0.0368,2,54.875,4.1925
+L-A-Late,link,Late,A,Late,0.0368,3,56.0625,4.2175
+L-A-Late,link,Late,A,Late,0.0368,4,57.25,4.2512
+L-A-Late,link,Late,A,Late,0.0368,5,58.4375,4.2964
+L-A-Late,link,Late,A,Late,0.0368,6,59.625,4.3569
+L-A-Late,link,Late,A,Late,0.0368,7,60.8125,4.438
+L-A-Late,link,Late,A,Late,0.0368,8,62.0,4.5461
+L-A-Late,link,Late,A,Late,0.0368,9,63.1875,4.6897
+L-A-Late,link,Late,A,Late,0.0368,10,64.375,4.8793
+L-A-Late,link,Late,A,Late,0.0368,11,65.5625,5.128
+L-A-Late,link,Late,A,Late,0.0368,12,66.75,5.4512
+L-A-Late,link,Late,A,Late,0.0368,13,67.9375,5.8659
+L-A-Late,link,Late,A,Late,0.0368,14,69.125,6.3899
+L-A-Late,link,Late,A,Late,0.0368,15,70.3125,7.039
+L-A-Late,link,Late,A,Late,0.0368,16,71.5,7.8237
+L-A-Late,link,Late,A,Late,0.0368,17,72.6875,8.7448
+L-A-Late,link,Late,A,Late,0.0368,18,73.875,9.7894
+L-A-Late,link,Late,A,Late,0.0368,19,75.0625,10.9287
+L-A-Late,link,Late,A,Late,0.0368,20,76.25,12.1196
+L-A-Late,link,Late,A,Late,0.0368,21,77.4375,13.3105
+L-A-Late,link,Late,A,Late,0.0368,22,78.625,14.4498
+L-A-Late,link,Late,A,Late,0.0368,23,79.8125,15.4944
+L-A-Late,link,Late,A,Late,0.0368,24,81.0,16.4155
+L-A-Late,link,Late,A,Late,0.0368,25,82.1875,17.2002
+L-A-Late,link,Late,A,Late,0.0368,26,83.375,17.8493
+L-A-Late,link,Late,A,Late,0.0368,27,84.5625,18.3733
+L-A-Late,link,Late,A,Late,0.0368,28,85.75,18.788
+L-A-Late,link,Late,A,Late,0.0368,29,86.9375,19.1112
+L-A-Late,link,Late,A,Late,0.0368,30,88.125,19.3599
+L-A-Late,link,Late,A,Late,0.0368,31,89.3125,19.5495
+L-A-Late,link,Late,A,Late,0.0368,32,90.5,19.6931
+L-A-Late,link,Late,A,Late,0.0368,33,91.6875,19.8012
+L-A-Late,link,Late,A,Late,0.0368,34,92.875,19.8823
+L-A-Late,link,Late,A,Late,0.0368,35,94.0625,19.9428
+L-A-Late,link,Late,A,Late,0.0368,36,95.25,19.988
+L-A-Late,link,Late,A,Late,0.0368,37,96.4375,20.0217
+L-A-Late,link,Late,A,Late,0.0368,38,97.625,20.0467
+L-A-Late,link,Late,A,Late,0.0368,39,98.8125,20.0653
+L-A-Late,link,Late,A,Late,0.0368,40,100.0,20.0791
+L-A-Late,link,Late,A,Late,0.0368,41,100.0,20.1158
+L-A-Late,link,Late,A,Late,0.0368,42,98.8125,20.102
+L-A-Late,link,Late,A,Late,0.0368,43,97.625,20.0834
+L-A-Late,link,Late,A,Late,0.0368,44,96.4375,20.0584
+L-A-Late,link,Late,A,Late,0.0368,45,95.25,20.0248
+L-A-Late,link,Late,A,Late,0.0368,46,94.0625,19.9796
+L-A-Late,link,Late,A,Late,0.0368,47,92.875,19.919
+L-A-Late,link,Late,A,Late,0.0368,48,91.6875,19.838
+L-A-Late,link,Late,A,Late,0.0368,49,90.5,19.7299
+L-A-Late,link,Late,A,Late,0.0368,50,89.3125,19.5863
+L-A-Late,link,Late,A,Late,0.0368,51,88.125,19.3967
+L-A-Late,link,Late,A,Late,0.0368,52,86.9375,19.1479
+L-A-Late,link,Late,A,Late,0.0368,53,85.75,18.8248
+L-A-Late,link,Late,A,Late,0.0368,54,84.5625,18.41
+L-A-Late,link,Late,A,Late,0.0368,55,83.375,17.886
+L-A-Late,link,Late,A,Late,0.0368,56,82.1875,17.2369
+L-A-Late,link,Late,A,Late,0.0368,57,81.0,16.4522
+L-A-Late,link,Late,A,Late,0.0368,58,79.8125,15.5311
+L-A-Late,link,Late,A,Late,0.0368,59,78.625,14.4866
+L-A-Late,link,Late,A,Late,0.0368,60,77.4375,13.3473
+L-A-Late,link,Late,A,Late,0.0368,61,76.25,12.1564
+L-A-Late,link,Late,A,Late,0.0368,62,75.0625,10.9654
+L-A-Late,link,Late,A,Late,0.0368,63,73.875,9.8261
+L-A-Late,link,Late,A,Late,0.0368,64,72.6875,8.7816
+L-A-Late,link,Late,A,Late,0.0368,65,71.5,7.8605
+L-A-Late,link,Late,A,Late,0.0368,66,70.3125,7.0758
+L-A-Late,link,Late,A,Late,0.0368,67,69.125,6.4267
+L-A-Late,link,Late,A,Late,0.0368,68,67.9375,5.9027
+L-A-Late,link,Late,A,Late,0.0368,69,66.75,5.4879
+L-A-Late,link,Late,A,Late,0.0368,70,65.5625,5.1648
+L-A-Late,link,Late,A,Late,0.0368,71,64.375,4.9161
+L-A-Late,link,Late,A,Late,0.0368,72,63.1875,4.7264
+L-A-Late,link,Late,A,Late,0.0368,73,62.0,4.5828
+L-A-Late,link,Late,A,Late,0.0368,74,60.8125,4.4747
+L-A-Late,link,Late,A,Late,0.0368,75,59.625,4.3937
+L-A-Late,link,Late,A,Late,0.0368,76,58.4375,4.3331
+L-A-Late,link,Late,A,Late,0.0368,77,57.25,4.2879
+L-A-Late,link,Late,A,Late,0.0368,78,56.0625,4.2543
+L-A-Late,link,Late,A,Late,0.0368,79,54.875,4.2293
+L-A-Late,link,Late,A,Late,0.0368,80,53.6875,4.2107
+L-A-Late,link,Late,A,Late,0.0368,81,52.5,4.1969
+L-A-Charged off,link,Charged off,A,Charged off,0.0856,0,52.5,4.2006
+L-A-Charged off,link,Charged off,A,Charged off,0.0856,1,53.6875,4.2157
+L-A-Charged off,link,Charged off,A,Charged off,0.0856,2,54.875,4.236
+L-A-Charged off,link,Charged off,A,Charged off,0.0856,3,56.0625,4.2633
+L-A-Charged off,link,Charged off,A,Charged off,0.0856,4,57.25,4.3001
+L-A-Charged off,link,Charged off,A,Charged off,0.0856,5,58.4375,4.3495
+L-A-Charged off,link,Charged off,A,Charged off,0.0856,6,59.625,4.4158
+L-A-Charged off,link,Charged off,A,Charged off,0.0856,7,60.8125,4.5044
+L-A-Charged off,link,Charged off,A,Charged off,0.0856,8,62.0,4.6226
+L-A-Charged off,link,Charged off,A,Charged off,0.0856,9,63.1875,4.7796
+L-A-Charged off,link,Charged off,A,Charged off,0.0856,10,64.375,4.987
+L-A-Charged off,link,Charged off,A,Charged off,0.0856,11,65.5625,5.2589
+L-A-Charged off,link,Charged off,A,Charged off,0.0856,12,66.75,5.6123
+L-A-Charged off,link,Charged off,A,Charged off,0.0856,13,67.9375,6.0658
+L-A-Charged off,link,Charged off,A,Charged off,0.0856,14,69.125,6.6387
+L-A-Charged off,link,Charged off,A,Charged off,0.0856,15,70.3125,7.3485
+L-A-Charged off,link,Charged off,A,Charged off,0.0856,16,71.5,8.2065
+L-A-Charged off,link,Charged off,A,Charged off,0.0856,17,72.6875,9.2137
+L-A-Charged off,link,Charged off,A,Charged off,0.0856,18,73.875,10.3558
+L-A-Charged off,link,Charged off,A,Charged off,0.0856,19,75.0625,11.6015
+L-A-Charged off,link,Charged off,A,Charged off,0.0856,20,76.25,12.9038
+L-A-Charged off,link,Charged off,A,Charged off,0.0856,21,77.4375,14.206
+L-A-Charged off,link,Charged off,A,Charged off,0.0856,22,78.625,15.4517
+L-A-Charged off,link,Charged off,A,Charged off,0.0856,23,79.8125,16.5939
+L-A-Charged off,link,Charged off,A,Charged off,0.0856,24,81.0,17.601
+L-A-Charged off,link,Charged off,A,Charged off,0.0856,25,82.1875,18.459
+L-A-Charged off,link,Charged off,A,Charged off,0.0856,26,83.375,19.1688
+L-A-Charged off,link,Charged off,A,Charged off,0.0856,27,84.5625,19.7418
+L-A-Charged off,link,Charged off,A,Charged off,0.0856,28,85.75,20.1953
+L-A-Charged off,link,Charged off,A,Charged off,0.0856,29,86.9375,20.5486
+L-A-Charged off,link,Charged off,A,Charged off,0.0856,30,88.125,20.8206
+L-A-Charged off,link,Charged off,A,Charged off,0.0856,31,89.3125,21.0279
+L-A-Charged off,link,Charged off,A,Charged off,0.0856,32,90.5,21.1849
+L-A-Charged off,link,Charged off,A,Charged off,0.0856,33,91.6875,21.3031
+L-A-Charged off,link,Charged off,A,Charged off,0.0856,34,92.875,21.3917
+L-A-Charged off,link,Charged off,A,Charged off,0.0856,35,94.0625,21.458
+L-A-Charged off,link,Charged off,A,Charged off,0.0856,36,95.25,21.5074
+L-A-Charged off,link,Charged off,A,Charged off,0.0856,37,96.4375,21.5442
+L-A-Charged off,link,Charged off,A,Charged off,0.0856,38,97.625,21.5715
+L-A-Charged off,link,Charged off,A,Charged off,0.0856,39,98.8125,21.5918
+L-A-Charged off,link,Charged off,A,Charged off,0.0856,40,100.0,21.6069
+L-A-Charged off,link,Charged off,A,Charged off,0.0856,41,100.0,21.6925
+L-A-Charged off,link,Charged off,A,Charged off,0.0856,42,98.8125,21.6775
+L-A-Charged off,link,Charged off,A,Charged off,0.0856,43,97.625,21.6571
+L-A-Charged off,link,Charged off,A,Charged off,0.0856,44,96.4375,21.6298
+L-A-Charged off,link,Charged off,A,Charged off,0.0856,45,95.25,21.593
+L-A-Charged off,link,Charged off,A,Charged off,0.0856,46,94.0625,21.5436
+L-A-Charged off,link,Charged off,A,Charged off,0.0856,47,92.875,21.4774
+L-A-Charged off,link,Charged off,A,Charged off,0.0856,48,91.6875,21.3887
+L-A-Charged off,link,Charged off,A,Charged off,0.0856,49,90.5,21.2705
+L-A-Charged off,link,Charged off,A,Charged off,0.0856,50,89.3125,21.1136
+L-A-Charged off,link,Charged off,A,Charged off,0.0856,51,88.125,20.9062
+L-A-Charged off,link,Charged off,A,Charged off,0.0856,52,86.9375,20.6342
+L-A-Charged off,link,Charged off,A,Charged off,0.0856,53,85.75,20.2809
+L-A-Charged off,link,Charged off,A,Charged off,0.0856,54,84.5625,19.8274
+L-A-Charged off,link,Charged off,A,Charged off,0.0856,55,83.375,19.2544
+L-A-Charged off,link,Charged off,A,Charged off,0.0856,56,82.1875,18.5447
+L-A-Charged off,link,Charged off,A,Charged off,0.0856,57,81.0,17.6866
+L-A-Charged off,link,Charged off,A,Charged off,0.0856,58,79.8125,16.6795
+L-A-Charged off,link,Charged off,A,Charged off,0.0856,59,78.625,15.5373
+L-A-Charged off,link,Charged off,A,Charged off,0.0856,60,77.4375,14.2916
+L-A-Charged off,link,Charged off,A,Charged off,0.0856,61,76.25,12.9894
+L-A-Charged off,link,Charged off,A,Charged off,0.0856,62,75.0625,11.6872
+L-A-Charged off,link,Charged off,A,Charged off,0.0856,63,73.875,10.4414
+L-A-Charged off,link,Charged off,A,Charged off,0.0856,64,72.6875,9.2993
+L-A-Charged off,link,Charged off,A,Charged off,0.0856,65,71.5,8.2921
+L-A-Charged off,link,Charged off,A,Charged off,0.0856,66,70.3125,7.4341
+L-A-Charged off,link,Charged off,A,Charged off,0.0856,67,69.125,6.7243
+L-A-Charged off,link,Charged off,A,Charged off,0.0856,68,67.9375,6.1514
+L-A-Charged off,link,Charged off,A,Charged off,0.0856,69,66.75,5.6979
+L-A-Charged off,link,Charged off,A,Charged off,0.0856,70,65.5625,5.3445
+L-A-Charged off,link,Charged off,A,Charged off,0.0856,71,64.375,5.0726
+L-A-Charged off,link,Charged off,A,Charged off,0.0856,72,63.1875,4.8652
+L-A-Charged off,link,Charged off,A,Charged off,0.0856,73,62.0,4.7082
+L-A-Charged off,link,Charged off,A,Charged off,0.0856,74,60.8125,4.59
+L-A-Charged off,link,Charged off,A,Charged off,0.0856,75,59.625,4.5014
+L-A-Charged off,link,Charged off,A,Charged off,0.0856,76,58.4375,4.4351
+L-A-Charged off,link,Charged off,A,Charged off,0.0856,77,57.25,4.3857
+L-A-Charged off,link,Charged off,A,Charged off,0.0856,78,56.0625,4.349
+L-A-Charged off,link,Charged off,A,Charged off,0.0856,79,54.875,4.3216
+L-A-Charged off,link,Charged off,A,Charged off,0.0856,80,53.6875,4.3013
+L-A-Charged off,link,Charged off,A,Charged off,0.0856,81,52.5,4.2862
+N-A,node,Grade A,A,,4.243,0,50,0.0
+N-A,node,Grade A,A,,4.243,1,52.5,0.0
+N-A,node,Grade A,A,,4.243,2,52.5,4.243
+N-A,node,Grade A,A,,4.243,3,50,4.243
+L-B-Paid off,link,Paid off,B,Paid off,1.6687,0,52.5,4.5833
+L-B-Paid off,link,Paid off,B,Paid off,1.6687,1,53.6875,4.5799
+L-B-Paid off,link,Paid off,B,Paid off,1.6687,2,54.875,4.5754
+L-B-Paid off,link,Paid off,B,Paid off,1.6687,3,56.0625,4.5693
+L-B-Paid off,link,Paid off,B,Paid off,1.6687,4,57.25,4.561
+L-B-Paid off,link,Paid off,B,Paid off,1.6687,5,58.4375,4.55
+L-B-Paid off,link,Paid off,B,Paid off,1.6687,6,59.625,4.5352
+L-B-Paid off,link,Paid off,B,Paid off,1.6687,7,60.8125,4.5154
+L-B-Paid off,link,Paid off,B,Paid off,1.6687,8,62.0,4.489
+L-B-Paid off,link,Paid off,B,Paid off,1.6687,9,63.1875,4.4539
+L-B-Paid off,link,Paid off,B,Paid off,1.6687,10,64.375,4.4075
+L-B-Paid off,link,Paid off,B,Paid off,1.6687,11,65.5625,4.3467
+L-B-Paid off,link,Paid off,B,Paid off,1.6687,12,66.75,4.2678
+L-B-Paid off,link,Paid off,B,Paid off,1.6687,13,67.9375,4.1664
+L-B-Paid off,link,Paid off,B,Paid off,1.6687,14,69.125,4.0383
+L-B-Paid off,link,Paid off,B,Paid off,1.6687,15,70.3125,3.8797
+L-B-Paid off,link,Paid off,B,Paid off,1.6687,16,71.5,3.6879
+L-B-Paid off,link,Paid off,B,Paid off,1.6687,17,72.6875,3.4628
+L-B-Paid off,link,Paid off,B,Paid off,1.6687,18,73.875,3.2075
+L-B-Paid off,link,Paid off,B,Paid off,1.6687,19,75.0625,2.9291
+L-B-Paid off,link,Paid off,B,Paid off,1.6687,20,76.25,2.638
+L-B-Paid off,link,Paid off,B,Paid off,1.6687,21,77.4375,2.3469
+L-B-Paid off,link,Paid off,B,Paid off,1.6687,22,78.625,2.0685
+L-B-Paid off,link,Paid off,B,Paid off,1.6687,23,79.8125,1.8132
+L-B-Paid off,link,Paid off,B,Paid off,1.6687,24,81.0,1.5881
+L-B-Paid off,link,Paid off,B,Paid off,1.6687,25,82.1875,1.3963
+L-B-Paid off,link,Paid off,B,Paid off,1.6687,26,83.375,1.2377
+L-B-Paid off,link,Paid off,B,Paid off,1.6687,27,84.5625,1.1096
+L-B-Paid off,link,Paid off,B,Paid off,1.6687,28,85.75,1.0082
+L-B-Paid off,link,Paid off,B,Paid off,1.6687,29,86.9375,0.9293
+L-B-Paid off,link,Paid off,B,Paid off,1.6687,30,88.125,0.8685
+L-B-Paid off,link,Paid off,B,Paid off,1.6687,31,89.3125,0.8221
+L-B-Paid off,link,Paid off,B,Paid off,1.6687,32,90.5,0.787
+L-B-Paid off,link,Paid off,B,Paid off,1.6687,33,91.6875,0.7606
+L-B-Paid off,link,Paid off,B,Paid off,1.6687,34,92.875,0.7408
+L-B-Paid off,link,Paid off,B,Paid off,1.6687,35,94.0625,0.726
+L-B-Paid off,link,Paid off,B,Paid off,1.6687,36,95.25,0.715
+L-B-Paid off,link,Paid off,B,Paid off,1.6687,37,96.4375,0.7067
+L-B-Paid off,link,Paid off,B,Paid off,1.6687,38,97.625,0.7006
+L-B-Paid off,link,Paid off,B,Paid off,1.6687,39,98.8125,0.6961
+L-B-Paid off,link,Paid off,B,Paid off,1.6687,40,100.0,0.6927
+L-B-Paid off,link,Paid off,B,Paid off,1.6687,41,100.0,2.3614
+L-B-Paid off,link,Paid off,B,Paid off,1.6687,42,98.8125,2.3648
+L-B-Paid off,link,Paid off,B,Paid off,1.6687,43,97.625,2.3694
+L-B-Paid off,link,Paid off,B,Paid off,1.6687,44,96.4375,2.3755
+L-B-Paid off,link,Paid off,B,Paid off,1.6687,45,95.25,2.3837
+L-B-Paid off,link,Paid off,B,Paid off,1.6687,46,94.0625,2.3947
+L-B-Paid off,link,Paid off,B,Paid off,1.6687,47,92.875,2.4095
+L-B-Paid off,link,Paid off,B,Paid off,1.6687,48,91.6875,2.4294
+L-B-Paid off,link,Paid off,B,Paid off,1.6687,49,90.5,2.4558
+L-B-Paid off,link,Paid off,B,Paid off,1.6687,50,89.3125,2.4909
+L-B-Paid off,link,Paid off,B,Paid off,1.6687,51,88.125,2.5372
+L-B-Paid off,link,Paid off,B,Paid off,1.6687,52,86.9375,2.598
+L-B-Paid off,link,Paid off,B,Paid off,1.6687,53,85.75,2.677
+L-B-Paid off,link,Paid off,B,Paid off,1.6687,54,84.5625,2.7783
+L-B-Paid off,link,Paid off,B,Paid off,1.6687,55,83.375,2.9064
+L-B-Paid off,link,Paid off,B,Paid off,1.6687,56,82.1875,3.065
+L-B-Paid off,link,Paid off,B,Paid off,1.6687,57,81.0,3.2568
+L-B-Paid off,link,Paid off,B,Paid off,1.6687,58,79.8125,3.4819
+L-B-Paid off,link,Paid off,B,Paid off,1.6687,59,78.625,3.7372
+L-B-Paid off,link,Paid off,B,Paid off,1.6687,60,77.4375,4.0157
+L-B-Paid off,link,Paid off,B,Paid off,1.6687,61,76.25,4.3067
+L-B-Paid off,link,Paid off,B,Paid off,1.6687,62,75.0625,4.5978
+L-B-Paid off,link,Paid off,B,Paid off,1.6687,63,73.875,4.8762
+L-B-Paid off,link,Paid off,B,Paid off,1.6687,64,72.6875,5.1315
+L-B-Paid off,link,Paid off,B,Paid off,1.6687,65,71.5,5.3566
+L-B-Paid off,link,Paid off,B,Paid off,1.6687,66,70.3125,5.5484
+L-B-Paid off,link,Paid off,B,Paid off,1.6687,67,69.125,5.7071
+L-B-Paid off,link,Paid off,B,Paid off,1.6687,68,67.9375,5.8351
+L-B-Paid off,link,Paid off,B,Paid off,1.6687,69,66.75,5.9365
+L-B-Paid off,link,Paid off,B,Paid off,1.6687,70,65.5625,6.0155
+L-B-Paid off,link,Paid off,B,Paid off,1.6687,71,64.375,6.0763
+L-B-Paid off,link,Paid off,B,Paid off,1.6687,72,63.1875,6.1226
+L-B-Paid off,link,Paid off,B,Paid off,1.6687,73,62.0,6.1577
+L-B-Paid off,link,Paid off,B,Paid off,1.6687,74,60.8125,6.1841
+L-B-Paid off,link,Paid off,B,Paid off,1.6687,75,59.625,6.2039
+L-B-Paid off,link,Paid off,B,Paid off,1.6687,76,58.4375,6.2187
+L-B-Paid off,link,Paid off,B,Paid off,1.6687,77,57.25,6.2298
+L-B-Paid off,link,Paid off,B,Paid off,1.6687,78,56.0625,6.238
+L-B-Paid off,link,Paid off,B,Paid off,1.6687,79,54.875,6.2441
+L-B-Paid off,link,Paid off,B,Paid off,1.6687,80,53.6875,6.2487
+L-B-Paid off,link,Paid off,B,Paid off,1.6687,81,52.5,6.252
+L-B-Still paying,link,Still paying,B,Still paying,3.8289,0,52.5,6.269
+L-B-Still paying,link,Still paying,B,Still paying,3.8289,1,53.6875,6.2715
+L-B-Still paying,link,Still paying,B,Still paying,3.8289,2,54.875,6.275
+L-B-Still paying,link,Still paying,B,Still paying,3.8289,3,56.0625,6.2796
+L-B-Still paying,link,Still paying,B,Still paying,3.8289,4,57.25,6.2858
+L-B-Still paying,link,Still paying,B,Still paying,3.8289,5,58.4375,6.2942
+L-B-Still paying,link,Still paying,B,Still paying,3.8289,6,59.625,6.3053
+L-B-Still paying,link,Still paying,B,Still paying,3.8289,7,60.8125,6.3203
+L-B-Still paying,link,Still paying,B,Still paying,3.8289,8,62.0,6.3403
+L-B-Still paying,link,Still paying,B,Still paying,3.8289,9,63.1875,6.3668
+L-B-Still paying,link,Still paying,B,Still paying,3.8289,10,64.375,6.4018
+L-B-Still paying,link,Still paying,B,Still paying,3.8289,11,65.5625,6.4477
+L-B-Still paying,link,Still paying,B,Still paying,3.8289,12,66.75,6.5074
+L-B-Still paying,link,Still paying,B,Still paying,3.8289,13,67.9375,6.584
+L-B-Still paying,link,Still paying,B,Still paying,3.8289,14,69.125,6.6808
+L-B-Still paying,link,Still paying,B,Still paying,3.8289,15,70.3125,6.8006
+L-B-Still paying,link,Still paying,B,Still paying,3.8289,16,71.5,6.9455
+L-B-Still paying,link,Still paying,B,Still paying,3.8289,17,72.6875,7.1156
+L-B-Still paying,link,Still paying,B,Still paying,3.8289,18,73.875,7.3085
+L-B-Still paying,link,Still paying,B,Still paying,3.8289,19,75.0625,7.5189
+L-B-Still paying,link,Still paying,B,Still paying,3.8289,20,76.25,7.7388
+L-B-Still paying,link,Still paying,B,Still paying,3.8289,21,77.4375,7.9587
+L-B-Still paying,link,Still paying,B,Still paying,3.8289,22,78.625,8.1691
+L-B-Still paying,link,Still paying,B,Still paying,3.8289,23,79.8125,8.362
+L-B-Still paying,link,Still paying,B,Still paying,3.8289,24,81.0,8.5321
+L-B-Still paying,link,Still paying,B,Still paying,3.8289,25,82.1875,8.677
+L-B-Still paying,link,Still paying,B,Still paying,3.8289,26,83.375,8.7968
+L-B-Still paying,link,Still paying,B,Still paying,3.8289,27,84.5625,8.8936
+L-B-Still paying,link,Still paying,B,Still paying,3.8289,28,85.75,8.9702
+L-B-Still paying,link,Still paying,B,Still paying,3.8289,29,86.9375,9.0299
+L-B-Still paying,link,Still paying,B,Still paying,3.8289,30,88.125,9.0758
+L-B-Still paying,link,Still paying,B,Still paying,3.8289,31,89.3125,9.1108
+L-B-Still paying,link,Still paying,B,Still paying,3.8289,32,90.5,9.1373
+L-B-Still paying,link,Still paying,B,Still paying,3.8289,33,91.6875,9.1573
+L-B-Still paying,link,Still paying,B,Still paying,3.8289,34,92.875,9.1723
+L-B-Still paying,link,Still paying,B,Still paying,3.8289,35,94.0625,9.1834
+L-B-Still paying,link,Still paying,B,Still paying,3.8289,36,95.25,9.1918
+L-B-Still paying,link,Still paying,B,Still paying,3.8289,37,96.4375,9.198
+L-B-Still paying,link,Still paying,B,Still paying,3.8289,38,97.625,9.2026
+L-B-Still paying,link,Still paying,B,Still paying,3.8289,39,98.8125,9.206
+L-B-Still paying,link,Still paying,B,Still paying,3.8289,40,100.0,9.2086
+L-B-Still paying,link,Still paying,B,Still paying,3.8289,41,100.0,13.0375
+L-B-Still paying,link,Still paying,B,Still paying,3.8289,42,98.8125,13.035
+L-B-Still paying,link,Still paying,B,Still paying,3.8289,43,97.625,13.0315
+L-B-Still paying,link,Still paying,B,Still paying,3.8289,44,96.4375,13.0269
+L-B-Still paying,link,Still paying,B,Still paying,3.8289,45,95.25,13.0207
+L-B-Still paying,link,Still paying,B,Still paying,3.8289,46,94.0625,13.0123
+L-B-Still paying,link,Still paying,B,Still paying,3.8289,47,92.875,13.0012
+L-B-Still paying,link,Still paying,B,Still paying,3.8289,48,91.6875,12.9862
+L-B-Still paying,link,Still paying,B,Still paying,3.8289,49,90.5,12.9662
+L-B-Still paying,link,Still paying,B,Still paying,3.8289,50,89.3125,12.9397
+L-B-Still paying,link,Still paying,B,Still paying,3.8289,51,88.125,12.9047
+L-B-Still paying,link,Still paying,B,Still paying,3.8289,52,86.9375,12.8588
+L-B-Still paying,link,Still paying,B,Still paying,3.8289,53,85.75,12.7991
+L-B-Still paying,link,Still paying,B,Still paying,3.8289,54,84.5625,12.7225
+L-B-Still paying,link,Still paying,B,Still paying,3.8289,55,83.375,12.6257
+L-B-Still paying,link,Still paying,B,Still paying,3.8289,56,82.1875,12.5059
+L-B-Still paying,link,Still paying,B,Still paying,3.8289,57,81.0,12.361
+L-B-Still paying,link,Still paying,B,Still paying,3.8289,58,79.8125,12.1909
+L-B-Still paying,link,Still paying,B,Still paying,3.8289,59,78.625,11.998
+L-B-Still paying,link,Still paying,B,Still paying,3.8289,60,77.4375,11.7876
+L-B-Still paying,link,Still paying,B,Still paying,3.8289,61,76.25,11.5677
+L-B-Still paying,link,Still paying,B,Still paying,3.8289,62,75.0625,11.3478
+L-B-Still paying,link,Still paying,B,Still paying,3.8289,63,73.875,11.1374
+L-B-Still paying,link,Still paying,B,Still paying,3.8289,64,72.6875,10.9445
+L-B-Still paying,link,Still paying,B,Still paying,3.8289,65,71.5,10.7744
+L-B-Still paying,link,Still paying,B,Still paying,3.8289,66,70.3125,10.6295
+L-B-Still paying,link,Still paying,B,Still paying,3.8289,67,69.125,10.5097
+L-B-Still paying,link,Still paying,B,Still paying,3.8289,68,67.9375,10.4129
+L-B-Still paying,link,Still paying,B,Still paying,3.8289,69,66.75,10.3363
+L-B-Still paying,link,Still paying,B,Still paying,3.8289,70,65.5625,10.2766
+L-B-Still paying,link,Still paying,B,Still paying,3.8289,71,64.375,10.2307
+L-B-Still paying,link,Still paying,B,Still paying,3.8289,72,63.1875,10.1957
+L-B-Still paying,link,Still paying,B,Still paying,3.8289,73,62.0,10.1692
+L-B-Still paying,link,Still paying,B,Still paying,3.8289,74,60.8125,10.1492
+L-B-Still paying,link,Still paying,B,Still paying,3.8289,75,59.625,10.1342
+L-B-Still paying,link,Still paying,B,Still paying,3.8289,76,58.4375,10.1231
+L-B-Still paying,link,Still paying,B,Still paying,3.8289,77,57.25,10.1147
+L-B-Still paying,link,Still paying,B,Still paying,3.8289,78,56.0625,10.1085
+L-B-Still paying,link,Still paying,B,Still paying,3.8289,79,54.875,10.1039
+L-B-Still paying,link,Still paying,B,Still paying,3.8289,80,53.6875,10.1005
+L-B-Still paying,link,Still paying,B,Still paying,3.8289,81,52.5,10.0979
+L-B-Late,link,Late,B,Late,0.1141,0,52.5,10.1155
+L-B-Late,link,Late,B,Late,0.1141,1,53.6875,10.1242
+L-B-Late,link,Late,B,Late,0.1141,2,54.875,10.1359
+L-B-Late,link,Late,B,Late,0.1141,3,56.0625,10.1516
+L-B-Late,link,Late,B,Late,0.1141,4,57.25,10.1728
+L-B-Late,link,Late,B,Late,0.1141,5,58.4375,10.2012
+L-B-Late,link,Late,B,Late,0.1141,6,59.625,10.2393
+L-B-Late,link,Late,B,Late,0.1141,7,60.8125,10.2903
+L-B-Late,link,Late,B,Late,0.1141,8,62.0,10.3583
+L-B-Late,link,Late,B,Late,0.1141,9,63.1875,10.4486
+L-B-Late,link,Late,B,Late,0.1141,10,64.375,10.5679
+L-B-Late,link,Late,B,Late,0.1141,11,65.5625,10.7244
+L-B-Late,link,Late,B,Late,0.1141,12,66.75,10.9277
+L-B-Late,link,Late,B,Late,0.1141,13,67.9375,11.1886
+L-B-Late,link,Late,B,Late,0.1141,14,69.125,11.5183
+L-B-Late,link,Late,B,Late,0.1141,15,70.3125,11.9267
+L-B-Late,link,Late,B,Late,0.1141,16,71.5,12.4203
+L-B-Late,link,Late,B,Late,0.1141,17,72.6875,12.9998
+L-B-Late,link,Late,B,Late,0.1141,18,73.875,13.657
+L-B-Late,link,Late,B,Late,0.1141,19,75.0625,14.3737
+L-B-Late,link,Late,B,Late,0.1141,20,76.25,15.123
+L-B-Late,link,Late,B,Late,0.1141,21,77.4375,15.8722
+L-B-Late,link,Late,B,Late,0.1141,22,78.625,16.589
+L-B-Late,link,Late,B,Late,0.1141,23,79.8125,17.2461
+L-B-Late,link,Late,B,Late,0.1141,24,81.0,17.8256
+L-B-Late,link,Late,B,Late,0.1141,25,82.1875,18.3193
+L-B-Late,link,Late,B,Late,0.1141,26,83.375,18.7277
+L-B-Late,link,Late,B,Late,0.1141,27,84.5625,19.0573
+L-B-Late,link,Late,B,Late,0.1141,28,85.75,19.3183
+L-B-Late,link,Late,B,Late,0.1141,29,86.9375,19.5216
+L-B-Late,link,Late,B,Late,0.1141,30,88.125,19.678
+L-B-Late,link,Late,B,Late,0.1141,31,89.3125,19.7974
+L-B-Late,link,Late,B,Late,0.1141,32,90.5,19.8877
+L-B-Late,link,Late,B,Late,0.1141,33,91.6875,19.9557
+L-B-Late,link,Late,B,Late,0.1141,34,92.875,20.0067
+L-B-Late,link,Late,B,Late,0.1141,35,94.0625,20.0448
+L-B-Late,link,Late,B,Late,0.1141,36,95.25,20.0732
+L-B-Late,link,Late,B,Late,0.1141,37,96.4375,20.0944
+L-B-Late,link,Late,B,Late,0.1141,38,97.625,20.1101
+L-B-Late,link,Late,B,Late,0.1141,39,98.8125,20.1218
+L-B-Late,link,Late,B,Late,0.1141,40,100.0,20.1305
+L-B-Late,link,Late,B,Late,0.1141,41,100.0,20.2446
+L-B-Late,link,Late,B,Late,0.1141,42,98.8125,20.2359
+L-B-Late,link,Late,B,Late,0.1141,43,97.625,20.2243
+L-B-Late,link,Late,B,Late,0.1141,44,96.4375,20.2085
+L-B-Late,link,Late,B,Late,0.1141,45,95.25,20.1874
+L-B-Late,link,Late,B,Late,0.1141,46,94.0625,20.1589
+L-B-Late,link,Late,B,Late,0.1141,47,92.875,20.1208
+L-B-Late,link,Late,B,Late,0.1141,48,91.6875,20.0698
+L-B-Late,link,Late,B,Late,0.1141,49,90.5,20.0018
+L-B-Late,link,Late,B,Late,0.1141,50,89.3125,19.9115
+L-B-Late,link,Late,B,Late,0.1141,51,88.125,19.7922
+L-B-Late,link,Late,B,Late,0.1141,52,86.9375,19.6357
+L-B-Late,link,Late,B,Late,0.1141,53,85.75,19.4324
+L-B-Late,link,Late,B,Late,0.1141,54,84.5625,19.1715
+L-B-Late,link,Late,B,Late,0.1141,55,83.375,18.8418
+L-B-Late,link,Late,B,Late,0.1141,56,82.1875,18.4334
+L-B-Late,link,Late,B,Late,0.1141,57,81.0,17.9398
+L-B-Late,link,Late,B,Late,0.1141,58,79.8125,17.3603
+L-B-Late,link,Late,B,Late,0.1141,59,78.625,16.7031
+L-B-Late,link,Late,B,Late,0.1141,60,77.4375,15.9864
+L-B-Late,link,Late,B,Late,0.1141,61,76.25,15.2371
+L-B-Late,link,Late,B,Late,0.1141,62,75.0625,14.4879
+L-B-Late,link,Late,B,Late,0.1141,63,73.875,13.7711
+L-B-Late,link,Late,B,Late,0.1141,64,72.6875,13.114
+L-B-Late,link,Late,B,Late,0.1141,65,71.5,12.5345
+L-B-Late,link,Late,B,Late,0.1141,66,70.3125,12.0408
+L-B-Late,link,Late,B,Late,0.1141,67,69.125,11.6324
+L-B-Late,link,Late,B,Late,0.1141,68,67.9375,11.3028
+L-B-Late,link,Late,B,Late,0.1141,69,66.75,11.0419
+L-B-Late,link,Late,B,Late,0.1141,70,65.5625,10.8386
+L-B-Late,link,Late,B,Late,0.1141,71,64.375,10.6821
+L-B-Late,link,Late,B,Late,0.1141,72,63.1875,10.5628
+L-B-Late,link,Late,B,Late,0.1141,73,62.0,10.4724
+L-B-Late,link,Late,B,Late,0.1141,74,60.8125,10.4044
+L-B-Late,link,Late,B,Late,0.1141,75,59.625,10.3534
+L-B-Late,link,Late,B,Late,0.1141,76,58.4375,10.3153
+L-B-Late,link,Late,B,Late,0.1141,77,57.25,10.2869
+L-B-Late,link,Late,B,Late,0.1141,78,56.0625,10.2657
+L-B-Late,link,Late,B,Late,0.1141,79,54.875,10.25
+L-B-Late,link,Late,B,Late,0.1141,80,53.6875,10.2383
+L-B-Late,link,Late,B,Late,0.1141,81,52.5,10.2296
+L-B-Charged off,link,Charged off,B,Charged off,0.3202,0,52.5,10.2333
+L-B-Charged off,link,Charged off,B,Charged off,0.3202,1,53.6875,10.2432
+L-B-Charged off,link,Charged off,B,Charged off,0.3202,2,54.875,10.2566
+L-B-Charged off,link,Charged off,B,Charged off,0.3202,3,56.0625,10.2746
+L-B-Charged off,link,Charged off,B,Charged off,0.3202,4,57.25,10.2989
+L-B-Charged off,link,Charged off,B,Charged off,0.3202,5,58.4375,10.3314
+L-B-Charged off,link,Charged off,B,Charged off,0.3202,6,59.625,10.3751
+L-B-Charged off,link,Charged off,B,Charged off,0.3202,7,60.8125,10.4335
+L-B-Charged off,link,Charged off,B,Charged off,0.3202,8,62.0,10.5114
+L-B-Charged off,link,Charged off,B,Charged off,0.3202,9,63.1875,10.6149
+L-B-Charged off,link,Charged off,B,Charged off,0.3202,10,64.375,10.7516
+L-B-Charged off,link,Charged off,B,Charged off,0.3202,11,65.5625,10.9309
+L-B-Charged off,link,Charged off,B,Charged off,0.3202,12,66.75,11.1638
+L-B-Charged off,link,Charged off,B,Charged off,0.3202,13,67.9375,11.4627
+L-B-Charged off,link,Charged off,B,Charged off,0.3202,14,69.125,11.8404
+L-B-Charged off,link,Charged off,B,Charged off,0.3202,15,70.3125,12.3083
+L-B-Charged off,link,Charged off,B,Charged off,0.3202,16,71.5,12.8739
+L-B-Charged off,link,Charged off,B,Charged off,0.3202,17,72.6875,13.5378
+L-B-Charged off,link,Charged off,B,Charged off,0.3202,18,73.875,14.2907
+L-B-Charged off,link,Charged off,B,Charged off,0.3202,19,75.0625,15.1119
+L-B-Charged off,link,Charged off,B,Charged off,0.3202,20,76.25,15.9703
+L-B-Charged off,link,Charged off,B,Charged off,0.3202,21,77.4375,16.8287
+L-B-Charged off,link,Charged off,B,Charged off,0.3202,22,78.625,17.6498
+L-B-Charged off,link,Charged off,B,Charged off,0.3202,23,79.8125,18.4027
+L-B-Charged off,link,Charged off,B,Charged off,0.3202,24,81.0,19.0666
+L-B-Charged off,link,Charged off,B,Charged off,0.3202,25,82.1875,19.6322
+L-B-Charged off,link,Charged off,B,Charged off,0.3202,26,83.375,20.1001
+L-B-Charged off,link,Charged off,B,Charged off,0.3202,27,84.5625,20.4778
+L-B-Charged off,link,Charged off,B,Charged off,0.3202,28,85.75,20.7767
+L-B-Charged off,link,Charged off,B,Charged off,0.3202,29,86.9375,21.0096
+L-B-Charged off,link,Charged off,B,Charged off,0.3202,30,88.125,21.1889
+L-B-Charged off,link,Charged off,B,Charged off,0.3202,31,89.3125,21.3256
+L-B-Charged off,link,Charged off,B,Charged off,0.3202,32,90.5,21.4291
+L-B-Charged off,link,Charged off,B,Charged off,0.3202,33,91.6875,21.507
+L-B-Charged off,link,Charged off,B,Charged off,0.3202,34,92.875,21.5654
+L-B-Charged off,link,Charged off,B,Charged off,0.3202,35,94.0625,21.6091
+L-B-Charged off,link,Charged off,B,Charged off,0.3202,36,95.25,21.6417
+L-B-Charged off,link,Charged off,B,Charged off,0.3202,37,96.4375,21.6659
+L-B-Charged off,link,Charged off,B,Charged off,0.3202,38,97.625,21.6839
+L-B-Charged off,link,Charged off,B,Charged off,0.3202,39,98.8125,21.6973
+L-B-Charged off,link,Charged off,B,Charged off,0.3202,40,100.0,21.7073
+L-B-Charged off,link,Charged off,B,Charged off,0.3202,41,100.0,22.0275
+L-B-Charged off,link,Charged off,B,Charged off,0.3202,42,98.8125,22.0175
+L-B-Charged off,link,Charged off,B,Charged off,0.3202,43,97.625,22.0041
+L-B-Charged off,link,Charged off,B,Charged off,0.3202,44,96.4375,21.9861
+L-B-Charged off,link,Charged off,B,Charged off,0.3202,45,95.25,21.9619
+L-B-Charged off,link,Charged off,B,Charged off,0.3202,46,94.0625,21.9293
+L-B-Charged off,link,Charged off,B,Charged off,0.3202,47,92.875,21.8856
+L-B-Charged off,link,Charged off,B,Charged off,0.3202,48,91.6875,21.8272
+L-B-Charged off,link,Charged off,B,Charged off,0.3202,49,90.5,21.7493
+L-B-Charged off,link,Charged off,B,Charged off,0.3202,50,89.3125,21.6458
+L-B-Charged off,link,Charged off,B,Charged off,0.3202,51,88.125,21.5091
+L-B-Charged off,link,Charged off,B,Charged off,0.3202,52,86.9375,21.3298
+L-B-Charged off,link,Charged off,B,Charged off,0.3202,53,85.75,21.0969
+L-B-Charged off,link,Charged off,B,Charged off,0.3202,54,84.5625,20.798
+L-B-Charged off,link,Charged off,B,Charged off,0.3202,55,83.375,20.4203
+L-B-Charged off,link,Charged off,B,Charged off,0.3202,56,82.1875,19.9524
+L-B-Charged off,link,Charged off,B,Charged off,0.3202,57,81.0,19.3868
+L-B-Charged off,link,Charged off,B,Charged off,0.3202,58,79.8125,18.7229
+L-B-Charged off,link,Charged off,B,Charged off,0.3202,59,78.625,17.97
+L-B-Charged off,link,Charged off,B,Charged off,0.3202,60,77.4375,17.1489
+L-B-Charged off,link,Charged off,B,Charged off,0.3202,61,76.25,16.2905
+L-B-Charged off,link,Charged off,B,Charged off,0.3202,62,75.0625,15.4321
+L-B-Charged off,link,Charged off,B,Charged off,0.3202,63,73.875,14.6109
+L-B-Charged off,link,Charged off,B,Charged off,0.3202,64,72.6875,13.858
+L-B-Charged off,link,Charged off,B,Charged off,0.3202,65,71.5,13.1941
+L-B-Charged off,link,Charged off,B,Charged off,0.3202,66,70.3125,12.6285
+L-B-Charged off,link,Charged off,B,Charged off,0.3202,67,69.125,12.1606
+L-B-Charged off,link,Charged off,B,Charged off,0.3202,68,67.9375,11.7829
+L-B-Charged off,link,Charged off,B,Charged off,0.3202,69,66.75,11.484
+L-B-Charged off,link,Charged off,B,Charged off,0.3202,70,65.5625,11.2511
+L-B-Charged off,link,Charged off,B,Charged off,0.3202,71,64.375,11.0718
+L-B-Charged off,link,Charged off,B,Charged off,0.3202,72,63.1875,10.9351
+L-B-Charged off,link,Charged off,B,Charged off,0.3202,73,62.0,10.8316
+L-B-Charged off,link,Charged off,B,Charged off,0.3202,74,60.8125,10.7537
+L-B-Charged off,link,Charged off,B,Charged off,0.3202,75,59.625,10.6953
+L-B-Charged off,link,Charged off,B,Charged off,0.3202,76,58.4375,10.6516
+L-B-Charged off,link,Charged off,B,Charged off,0.3202,77,57.25,10.6191
+L-B-Charged off,link,Charged off,B,Charged off,0.3202,78,56.0625,10.5948
+L-B-Charged off,link,Charged off,B,Charged off,0.3202,79,54.875,10.5768
+L-B-Charged off,link,Charged off,B,Charged off,0.3202,80,53.6875,10.5634
+L-B-Charged off,link,Charged off,B,Charged off,0.3202,81,52.5,10.5534
+N-B,node,Grade B,B,,5.932,0,50,4.593
+N-B,node,Grade B,B,,5.932,1,52.5,4.593
+N-B,node,Grade B,B,,5.932,2,52.5,10.5249
+N-B,node,Grade B,B,,5.932,3,50,10.5249
+L-C-Paid off,link,Paid off,C,Paid off,1.661,0,52.5,10.8539
+L-C-Paid off,link,Paid off,C,Paid off,1.661,1,53.6875,10.8465
+L-C-Paid off,link,Paid off,C,Paid off,1.661,2,54.875,10.8366
+L-C-Paid off,link,Paid off,C,Paid off,1.661,3,56.0625,10.8233
+L-C-Paid off,link,Paid off,C,Paid off,1.661,4,57.25,10.8054
+L-C-Paid off,link,Paid off,C,Paid off,1.661,5,58.4375,10.7813
+L-C-Paid off,link,Paid off,C,Paid off,1.661,6,59.625,10.749
+L-C-Paid off,link,Paid off,C,Paid off,1.661,7,60.8125,10.7058
+L-C-Paid off,link,Paid off,C,Paid off,1.661,8,62.0,10.6482
+L-C-Paid off,link,Paid off,C,Paid off,1.661,9,63.1875,10.5718
+L-C-Paid off,link,Paid off,C,Paid off,1.661,10,64.375,10.4707
+L-C-Paid off,link,Paid off,C,Paid off,1.661,11,65.5625,10.3382
+L-C-Paid off,link,Paid off,C,Paid off,1.661,12,66.75,10.166
+L-C-Paid off,link,Paid off,C,Paid off,1.661,13,67.9375,9.9451
+L-C-Paid off,link,Paid off,C,Paid off,1.661,14,69.125,9.6659
+L-C-Paid off,link,Paid off,C,Paid off,1.661,15,70.3125,9.3201
+L-C-Paid off,link,Paid off,C,Paid off,1.661,16,71.5,8.902
+L-C-Paid off,link,Paid off,C,Paid off,1.661,17,72.6875,8.4113
+L-C-Paid off,link,Paid off,C,Paid off,1.661,18,73.875,7.8548
+L-C-Paid off,link,Paid off,C,Paid off,1.661,19,75.0625,7.2478
+L-C-Paid off,link,Paid off,C,Paid off,1.661,20,76.25,6.6134
+L-C-Paid off,link,Paid off,C,Paid off,1.661,21,77.4375,5.9789
+L-C-Paid off,link,Paid off,C,Paid off,1.661,22,78.625,5.3719
+L-C-Paid off,link,Paid off,C,Paid off,1.661,23,79.8125,4.8154
+L-C-Paid off,link,Paid off,C,Paid off,1.661,24,81.0,4.3247
+L-C-Paid off,link,Paid off,C,Paid off,1.661,25,82.1875,3.9066
+L-C-Paid off,link,Paid off,C,Paid off,1.661,26,83.375,3.5608
+L-C-Paid off,link,Paid off,C,Paid off,1.661,27,84.5625,3.2816
+L-C-Paid off,link,Paid off,C,Paid off,1.661,28,85.75,3.0607
+L-C-Paid off,link,Paid off,C,Paid off,1.661,29,86.9375,2.8885
+L-C-Paid off,link,Paid off,C,Paid off,1.661,30,88.125,2.756
+L-C-Paid off,link,Paid off,C,Paid off,1.661,31,89.3125,2.655
+L-C-Paid off,link,Paid off,C,Paid off,1.661,32,90.5,2.5785
+L-C-Paid off,link,Paid off,C,Paid off,1.661,33,91.6875,2.5209
+L-C-Paid off,link,Paid off,C,Paid off,1.661,34,92.875,2.4777
+L-C-Paid off,link,Paid off,C,Paid off,1.661,35,94.0625,2.4454
+L-C-Paid off,link,Paid off,C,Paid off,1.661,36,95.25,2.4214
+L-C-Paid off,link,Paid off,C,Paid off,1.661,37,96.4375,2.4034
+L-C-Paid off,link,Paid off,C,Paid off,1.661,38,97.625,2.3901
+L-C-Paid off,link,Paid off,C,Paid off,1.661,39,98.8125,2.3802
+L-C-Paid off,link,Paid off,C,Paid off,1.661,40,100.0,2.3729
+L-C-Paid off,link,Paid off,C,Paid off,1.661,41,100.0,4.0339
+L-C-Paid off,link,Paid off,C,Paid off,1.661,42,98.8125,4.0412
+L-C-Paid off,link,Paid off,C,Paid off,1.661,43,97.625,4.0511
+L-C-Paid off,link,Paid off,C,Paid off,1.661,44,96.4375,4.0644
+L-C-Paid off,link,Paid off,C,Paid off,1.661,45,95.25,4.0824
+L-C-Paid off,link,Paid off,C,Paid off,1.661,46,94.0625,4.1064
+L-C-Paid off,link,Paid off,C,Paid off,1.661,47,92.875,4.1387
+L-C-Paid off,link,Paid off,C,Paid off,1.661,48,91.6875,4.1819
+L-C-Paid off,link,Paid off,C,Paid off,1.661,49,90.5,4.2395
+L-C-Paid off,link,Paid off,C,Paid off,1.661,50,89.3125,4.316
+L-C-Paid off,link,Paid off,C,Paid off,1.661,51,88.125,4.417
+L-C-Paid off,link,Paid off,C,Paid off,1.661,52,86.9375,4.5495
+L-C-Paid off,link,Paid off,C,Paid off,1.661,53,85.75,4.7217
+L-C-Paid off,link,Paid off,C,Paid off,1.661,54,84.5625,4.9426
+L-C-Paid off,link,Paid off,C,Paid off,1.661,55,83.375,5.2218
+L-C-Paid off,link,Paid off,C,Paid off,1.661,56,82.1875,5.5676
+L-C-Paid off,link,Paid off,C,Paid off,1.661,57,81.0,5.9857
+L-C-Paid off,link,Paid off,C,Paid off,1.661,58,79.8125,6.4764
+L-C-Paid off,link,Paid off,C,Paid off,1.661,59,78.625,7.0329
+L-C-Paid off,link,Paid off,C,Paid off,1.661,60,77.4375,7.6399
+L-C-Paid off,link,Paid off,C,Paid off,1.661,61,76.25,8.2744
+L-C-Paid off,link,Paid off,C,Paid off,1.661,62,75.0625,8.9088
+L-C-Paid off,link,Paid off,C,Paid off,1.661,63,73.875,9.5158
+L-C-Paid off,link,Paid off,C,Paid off,1.661,64,72.6875,10.0723
+L-C-Paid off,link,Paid off,C,Paid off,1.661,65,71.5,10.563
+L-C-Paid off,link,Paid off,C,Paid off,1.661,66,70.3125,10.9811
+L-C-Paid off,link,Paid off,C,Paid off,1.661,67,69.125,11.3269
+L-C-Paid off,link,Paid off,C,Paid off,1.661,68,67.9375,11.6061
+L-C-Paid off,link,Paid off,C,Paid off,1.661,69,66.75,11.827
+L-C-Paid off,link,Paid off,C,Paid off,1.661,70,65.5625,11.9992
+L-C-Paid off,link,Paid off,C,Paid off,1.661,71,64.375,12.1317
+L-C-Paid off,link,Paid off,C,Paid off,1.661,72,63.1875,12.2328
+L-C-Paid off,link,Paid off,C,Paid off,1.661,73,62.0,12.3092
+L-C-Paid off,link,Paid off,C,Paid off,1.661,74,60.8125,12.3668
+L-C-Paid off,link,Paid off,C,Paid off,1.661,75,59.625,12.41
+L-C-Paid off,link,Paid off,C,Paid off,1.661,76,58.4375,12.4423
+L-C-Paid off,link,Paid off,C,Paid off,1.661,77,57.25,12.4664
+L-C-Paid off,link,Paid off,C,Paid off,1.661,78,56.0625,12.4843
+L-C-Paid off,link,Paid off,C,Paid off,1.661,79,54.875,12.4976
+L-C-Paid off,link,Paid off,C,Paid off,1.661,80,53.6875,12.5075
+L-C-Paid off,link,Paid off,C,Paid off,1.661,81,52.5,12.5149
+L-C-Still paying,link,Still paying,C,Still paying,3.7687,0,52.5,12.5372
+L-C-Still paying,link,Still paying,C,Still paying,3.7687,1,53.6875,12.5376
+L-C-Still paying,link,Still paying,C,Still paying,3.7687,2,54.875,12.5382
+L-C-Still paying,link,Still paying,C,Still paying,3.7687,3,56.0625,12.539
+L-C-Still paying,link,Still paying,C,Still paying,3.7687,4,57.25,12.5401
+L-C-Still paying,link,Still paying,C,Still paying,3.7687,5,58.4375,12.5415
+L-C-Still paying,link,Still paying,C,Still paying,3.7687,6,59.625,12.5435
+L-C-Still paying,link,Still paying,C,Still paying,3.7687,7,60.8125,12.546
+L-C-Still paying,link,Still paying,C,Still paying,3.7687,8,62.0,12.5495
+L-C-Still paying,link,Still paying,C,Still paying,3.7687,9,63.1875,12.554
+L-C-Still paying,link,Still paying,C,Still paying,3.7687,10,64.375,12.5601
+L-C-Still paying,link,Still paying,C,Still paying,3.7687,11,65.5625,12.568
+L-C-Still paying,link,Still paying,C,Still paying,3.7687,12,66.75,12.5783
+L-C-Still paying,link,Still paying,C,Still paying,3.7687,13,67.9375,12.5915
+L-C-Still paying,link,Still paying,C,Still paying,3.7687,14,69.125,12.6081
+L-C-Still paying,link,Still paying,C,Still paying,3.7687,15,70.3125,12.6288
+L-C-Still paying,link,Still paying,C,Still paying,3.7687,16,71.5,12.6537
+L-C-Still paying,link,Still paying,C,Still paying,3.7687,17,72.6875,12.683
+L-C-Still paying,link,Still paying,C,Still paying,3.7687,18,73.875,12.7163
+L-C-Still paying,link,Still paying,C,Still paying,3.7687,19,75.0625,12.7525
+L-C-Still paying,link,Still paying,C,Still paying,3.7687,20,76.25,12.7904
+L-C-Still paying,link,Still paying,C,Still paying,3.7687,21,77.4375,12.8283
+L-C-Still paying,link,Still paying,C,Still paying,3.7687,22,78.625,12.8645
+L-C-Still paying,link,Still paying,C,Still paying,3.7687,23,79.8125,12.8977
+L-C-Still paying,link,Still paying,C,Still paying,3.7687,24,81.0,12.927
+L-C-Still paying,link,Still paying,C,Still paying,3.7687,25,82.1875,12.952
+L-C-Still paying,link,Still paying,C,Still paying,3.7687,26,83.375,12.9726
+L-C-Still paying,link,Still paying,C,Still paying,3.7687,27,84.5625,12.9893
+L-C-Still paying,link,Still paying,C,Still paying,3.7687,28,85.75,13.0025
+L-C-Still paying,link,Still paying,C,Still paying,3.7687,29,86.9375,13.0128
+L-C-Still paying,link,Still paying,C,Still paying,3.7687,30,88.125,13.0207
+L-C-Still paying,link,Still paying,C,Still paying,3.7687,31,89.3125,13.0267
+L-C-Still paying,link,Still paying,C,Still paying,3.7687,32,90.5,13.0313
+L-C-Still paying,link,Still paying,C,Still paying,3.7687,33,91.6875,13.0347
+L-C-Still paying,link,Still paying,C,Still paying,3.7687,34,92.875,13.0373
+L-C-Still paying,link,Still paying,C,Still paying,3.7687,35,94.0625,13.0392
+L-C-Still paying,link,Still paying,C,Still paying,3.7687,36,95.25,13.0407
+L-C-Still paying,link,Still paying,C,Still paying,3.7687,37,96.4375,13.0417
+L-C-Still paying,link,Still paying,C,Still paying,3.7687,38,97.625,13.0425
+L-C-Still paying,link,Still paying,C,Still paying,3.7687,39,98.8125,13.0431
+L-C-Still paying,link,Still paying,C,Still paying,3.7687,40,100.0,13.0435
+L-C-Still paying,link,Still paying,C,Still paying,3.7687,41,100.0,16.8122
+L-C-Still paying,link,Still paying,C,Still paying,3.7687,42,98.8125,16.8118
+L-C-Still paying,link,Still paying,C,Still paying,3.7687,43,97.625,16.8112
+L-C-Still paying,link,Still paying,C,Still paying,3.7687,44,96.4375,16.8104
+L-C-Still paying,link,Still paying,C,Still paying,3.7687,45,95.25,16.8093
+L-C-Still paying,link,Still paying,C,Still paying,3.7687,46,94.0625,16.8079
+L-C-Still paying,link,Still paying,C,Still paying,3.7687,47,92.875,16.806
+L-C-Still paying,link,Still paying,C,Still paying,3.7687,48,91.6875,16.8034
+L-C-Still paying,link,Still paying,C,Still paying,3.7687,49,90.5,16.8
+L-C-Still paying,link,Still paying,C,Still paying,3.7687,50,89.3125,16.7954
+L-C-Still paying,link,Still paying,C,Still paying,3.7687,51,88.125,16.7894
+L-C-Still paying,link,Still paying,C,Still paying,3.7687,52,86.9375,16.7814
+L-C-Still paying,link,Still paying,C,Still paying,3.7687,53,85.75,16.7712
+L-C-Still paying,link,Still paying,C,Still paying,3.7687,54,84.5625,16.758
+L-C-Still paying,link,Still paying,C,Still paying,3.7687,55,83.375,16.7413
+L-C-Still paying,link,Still paying,C,Still paying,3.7687,56,82.1875,16.7207
+L-C-Still paying,link,Still paying,C,Still paying,3.7687,57,81.0,16.6957
+L-C-Still paying,link,Still paying,C,Still paying,3.7687,58,79.8125,16.6664
+L-C-Still paying,link,Still paying,C,Still paying,3.7687,59,78.625,16.6332
+L-C-Still paying,link,Still paying,C,Still paying,3.7687,60,77.4375,16.5969
+L-C-Still paying,link,Still paying,C,Still paying,3.7687,61,76.25,16.5591
+L-C-Still paying,link,Still paying,C,Still paying,3.7687,62,75.0625,16.5212
+L-C-Still paying,link,Still paying,C,Still paying,3.7687,63,73.875,16.4849
+L-C-Still paying,link,Still paying,C,Still paying,3.7687,64,72.6875,16.4517
+L-C-Still paying,link,Still paying,C,Still paying,3.7687,65,71.5,16.4224
+L-C-Still paying,link,Still paying,C,Still paying,3.7687,66,70.3125,16.3975
+L-C-Still paying,link,Still paying,C,Still paying,3.7687,67,69.125,16.3768
+L-C-Still paying,link,Still paying,C,Still paying,3.7687,68,67.9375,16.3601
+L-C-Still paying,link,Still paying,C,Still paying,3.7687,69,66.75,16.3469
+L-C-Still paying,link,Still paying,C,Still paying,3.7687,70,65.5625,16.3367
+L-C-Still paying,link,Still paying,C,Still paying,3.7687,71,64.375,16.3288
+L-C-Still paying,link,Still paying,C,Still paying,3.7687,72,63.1875,16.3227
+L-C-Still paying,link,Still paying,C,Still paying,3.7687,73,62.0,16.3182
+L-C-Still paying,link,Still paying,C,Still paying,3.7687,74,60.8125,16.3147
+L-C-Still paying,link,Still paying,C,Still paying,3.7687,75,59.625,16.3121
+L-C-Still paying,link,Still paying,C,Still paying,3.7687,76,58.4375,16.3102
+L-C-Still paying,link,Still paying,C,Still paying,3.7687,77,57.25,16.3088
+L-C-Still paying,link,Still paying,C,Still paying,3.7687,78,56.0625,16.3077
+L-C-Still paying,link,Still paying,C,Still paying,3.7687,79,54.875,16.3069
+L-C-Still paying,link,Still paying,C,Still paying,3.7687,80,53.6875,16.3063
+L-C-Still paying,link,Still paying,C,Still paying,3.7687,81,52.5,16.3059
+L-C-Late,link,Late,C,Late,0.1883,0,52.5,16.3144
+L-C-Late,link,Late,C,Late,0.1883,1,53.6875,16.3178
+L-C-Late,link,Late,C,Late,0.1883,2,54.875,16.3225
+L-C-Late,link,Late,C,Late,0.1883,3,56.0625,16.3287
+L-C-Late,link,Late,C,Late,0.1883,4,57.25,16.337
+L-C-Late,link,Late,C,Late,0.1883,5,58.4375,16.3482
+L-C-Late,link,Late,C,Late,0.1883,6,59.625,16.3632
+L-C-Late,link,Late,C,Late,0.1883,7,60.8125,16.3833
+L-C-Late,link,Late,C,Late,0.1883,8,62.0,16.4101
+L-C-Late,link,Late,C,Late,0.1883,9,63.1875,16.4457
+L-C-Late,link,Late,C,Late,0.1883,10,64.375,16.4927
+L-C-Late,link,Late,C,Late,0.1883,11,65.5625,16.5543
+L-C-Late,link,Late,C,Late,0.1883,12,66.75,16.6344
+L-C-Late,link,Late,C,Late,0.1883,13,67.9375,16.7372
+L-C-Late,link,Late,C,Late,0.1883,14,69.125,16.867
+L-C-Late,link,Late,C,Late,0.1883,15,70.3125,17.0279
+L-C-Late,link,Late,C,Late,0.1883,16,71.5,17.2224
+L-C-Late,link,Late,C,Late,0.1883,17,72.6875,17.4507
+L-C-Late,link,Late,C,Late,0.1883,18,73.875,17.7096
+L-C-Late,link,Late,C,Late,0.1883,19,75.0625,17.9919
+L-C-Late,link,Late,C,Late,0.1883,20,76.25,18.2871
+L-C-Late,link,Late,C,Late,0.1883,21,77.4375,18.5822
+L-C-Late,link,Late,C,Late,0.1883,22,78.625,18.8646
+L-C-Late,link,Late,C,Late,0.1883,23,79.8125,19.1235
+L-C-Late,link,Late,C,Late,0.1883,24,81.0,19.3517
+L-C-Late,link,Late,C,Late,0.1883,25,82.1875,19.5462
+L-C-Late,link,Late,C,Late,0.1883,26,83.375,19.7071
+L-C-Late,link,Late,C,Late,0.1883,27,84.5625,19.837
+L-C-Late,link,Late,C,Late,0.1883,28,85.75,19.9397
+L-C-Late,link,Late,C,Late,0.1883,29,86.9375,20.0198
+L-C-Late,link,Late,C,Late,0.1883,30,88.125,20.0815
+L-C-Late,link,Late,C,Late,0.1883,31,89.3125,20.1285
+L-C-Late,link,Late,C,Late,0.1883,32,90.5,20.1641
+L-C-Late,link,Late,C,Late,0.1883,33,91.6875,20.1908
+L-C-Late,link,Late,C,Late,0.1883,34,92.875,20.2109
+L-C-Late,link,Late,C,Late,0.1883,35,94.0625,20.226
+L-C-Late,link,Late,C,Late,0.1883,36,95.25,20.2371
+L-C-Late,link,Late,C,Late,0.1883,37,96.4375,20.2455
+L-C-Late,link,Late,C,Late,0.1883,38,97.625,20.2517
+L-C-Late,link,Late,C,Late,0.1883,39,98.8125,20.2563
+L-C-Late,link,Late,C,Late,0.1883,40,100.0,20.2597
+L-C-Late,link,Late,C,Late,0.1883,41,100.0,20.448
+L-C-Late,link,Late,C,Late,0.1883,42,98.8125,20.4446
+L-C-Late,link,Late,C,Late,0.1883,43,97.625,20.44
+L-C-Late,link,Late,C,Late,0.1883,44,96.4375,20.4338
+L-C-Late,link,Late,C,Late,0.1883,45,95.25,20.4255
+L-C-Late,link,Late,C,Late,0.1883,46,94.0625,20.4143
+L-C-Late,link,Late,C,Late,0.1883,47,92.875,20.3993
+L-C-Late,link,Late,C,Late,0.1883,48,91.6875,20.3792
+L-C-Late,link,Late,C,Late,0.1883,49,90.5,20.3524
+L-C-Late,link,Late,C,Late,0.1883,50,89.3125,20.3168
+L-C-Late,link,Late,C,Late,0.1883,51,88.125,20.2698
+L-C-Late,link,Late,C,Late,0.1883,52,86.9375,20.2081
+L-C-Late,link,Late,C,Late,0.1883,53,85.75,20.1281
+L-C-Late,link,Late,C,Late,0.1883,54,84.5625,20.0253
+L-C-Late,link,Late,C,Late,0.1883,55,83.375,19.8954
+L-C-Late,link,Late,C,Late,0.1883,56,82.1875,19.7345
+L-C-Late,link,Late,C,Late,0.1883,57,81.0,19.5401
+L-C-Late,link,Late,C,Late,0.1883,58,79.8125,19.3118
+L-C-Late,link,Late,C,Late,0.1883,59,78.625,19.0529
+L-C-Late,link,Late,C,Late,0.1883,60,77.4375,18.7705
+L-C-Late,link,Late,C,Late,0.1883,61,76.25,18.4754
+L-C-Late,link,Late,C,Late,0.1883,62,75.0625,18.1802
+L-C-Late,link,Late,C,Late,0.1883,63,73.875,17.8979
+L-C-Late,link,Late,C,Late,0.1883,64,72.6875,17.639
+L-C-Late,link,Late,C,Late,0.1883,65,71.5,17.4107
+L-C-Late,link,Late,C,Late,0.1883,66,70.3125,17.2162
+L-C-Late,link,Late,C,Late,0.1883,67,69.125,17.0554
+L-C-Late,link,Late,C,Late,0.1883,68,67.9375,16.9255
+L-C-Late,link,Late,C,Late,0.1883,69,66.75,16.8227
+L-C-Late,link,Late,C,Late,0.1883,70,65.5625,16.7426
+L-C-Late,link,Late,C,Late,0.1883,71,64.375,16.681
+L-C-Late,link,Late,C,Late,0.1883,72,63.1875,16.634
+L-C-Late,link,Late,C,Late,0.1883,73,62.0,16.5984
+L-C-Late,link,Late,C,Late,0.1883,74,60.8125,16.5716
+L-C-Late,link,Late,C,Late,0.1883,75,59.625,16.5515
+L-C-Late,link,Late,C,Late,0.1883,76,58.4375,16.5365
+L-C-Late,link,Late,C,Late,0.1883,77,57.25,16.5253
+L-C-Late,link,Late,C,Late,0.1883,78,56.0625,16.517
+L-C-Late,link,Late,C,Late,0.1883,79,54.875,16.5108
+L-C-Late,link,Late,C,Late,0.1883,80,53.6875,16.5062
+L-C-Late,link,Late,C,Late,0.1883,81,52.5,16.5027
+L-C-Charged off,link,Charged off,C,Charged off,0.6006,0,52.5,16.5067
+L-C-Charged off,link,Charged off,C,Charged off,0.6006,1,53.6875,16.5115
+L-C-Charged off,link,Charged off,C,Charged off,0.6006,2,54.875,16.518
+L-C-Charged off,link,Charged off,C,Charged off,0.6006,3,56.0625,16.5267
+L-C-Charged off,link,Charged off,C,Charged off,0.6006,4,57.25,16.5384
+L-C-Charged off,link,Charged off,C,Charged off,0.6006,5,58.4375,16.5541
+L-C-Charged off,link,Charged off,C,Charged off,0.6006,6,59.625,16.5751
+L-C-Charged off,link,Charged off,C,Charged off,0.6006,7,60.8125,16.6033
+L-C-Charged off,link,Charged off,C,Charged off,0.6006,8,62.0,16.6409
+L-C-Charged off,link,Charged off,C,Charged off,0.6006,9,63.1875,16.6908
+L-C-Charged off,link,Charged off,C,Charged off,0.6006,10,64.375,16.7568
+L-C-Charged off,link,Charged off,C,Charged off,0.6006,11,65.5625,16.8433
+L-C-Charged off,link,Charged off,C,Charged off,0.6006,12,66.75,16.9556
+L-C-Charged off,link,Charged off,C,Charged off,0.6006,13,67.9375,17.0999
+L-C-Charged off,link,Charged off,C,Charged off,0.6006,14,69.125,17.2821
+L-C-Charged off,link,Charged off,C,Charged off,0.6006,15,70.3125,17.5078
+L-C-Charged off,link,Charged off,C,Charged off,0.6006,16,71.5,17.7806
+L-C-Charged off,link,Charged off,C,Charged off,0.6006,17,72.6875,18.1009
+L-C-Charged off,link,Charged off,C,Charged off,0.6006,18,73.875,18.4642
+L-C-Charged off,link,Charged off,C,Charged off,0.6006,19,75.0625,18.8603
+L-C-Charged off,link,Charged off,C,Charged off,0.6006,20,76.25,19.2745
+L-C-Charged off,link,Charged off,C,Charged off,0.6006,21,77.4375,19.6886
+L-C-Charged off,link,Charged off,C,Charged off,0.6006,22,78.625,20.0848
+L-C-Charged off,link,Charged off,C,Charged off,0.6006,23,79.8125,20.448
+L-C-Charged off,link,Charged off,C,Charged off,0.6006,24,81.0,20.7683
+L-C-Charged off,link,Charged off,C,Charged off,0.6006,25,82.1875,21.0411
+L-C-Charged off,link,Charged off,C,Charged off,0.6006,26,83.375,21.2669
+L-C-Charged off,link,Charged off,C,Charged off,0.6006,27,84.5625,21.4491
+L-C-Charged off,link,Charged off,C,Charged off,0.6006,28,85.75,21.5933
+L-C-Charged off,link,Charged off,C,Charged off,0.6006,29,86.9375,21.7057
+L-C-Charged off,link,Charged off,C,Charged off,0.6006,30,88.125,21.7922
+L-C-Charged off,link,Charged off,C,Charged off,0.6006,31,89.3125,21.8581
+L-C-Charged off,link,Charged off,C,Charged off,0.6006,32,90.5,21.908
+L-C-Charged off,link,Charged off,C,Charged off,0.6006,33,91.6875,21.9456
+L-C-Charged off,link,Charged off,C,Charged off,0.6006,34,92.875,21.9738
+L-C-Charged off,link,Charged off,C,Charged off,0.6006,35,94.0625,21.9949
+L-C-Charged off,link,Charged off,C,Charged off,0.6006,36,95.25,22.0106
+L-C-Charged off,link,Charged off,C,Charged off,0.6006,37,96.4375,22.0223
+L-C-Charged off,link,Charged off,C,Charged off,0.6006,38,97.625,22.031
+L-C-Charged off,link,Charged off,C,Charged off,0.6006,39,98.8125,22.0374
+L-C-Charged off,link,Charged off,C,Charged off,0.6006,40,100.0,22.0422
+L-C-Charged off,link,Charged off,C,Charged off,0.6006,41,100.0,22.6429
+L-C-Charged off,link,Charged off,C,Charged off,0.6006,42,98.8125,22.6381
+L-C-Charged off,link,Charged off,C,Charged off,0.6006,43,97.625,22.6316
+L-C-Charged off,link,Charged off,C,Charged off,0.6006,44,96.4375,22.6229
+L-C-Charged off,link,Charged off,C,Charged off,0.6006,45,95.25,22.6112
+L-C-Charged off,link,Charged off,C,Charged off,0.6006,46,94.0625,22.5955
+L-C-Charged off,link,Charged off,C,Charged off,0.6006,47,92.875,22.5744
+L-C-Charged off,link,Charged off,C,Charged off,0.6006,48,91.6875,22.5462
+L-C-Charged off,link,Charged off,C,Charged off,0.6006,49,90.5,22.5087
+L-C-Charged off,link,Charged off,C,Charged off,0.6006,50,89.3125,22.4587
+L-C-Charged off,link,Charged off,C,Charged off,0.6006,51,88.125,22.3928
+L-C-Charged off,link,Charged off,C,Charged off,0.6006,52,86.9375,22.3063
+L-C-Charged off,link,Charged off,C,Charged off,0.6006,53,85.75,22.1939
+L-C-Charged off,link,Charged off,C,Charged off,0.6006,54,84.5625,22.0497
+L-C-Charged off,link,Charged off,C,Charged off,0.6006,55,83.375,21.8675
+L-C-Charged off,link,Charged off,C,Charged off,0.6006,56,82.1875,21.6418
+L-C-Charged off,link,Charged off,C,Charged off,0.6006,57,81.0,21.3689
+L-C-Charged off,link,Charged off,C,Charged off,0.6006,58,79.8125,21.0486
+L-C-Charged off,link,Charged off,C,Charged off,0.6006,59,78.625,20.6854
+L-C-Charged off,link,Charged off,C,Charged off,0.6006,60,77.4375,20.2892
+L-C-Charged off,link,Charged off,C,Charged off,0.6006,61,76.25,19.8751
+L-C-Charged off,link,Charged off,C,Charged off,0.6006,62,75.0625,19.461
+L-C-Charged off,link,Charged off,C,Charged off,0.6006,63,73.875,19.0648
+L-C-Charged off,link,Charged off,C,Charged off,0.6006,64,72.6875,18.7016
+L-C-Charged off,link,Charged off,C,Charged off,0.6006,65,71.5,18.3813
+L-C-Charged off,link,Charged off,C,Charged off,0.6006,66,70.3125,18.1084
+L-C-Charged off,link,Charged off,C,Charged off,0.6006,67,69.125,17.8827
+L-C-Charged off,link,Charged off,C,Charged off,0.6006,68,67.9375,17.7005
+L-C-Charged off,link,Charged off,C,Charged off,0.6006,69,66.75,17.5563
+L-C-Charged off,link,Charged off,C,Charged off,0.6006,70,65.5625,17.4439
+L-C-Charged off,link,Charged off,C,Charged off,0.6006,71,64.375,17.3574
+L-C-Charged off,link,Charged off,C,Charged off,0.6006,72,63.1875,17.2915
+L-C-Charged off,link,Charged off,C,Charged off,0.6006,73,62.0,17.2415
+L-C-Charged off,link,Charged off,C,Charged off,0.6006,74,60.8125,17.2039
+L-C-Charged off,link,Charged off,C,Charged off,0.6006,75,59.625,17.1758
+L-C-Charged off,link,Charged off,C,Charged off,0.6006,76,58.4375,17.1547
+L-C-Charged off,link,Charged off,C,Charged off,0.6006,77,57.25,17.139
+L-C-Charged off,link,Charged off,C,Charged off,0.6006,78,56.0625,17.1273
+L-C-Charged off,link,Charged off,C,Charged off,0.6006,79,54.875,17.1186
+L-C-Charged off,link,Charged off,C,Charged off,0.6006,80,53.6875,17.1121
+L-C-Charged off,link,Charged off,C,Charged off,0.6006,81,52.5,17.1073
+N-C,node,Grade C,C,,6.2186,0,50,10.8749
+N-C,node,Grade C,C,,6.2186,1,52.5,10.8749
+N-C,node,Grade C,C,,6.2186,2,52.5,17.0936
+N-C,node,Grade C,C,,6.2186,3,50,17.0936
+L-D-Paid off,link,Paid off,D,Paid off,0.757,0,52.5,17.4104
+L-D-Paid off,link,Paid off,D,Paid off,0.757,1,53.6875,17.3988
+L-D-Paid off,link,Paid off,D,Paid off,0.757,2,54.875,17.3832
+L-D-Paid off,link,Paid off,D,Paid off,0.757,3,56.0625,17.3622
+L-D-Paid off,link,Paid off,D,Paid off,0.757,4,57.25,17.3339
+L-D-Paid off,link,Paid off,D,Paid off,0.757,5,58.4375,17.296
+L-D-Paid off,link,Paid off,D,Paid off,0.757,6,59.625,17.2451
+L-D-Paid off,link,Paid off,D,Paid off,0.757,7,60.8125,17.1771
+L-D-Paid off,link,Paid off,D,Paid off,0.757,8,62.0,17.0864
+L-D-Paid off,link,Paid off,D,Paid off,0.757,9,63.1875,16.9658
+L-D-Paid off,link,Paid off,D,Paid off,0.757,10,64.375,16.8066
+L-D-Paid off,link,Paid off,D,Paid off,0.757,11,65.5625,16.5978
+L-D-Paid off,link,Paid off,D,Paid off,0.757,12,66.75,16.3265
+L-D-Paid off,link,Paid off,D,Paid off,0.757,13,67.9375,15.9783
+L-D-Paid off,link,Paid off,D,Paid off,0.757,14,69.125,15.5384
+L-D-Paid off,link,Paid off,D,Paid off,0.757,15,70.3125,14.9935
+L-D-Paid off,link,Paid off,D,Paid off,0.757,16,71.5,14.3347
+L-D-Paid off,link,Paid off,D,Paid off,0.757,17,72.6875,13.5614
+L-D-Paid off,link,Paid off,D,Paid off,0.757,18,73.875,12.6845
+L-D-Paid off,link,Paid off,D,Paid off,0.757,19,75.0625,11.728
+L-D-Paid off,link,Paid off,D,Paid off,0.757,20,76.25,10.7282
+L-D-Paid off,link,Paid off,D,Paid off,0.757,21,77.4375,9.7284
+L-D-Paid off,link,Paid off,D,Paid off,0.757,22,78.625,8.7719
+L-D-Paid off,link,Paid off,D,Paid off,0.757,23,79.8125,7.895
+L-D-Paid off,link,Paid off,D,Paid off,0.757,24,81.0,7.1217
+L-D-Paid off,link,Paid off,D,Paid off,0.757,25,82.1875,6.4629
+L-D-Paid off,link,Paid off,D,Paid off,0.757,26,83.375,5.918
+L-D-Paid off,link,Paid off,D,Paid off,0.757,27,84.5625,5.478
+L-D-Paid off,link,Paid off,D,Paid off,0.757,28,85.75,5.1299
+L-D-Paid off,link,Paid off,D,Paid off,0.757,29,86.9375,4.8586
+L-D-Paid off,link,Paid off,D,Paid off,0.757,30,88.125,4.6498
+L-D-Paid off,link,Paid off,D,Paid off,0.757,31,89.3125,4.4905
+L-D-Paid off,link,Paid off,D,Paid off,0.757,32,90.5,4.37
+L-D-Paid off,link,Paid off,D,Paid off,0.757,33,91.6875,4.2793
+L-D-Paid off,link,Paid off,D,Paid off,0.757,34,92.875,4.2112
+L-D-Paid off,link,Paid off,D,Paid off,0.757,35,94.0625,4.1603
+L-D-Paid off,link,Paid off,D,Paid off,0.757,36,95.25,4.1224
+L-D-Paid off,link,Paid off,D,Paid off,0.757,37,96.4375,4.0942
+L-D-Paid off,link,Paid off,D,Paid off,0.757,38,97.625,4.0732
+L-D-Paid off,link,Paid off,D,Paid off,0.757,39,98.8125,4.0576
+L-D-Paid off,link,Paid off,D,Paid off,0.757,40,100.0,4.046
+L-D-Paid off,link,Paid off,D,Paid off,0.757,41,100.0,4.803
+L-D-Paid off,link,Paid off,D,Paid off,0.757,42,98.8125,4.8146
+L-D-Paid off,link,Paid off,D,Paid off,0.757,43,97.625,4.8302
+L-D-Paid off,link,Paid off,D,Paid off,0.757,44,96.4375,4.8512
+L-D-Paid off,link,Paid off,D,Paid off,0.757,45,95.25,4.8794
+L-D-Paid off,link,Paid off,D,Paid off,0.757,46,94.0625,4.9174
+L-D-Paid off,link,Paid off,D,Paid off,0.757,47,92.875,4.9682
+L-D-Paid off,link,Paid off,D,Paid off,0.757,48,91.6875,5.0363
+L-D-Paid off,link,Paid off,D,Paid off,0.757,49,90.5,5.127
+L-D-Paid off,link,Paid off,D,Paid off,0.757,50,89.3125,5.2476
+L-D-Paid off,link,Paid off,D,Paid off,0.757,51,88.125,5.4068
+L-D-Paid off,link,Paid off,D,Paid off,0.757,52,86.9375,5.6156
+L-D-Paid off,link,Paid off,D,Paid off,0.757,53,85.75,5.8869
+L-D-Paid off,link,Paid off,D,Paid off,0.757,54,84.5625,6.2351
+L-D-Paid off,link,Paid off,D,Paid off,0.757,55,83.375,6.675
+L-D-Paid off,link,Paid off,D,Paid off,0.757,56,82.1875,7.2199
+L-D-Paid off,link,Paid off,D,Paid off,0.757,57,81.0,7.8787
+L-D-Paid off,link,Paid off,D,Paid off,0.757,58,79.8125,8.652
+L-D-Paid off,link,Paid off,D,Paid off,0.757,59,78.625,9.5289
+L-D-Paid off,link,Paid off,D,Paid off,0.757,60,77.4375,10.4854
+L-D-Paid off,link,Paid off,D,Paid off,0.757,61,76.25,11.4852
+L-D-Paid off,link,Paid off,D,Paid off,0.757,62,75.0625,12.485
+L-D-Paid off,link,Paid off,D,Paid off,0.757,63,73.875,13.4415
+L-D-Paid off,link,Paid off,D,Paid off,0.757,64,72.6875,14.3184
+L-D-Paid off,link,Paid off,D,Paid off,0.757,65,71.5,15.0917
+L-D-Paid off,link,Paid off,D,Paid off,0.757,66,70.3125,15.7505
+L-D-Paid off,link,Paid off,D,Paid off,0.757,67,69.125,16.2954
+L-D-Paid off,link,Paid off,D,Paid off,0.757,68,67.9375,16.7353
+L-D-Paid off,link,Paid off,D,Paid off,0.757,69,66.75,17.0835
+L-D-Paid off,link,Paid off,D,Paid off,0.757,70,65.5625,17.3548
+L-D-Paid off,link,Paid off,D,Paid off,0.757,71,64.375,17.5636
+L-D-Paid off,link,Paid off,D,Paid off,0.757,72,63.1875,17.7229
+L-D-Paid off,link,Paid off,D,Paid off,0.757,73,62.0,17.8434
+L-D-Paid off,link,Paid off,D,Paid off,0.757,74,60.8125,17.9341
+L-D-Paid off,link,Paid off,D,Paid off,0.757,75,59.625,18.0022
+L-D-Paid off,link,Paid off,D,Paid off,0.757,76,58.4375,18.053
+L-D-Paid off,link,Paid off,D,Paid off,0.757,77,57.25,18.091
+L-D-Paid off,link,Paid off,D,Paid off,0.757,78,56.0625,18.1192
+L-D-Paid off,link,Paid off,D,Paid off,0.757,79,54.875,18.1402
+L-D-Paid off,link,Paid off,D,Paid off,0.757,80,53.6875,18.1558
+L-D-Paid off,link,Paid off,D,Paid off,0.757,81,52.5,18.1674
+L-D-Still paying,link,Still paying,D,Still paying,1.6463,0,52.5,18.1972
+L-D-Still paying,link,Still paying,D,Still paying,1.6463,1,53.6875,18.196
+L-D-Still paying,link,Still paying,D,Still paying,1.6463,2,54.875,18.1944
+L-D-Still paying,link,Still paying,D,Still paying,1.6463,3,56.0625,18.1922
+L-D-Still paying,link,Still paying,D,Still paying,1.6463,4,57.25,18.1893
+L-D-Still paying,link,Still paying,D,Still paying,1.6463,5,58.4375,18.1854
+L-D-Still paying,link,Still paying,D,Still paying,1.6463,6,59.625,18.1801
+L-D-Still paying,link,Still paying,D,Still paying,1.6463,7,60.8125,18.1731
+L-D-Still paying,link,Still paying,D,Still paying,1.6463,8,62.0,18.1637
+L-D-Still paying,link,Still paying,D,Still paying,1.6463,9,63.1875,18.1513
+L-D-Still paying,link,Still paying,D,Still paying,1.6463,10,64.375,18.1348
+L-D-Still paying,link,Still paying,D,Still paying,1.6463,11,65.5625,18.1133
+L-D-Still paying,link,Still paying,D,Still paying,1.6463,12,66.75,18.0852
+L-D-Still paying,link,Still paying,D,Still paying,1.6463,13,67.9375,18.0493
+L-D-Still paying,link,Still paying,D,Still paying,1.6463,14,69.125,18.0038
+L-D-Still paying,link,Still paying,D,Still paying,1.6463,15,70.3125,17.9476
+L-D-Still paying,link,Still paying,D,Still paying,1.6463,16,71.5,17.8795
+L-D-Still paying,link,Still paying,D,Still paying,1.6463,17,72.6875,17.7997
+L-D-Still paying,link,Still paying,D,Still paying,1.6463,18,73.875,17.7091
+L-D-Still paying,link,Still paying,D,Still paying,1.6463,19,75.0625,17.6103
+L-D-Still paying,link,Still paying,D,Still paying,1.6463,20,76.25,17.507
+L-D-Still paying,link,Still paying,D,Still paying,1.6463,21,77.4375,17.4038
+L-D-Still paying,link,Still paying,D,Still paying,1.6463,22,78.625,17.305
+L-D-Still paying,link,Still paying,D,Still paying,1.6463,23,79.8125,17.2144
+L-D-Still paying,link,Still paying,D,Still paying,1.6463,24,81.0,17.1346
+L-D-Still paying,link,Still paying,D,Still paying,1.6463,25,82.1875,17.0665
+L-D-Still paying,link,Still paying,D,Still paying,1.6463,26,83.375,17.0103
+L-D-Still paying,link,Still paying,D,Still paying,1.6463,27,84.5625,16.9648
+L-D-Still paying,link,Still paying,D,Still paying,1.6463,28,85.75,16.9289
+L-D-Still paying,link,Still paying,D,Still paying,1.6463,29,86.9375,16.9008
+L-D-Still paying,link,Still paying,D,Still paying,1.6463,30,88.125,16.8793
+L-D-Still paying,link,Still paying,D,Still paying,1.6463,31,89.3125,16.8628
+L-D-Still paying,link,Still paying,D,Still paying,1.6463,32,90.5,16.8504
+L-D-Still paying,link,Still paying,D,Still paying,1.6463,33,91.6875,16.841
+L-D-Still paying,link,Still paying,D,Still paying,1.6463,34,92.875,16.834
+L-D-Still paying,link,Still paying,D,Still paying,1.6463,35,94.0625,16.8287
+L-D-Still paying,link,Still paying,D,Still paying,1.6463,36,95.25,16.8248
+L-D-Still paying,link,Still paying,D,Still paying,1.6463,37,96.4375,16.8219
+L-D-Still paying,link,Still paying,D,Still paying,1.6463,38,97.625,16.8197
+L-D-Still paying,link,Still paying,D,Still paying,1.6463,39,98.8125,16.8181
+L-D-Still paying,link,Still paying,D,Still paying,1.6463,40,100.0,16.8169
+L-D-Still paying,link,Still paying,D,Still paying,1.6463,41,100.0,18.4632
+L-D-Still paying,link,Still paying,D,Still paying,1.6463,42,98.8125,18.4644
+L-D-Still paying,link,Still paying,D,Still paying,1.6463,43,97.625,18.466
+L-D-Still paying,link,Still paying,D,Still paying,1.6463,44,96.4375,18.4682
+L-D-Still paying,link,Still paying,D,Still paying,1.6463,45,95.25,18.4711
+L-D-Still paying,link,Still paying,D,Still paying,1.6463,46,94.0625,18.475
+L-D-Still paying,link,Still paying,D,Still paying,1.6463,47,92.875,18.4803
+L-D-Still paying,link,Still paying,D,Still paying,1.6463,48,91.6875,18.4873
+L-D-Still paying,link,Still paying,D,Still paying,1.6463,49,90.5,18.4967
+L-D-Still paying,link,Still paying,D,Still paying,1.6463,50,89.3125,18.5091
+L-D-Still paying,link,Still paying,D,Still paying,1.6463,51,88.125,18.5256
+L-D-Still paying,link,Still paying,D,Still paying,1.6463,52,86.9375,18.5471
+L-D-Still paying,link,Still paying,D,Still paying,1.6463,53,85.75,18.5751
+L-D-Still paying,link,Still paying,D,Still paying,1.6463,54,84.5625,18.6111
+L-D-Still paying,link,Still paying,D,Still paying,1.6463,55,83.375,18.6565
+L-D-Still paying,link,Still paying,D,Still paying,1.6463,56,82.1875,18.7128
+L-D-Still paying,link,Still paying,D,Still paying,1.6463,57,81.0,18.7809
+L-D-Still paying,link,Still paying,D,Still paying,1.6463,58,79.8125,18.8607
+L-D-Still paying,link,Still paying,D,Still paying,1.6463,59,78.625,18.9513
+L-D-Still paying,link,Still paying,D,Still paying,1.6463,60,77.4375,19.0501
+L-D-Still paying,link,Still paying,D,Still paying,1.6463,61,76.25,19.1533
+L-D-Still paying,link,Still paying,D,Still paying,1.6463,62,75.0625,19.2566
+L-D-Still paying,link,Still paying,D,Still paying,1.6463,63,73.875,19.3554
+L-D-Still paying,link,Still paying,D,Still paying,1.6463,64,72.6875,19.4459
+L-D-Still paying,link,Still paying,D,Still paying,1.6463,65,71.5,19.5258
+L-D-Still paying,link,Still paying,D,Still paying,1.6463,66,70.3125,19.5938
+L-D-Still paying,link,Still paying,D,Still paying,1.6463,67,69.125,19.6501
+L-D-Still paying,link,Still paying,D,Still paying,1.6463,68,67.9375,19.6956
+L-D-Still paying,link,Still paying,D,Still paying,1.6463,69,66.75,19.7315
+L-D-Still paying,link,Still paying,D,Still paying,1.6463,70,65.5625,19.7595
+L-D-Still paying,link,Still paying,D,Still paying,1.6463,71,64.375,19.7811
+L-D-Still paying,link,Still paying,D,Still paying,1.6463,72,63.1875,19.7975
+L-D-Still paying,link,Still paying,D,Still paying,1.6463,73,62.0,19.81
+L-D-Still paying,link,Still paying,D,Still paying,1.6463,74,60.8125,19.8194
+L-D-Still paying,link,Still paying,D,Still paying,1.6463,75,59.625,19.8264
+L-D-Still paying,link,Still paying,D,Still paying,1.6463,76,58.4375,19.8316
+L-D-Still paying,link,Still paying,D,Still paying,1.6463,77,57.25,19.8356
+L-D-Still paying,link,Still paying,D,Still paying,1.6463,78,56.0625,19.8385
+L-D-Still paying,link,Still paying,D,Still paying,1.6463,79,54.875,19.8406
+L-D-Still paying,link,Still paying,D,Still paying,1.6463,80,53.6875,19.8423
+L-D-Still paying,link,Still paying,D,Still paying,1.6463,81,52.5,19.8435
+L-D-Late,link,Late,D,Late,0.1186,0,52.5,19.8484
+L-D-Late,link,Late,D,Late,0.1186,1,53.6875,19.8489
+L-D-Late,link,Late,D,Late,0.1186,2,54.875,19.8496
+L-D-Late,link,Late,D,Late,0.1186,3,56.0625,19.8506
+L-D-Late,link,Late,D,Late,0.1186,4,57.25,19.8519
+L-D-Late,link,Late,D,Late,0.1186,5,58.4375,19.8536
+L-D-Late,link,Late,D,Late,0.1186,6,59.625,19.8559
+L-D-Late,link,Late,D,Late,0.1186,7,60.8125,19.859
+L-D-Late,link,Late,D,Late,0.1186,8,62.0,19.8631
+L-D-Late,link,Late,D,Late,0.1186,9,63.1875,19.8686
+L-D-Late,link,Late,D,Late,0.1186,10,64.375,19.8759
+L-D-Late,link,Late,D,Late,0.1186,11,65.5625,19.8854
+L-D-Late,link,Late,D,Late,0.1186,12,66.75,19.8977
+L-D-Late,link,Late,D,Late,0.1186,13,67.9375,19.9135
+L-D-Late,link,Late,D,Late,0.1186,14,69.125,19.9335
+L-D-Late,link,Late,D,Late,0.1186,15,70.3125,19.9583
+L-D-Late,link,Late,D,Late,0.1186,16,71.5,19.9883
+L-D-Late,link,Late,D,Late,0.1186,17,72.6875,20.0235
+L-D-Late,link,Late,D,Late,0.1186,18,73.875,20.0634
+L-D-Late,link,Late,D,Late,0.1186,19,75.0625,20.1069
+L-D-Late,link,Late,D,Late,0.1186,20,76.25,20.1524
+L-D-Late,link,Late,D,Late,0.1186,21,77.4375,20.1978
+L-D-Late,link,Late,D,Late,0.1186,22,78.625,20.2413
+L-D-Late,link,Late,D,Late,0.1186,23,79.8125,20.2812
+L-D-Late,link,Late,D,Late,0.1186,24,81.0,20.3164
+L-D-Late,link,Late,D,Late,0.1186,25,82.1875,20.3464
+L-D-Late,link,Late,D,Late,0.1186,26,83.375,20.3712
+L-D-Late,link,Late,D,Late,0.1186,27,84.5625,20.3912
+L-D-Late,link,Late,D,Late,0.1186,28,85.75,20.407
+L-D-Late,link,Late,D,Late,0.1186,29,86.9375,20.4194
+L-D-Late,link,Late,D,Late,0.1186,30,88.125,20.4289
+L-D-Late,link,Late,D,Late,0.1186,31,89.3125,20.4361
+L-D-Late,link,Late,D,Late,0.1186,32,90.5,20.4416
+L-D-Late,link,Late,D,Late,0.1186,33,91.6875,20.4457
+L-D-Late,link,Late,D,Late,0.1186,34,92.875,20.4488
+L-D-Late,link,Late,D,Late,0.1186,35,94.0625,20.4511
+L-D-Late,link,Late,D,Late,0.1186,36,95.25,20.4528
+L-D-Late,link,Late,D,Late,0.1186,37,96.4375,20.4541
+L-D-Late,link,Late,D,Late,0.1186,38,97.625,20.4551
+L-D-Late,link,Late,D,Late,0.1186,39,98.8125,20.4558
+L-D-Late,link,Late,D,Late,0.1186,40,100.0,20.4563
+L-D-Late,link,Late,D,Late,0.1186,41,100.0,20.5749
+L-D-Late,link,Late,D,Late,0.1186,42,98.8125,20.5744
+L-D-Late,link,Late,D,Late,0.1186,43,97.625,20.5737
+L-D-Late,link,Late,D,Late,0.1186,44,96.4375,20.5727
+L-D-Late,link,Late,D,Late,0.1186,45,95.25,20.5714
+L-D-Late,link,Late,D,Late,0.1186,46,94.0625,20.5697
+L-D-Late,link,Late,D,Late,0.1186,47,92.875,20.5674
+L-D-Late,link,Late,D,Late,0.1186,48,91.6875,20.5643
+L-D-Late,link,Late,D,Late,0.1186,49,90.5,20.5602
+L-D-Late,link,Late,D,Late,0.1186,50,89.3125,20.5547
+L-D-Late,link,Late,D,Late,0.1186,51,88.125,20.5474
+L-D-Late,link,Late,D,Late,0.1186,52,86.9375,20.5379
+L-D-Late,link,Late,D,Late,0.1186,53,85.75,20.5256
+L-D-Late,link,Late,D,Late,0.1186,54,84.5625,20.5097
+L-D-Late,link,Late,D,Late,0.1186,55,83.375,20.4897
+L-D-Late,link,Late,D,Late,0.1186,56,82.1875,20.4649
+L-D-Late,link,Late,D,Late,0.1186,57,81.0,20.435
+L-D-Late,link,Late,D,Late,0.1186,58,79.8125,20.3998
+L-D-Late,link,Late,D,Late,0.1186,59,78.625,20.3599
+L-D-Late,link,Late,D,Late,0.1186,60,77.4375,20.3164
+L-D-Late,link,Late,D,Late,0.1186,61,76.25,20.2709
+L-D-Late,link,Late,D,Late,0.1186,62,75.0625,20.2254
+L-D-Late,link,Late,D,Late,0.1186,63,73.875,20.1819
+L-D-Late,link,Late,D,Late,0.1186,64,72.6875,20.1421
+L-D-Late,link,Late,D,Late,0.1186,65,71.5,20.1069
+L-D-Late,link,Late,D,Late,0.1186,66,70.3125,20.0769
+L-D-Late,link,Late,D,Late,0.1186,67,69.125,20.0521
+L-D-Late,link,Late,D,Late,0.1186,68,67.9375,20.0321
+L-D-Late,link,Late,D,Late,0.1186,69,66.75,20.0163
+L-D-Late,link,Late,D,Late,0.1186,70,65.5625,20.0039
+L-D-Late,link,Late,D,Late,0.1186,71,64.375,19.9944
+L-D-Late,link,Late,D,Late,0.1186,72,63.1875,19.9872
+L-D-Late,link,Late,D,Late,0.1186,73,62.0,19.9817
+L-D-Late,link,Late,D,Late,0.1186,74,60.8125,19.9776
+L-D-Late,link,Late,D,Late,0.1186,75,59.625,19.9745
+L-D-Late,link,Late,D,Late,0.1186,76,58.4375,19.9722
+L-D-Late,link,Late,D,Late,0.1186,77,57.25,19.9704
+L-D-Late,link,Late,D,Late,0.1186,78,56.0625,19.9692
+L-D-Late,link,Late,D,Late,0.1186,79,54.875,19.9682
+L-D-Late,link,Late,D,Late,0.1186,80,53.6875,19.9675
+L-D-Late,link,Late,D,Late,0.1186,81,52.5,19.967
+L-D-Charged off,link,Charged off,D,Charged off,0.418,0,52.5,19.9721
+L-D-Charged off,link,Charged off,D,Charged off,0.418,1,53.6875,19.9744
+L-D-Charged off,link,Charged off,D,Charged off,0.418,2,54.875,19.9776
+L-D-Charged off,link,Charged off,D,Charged off,0.418,3,56.0625,19.9818
+L-D-Charged off,link,Charged off,D,Charged off,0.418,4,57.25,19.9874
+L-D-Charged off,link,Charged off,D,Charged off,0.418,5,58.4375,19.995
+L-D-Charged off,link,Charged off,D,Charged off,0.418,6,59.625,20.0052
+L-D-Charged off,link,Charged off,D,Charged off,0.418,7,60.8125,20.0189
+L-D-Charged off,link,Charged off,D,Charged off,0.418,8,62.0,20.037
+L-D-Charged off,link,Charged off,D,Charged off,0.418,9,63.1875,20.0612
+L-D-Charged off,link,Charged off,D,Charged off,0.418,10,64.375,20.0931
+L-D-Charged off,link,Charged off,D,Charged off,0.418,11,65.5625,20.1349
+L-D-Charged off,link,Charged off,D,Charged off,0.418,12,66.75,20.1893
+L-D-Charged off,link,Charged off,D,Charged off,0.418,13,67.9375,20.2591
+L-D-Charged off,link,Charged off,D,Charged off,0.418,14,69.125,20.3472
+L-D-Charged off,link,Charged off,D,Charged off,0.418,15,70.3125,20.4564
+L-D-Charged off,link,Charged off,D,Charged off,0.418,16,71.5,20.5884
+L-D-Charged off,link,Charged off,D,Charged off,0.418,17,72.6875,20.7433
+L-D-Charged off,link,Charged off,D,Charged off,0.418,18,73.875,20.9191
+L-D-Charged off,link,Charged off,D,Charged off,0.418,19,75.0625,21.1107
+L-D-Charged off,link,Charged off,D,Charged off,0.418,20,76.25,21.311
+L-D-Charged off,link,Charged off,D,Charged off,0.418,21,77.4375,21.5114
+L-D-Charged off,link,Charged off,D,Charged off,0.418,22,78.625,21.703
+L-D-Charged off,link,Charged off,D,Charged off,0.418,23,79.8125,21.8787
+L-D-Charged off,link,Charged off,D,Charged off,0.418,24,81.0,22.0337
+L-D-Charged off,link,Charged off,D,Charged off,0.418,25,82.1875,22.1657
+L-D-Charged off,link,Charged off,D,Charged off,0.418,26,83.375,22.2749
+L-D-Charged off,link,Charged off,D,Charged off,0.418,27,84.5625,22.363
+L-D-Charged off,link,Charged off,D,Charged off,0.418,28,85.75,22.4328
+L-D-Charged off,link,Charged off,D,Charged off,0.418,29,86.9375,22.4871
+L-D-Charged off,link,Charged off,D,Charged off,0.418,30,88.125,22.529
+L-D-Charged off,link,Charged off,D,Charged off,0.418,31,89.3125,22.5609
+L-D-Charged off,link,Charged off,D,Charged off,0.418,32,90.5,22.585
+L-D-Charged off,link,Charged off,D,Charged off,0.418,33,91.6875,22.6032
+L-D-Charged off,link,Charged off,D,Charged off,0.418,34,92.875,22.6169
+L-D-Charged off,link,Charged off,D,Charged off,0.418,35,94.0625,22.627
+L-D-Charged off,link,Charged off,D,Charged off,0.418,36,95.25,22.6346
+L-D-Charged off,link,Charged off,D,Charged off,0.418,37,96.4375,22.6403
+L-D-Charged off,link,Charged off,D,Charged off,0.418,38,97.625,22.6445
+L-D-Charged off,link,Charged off,D,Charged off,0.418,39,98.8125,22.6476
+L-D-Charged off,link,Charged off,D,Charged off,0.418,40,100.0,22.65
+L-D-Charged off,link,Charged off,D,Charged off,0.418,41,100.0,23.068
+L-D-Charged off,link,Charged off,D,Charged off,0.418,42,98.8125,23.0656
+L-D-Charged off,link,Charged off,D,Charged off,0.418,43,97.625,23.0625
+L-D-Charged off,link,Charged off,D,Charged off,0.418,44,96.4375,23.0583
+L-D-Charged off,link,Charged off,D,Charged off,0.418,45,95.25,23.0527
+L-D-Charged off,link,Charged off,D,Charged off,0.418,46,94.0625,23.0451
+L-D-Charged off,link,Charged off,D,Charged off,0.418,47,92.875,23.0349
+L-D-Charged off,link,Charged off,D,Charged off,0.418,48,91.6875,23.0212
+L-D-Charged off,link,Charged off,D,Charged off,0.418,49,90.5,23.003
+L-D-Charged off,link,Charged off,D,Charged off,0.418,50,89.3125,22.9789
+L-D-Charged off,link,Charged off,D,Charged off,0.418,51,88.125,22.947
+L-D-Charged off,link,Charged off,D,Charged off,0.418,52,86.9375,22.9051
+L-D-Charged off,link,Charged off,D,Charged off,0.418,53,85.75,22.8508
+L-D-Charged off,link,Charged off,D,Charged off,0.418,54,84.5625,22.781
+L-D-Charged off,link,Charged off,D,Charged off,0.418,55,83.375,22.6929
+L-D-Charged off,link,Charged off,D,Charged off,0.418,56,82.1875,22.5837
+L-D-Charged off,link,Charged off,D,Charged off,0.418,57,81.0,22.4517
+L-D-Charged off,link,Charged off,D,Charged off,0.418,58,79.8125,22.2967
+L-D-Charged off,link,Charged off,D,Charged off,0.418,59,78.625,22.121
+L-D-Charged off,link,Charged off,D,Charged off,0.418,60,77.4375,21.9294
+L-D-Charged off,link,Charged off,D,Charged off,0.418,61,76.25,21.729
+L-D-Charged off,link,Charged off,D,Charged off,0.418,62,75.0625,21.5287
+L-D-Charged off,link,Charged off,D,Charged off,0.418,63,73.875,21.3371
+L-D-Charged off,link,Charged off,D,Charged off,0.418,64,72.6875,21.1613
+L-D-Charged off,link,Charged off,D,Charged off,0.418,65,71.5,21.0064
+L-D-Charged off,link,Charged off,D,Charged off,0.418,66,70.3125,20.8744
+L-D-Charged off,link,Charged off,D,Charged off,0.418,67,69.125,20.7652
+L-D-Charged off,link,Charged off,D,Charged off,0.418,68,67.9375,20.6771
+L-D-Charged off,link,Charged off,D,Charged off,0.418,69,66.75,20.6073
+L-D-Charged off,link,Charged off,D,Charged off,0.418,70,65.5625,20.5529
+L-D-Charged off,link,Charged off,D,Charged off,0.418,71,64.375,20.5111
+L-D-Charged off,link,Charged off,D,Charged off,0.418,72,63.1875,20.4792
+L-D-Charged off,link,Charged off,D,Charged off,0.418,73,62.0,20.455
+L-D-Charged off,link,Charged off,D,Charged off,0.418,74,60.8125,20.4369
+L-D-Charged off,link,Charged off,D,Charged off,0.418,75,59.625,20.4232
+L-D-Charged off,link,Charged off,D,Charged off,0.418,76,58.4375,20.413
+L-D-Charged off,link,Charged off,D,Charged off,0.418,77,57.25,20.4054
+L-D-Charged off,link,Charged off,D,Charged off,0.418,78,56.0625,20.3998
+L-D-Charged off,link,Charged off,D,Charged off,0.418,79,54.875,20.3956
+L-D-Charged off,link,Charged off,D,Charged off,0.418,80,53.6875,20.3924
+L-D-Charged off,link,Charged off,D,Charged off,0.418,81,52.5,20.3901
+N-D,node,Grade D,D,,2.9399,0,50,17.4436
+N-D,node,Grade D,D,,2.9399,1,52.5,17.4436
+N-D,node,Grade D,D,,2.9399,2,52.5,20.3835
+N-D,node,Grade D,D,,2.9399,3,50,20.3835
+L-E-Paid off,link,Paid off,E,Paid off,0.3126,0,52.5,20.694
+L-E-Paid off,link,Paid off,E,Paid off,0.3126,1,53.6875,20.6802
+L-E-Paid off,link,Paid off,E,Paid off,0.3126,2,54.875,20.6617
+L-E-Paid off,link,Paid off,E,Paid off,0.3126,3,56.0625,20.6367
+L-E-Paid off,link,Paid off,E,Paid off,0.3126,4,57.25,20.6032
+L-E-Paid off,link,Paid off,E,Paid off,0.3126,5,58.4375,20.5581
+L-E-Paid off,link,Paid off,E,Paid off,0.3126,6,59.625,20.4976
+L-E-Paid off,link,Paid off,E,Paid off,0.3126,7,60.8125,20.4167
+L-E-Paid off,link,Paid off,E,Paid off,0.3126,8,62.0,20.3089
+L-E-Paid off,link,Paid off,E,Paid off,0.3126,9,63.1875,20.1656
+L-E-Paid off,link,Paid off,E,Paid off,0.3126,10,64.375,19.9764
+L-E-Paid off,link,Paid off,E,Paid off,0.3126,11,65.5625,19.7282
+L-E-Paid off,link,Paid off,E,Paid off,0.3126,12,66.75,19.4057
+L-E-Paid off,link,Paid off,E,Paid off,0.3126,13,67.9375,18.9919
+L-E-Paid off,link,Paid off,E,Paid off,0.3126,14,69.125,18.469
+L-E-Paid off,link,Paid off,E,Paid off,0.3126,15,70.3125,17.8213
+L-E-Paid off,link,Paid off,E,Paid off,0.3126,16,71.5,17.0383
+L-E-Paid off,link,Paid off,E,Paid off,0.3126,17,72.6875,16.1192
+L-E-Paid off,link,Paid off,E,Paid off,0.3126,18,73.875,15.0768
+L-E-Paid off,link,Paid off,E,Paid off,0.3126,19,75.0625,13.94
+L-E-Paid off,link,Paid off,E,Paid off,0.3126,20,76.25,12.7516
+L-E-Paid off,link,Paid off,E,Paid off,0.3126,21,77.4375,11.5633
+L-E-Paid off,link,Paid off,E,Paid off,0.3126,22,78.625,10.4264
+L-E-Paid off,link,Paid off,E,Paid off,0.3126,23,79.8125,9.3841
+L-E-Paid off,link,Paid off,E,Paid off,0.3126,24,81.0,8.465
+L-E-Paid off,link,Paid off,E,Paid off,0.3126,25,82.1875,7.682
+L-E-Paid off,link,Paid off,E,Paid off,0.3126,26,83.375,7.0343
+L-E-Paid off,link,Paid off,E,Paid off,0.3126,27,84.5625,6.5114
+L-E-Paid off,link,Paid off,E,Paid off,0.3126,28,85.75,6.0976
+L-E-Paid off,link,Paid off,E,Paid off,0.3126,29,86.9375,5.7751
+L-E-Paid off,link,Paid off,E,Paid off,0.3126,30,88.125,5.5269
+L-E-Paid off,link,Paid off,E,Paid off,0.3126,31,89.3125,5.3377
+L-E-Paid off,link,Paid off,E,Paid off,0.3126,32,90.5,5.1944
+L-E-Paid off,link,Paid off,E,Paid off,0.3126,33,91.6875,5.0865
+L-E-Paid off,link,Paid off,E,Paid off,0.3126,34,92.875,5.0057
+L-E-Paid off,link,Paid off,E,Paid off,0.3126,35,94.0625,4.9452
+L-E-Paid off,link,Paid off,E,Paid off,0.3126,36,95.25,4.9001
+L-E-Paid off,link,Paid off,E,Paid off,0.3126,37,96.4375,4.8666
+L-E-Paid off,link,Paid off,E,Paid off,0.3126,38,97.625,4.8416
+L-E-Paid off,link,Paid off,E,Paid off,0.3126,39,98.8125,4.8231
+L-E-Paid off,link,Paid off,E,Paid off,0.3126,40,100.0,4.8093
+L-E-Paid off,link,Paid off,E,Paid off,0.3126,41,100.0,5.1219
+L-E-Paid off,link,Paid off,E,Paid off,0.3126,42,98.8125,5.1356
+L-E-Paid off,link,Paid off,E,Paid off,0.3126,43,97.625,5.1542
+L-E-Paid off,link,Paid off,E,Paid off,0.3126,44,96.4375,5.1791
+L-E-Paid off,link,Paid off,E,Paid off,0.3126,45,95.25,5.2127
+L-E-Paid off,link,Paid off,E,Paid off,0.3126,46,94.0625,5.2578
+L-E-Paid off,link,Paid off,E,Paid off,0.3126,47,92.875,5.3182
+L-E-Paid off,link,Paid off,E,Paid off,0.3126,48,91.6875,5.3991
+L-E-Paid off,link,Paid off,E,Paid off,0.3126,49,90.5,5.507
+L-E-Paid off,link,Paid off,E,Paid off,0.3126,50,89.3125,5.6502
+L-E-Paid off,link,Paid off,E,Paid off,0.3126,51,88.125,5.8395
+L-E-Paid off,link,Paid off,E,Paid off,0.3126,52,86.9375,6.0877
+L-E-Paid off,link,Paid off,E,Paid off,0.3126,53,85.75,6.4101
+L-E-Paid off,link,Paid off,E,Paid off,0.3126,54,84.5625,6.824
+L-E-Paid off,link,Paid off,E,Paid off,0.3126,55,83.375,7.3469
+L-E-Paid off,link,Paid off,E,Paid off,0.3126,56,82.1875,7.9946
+L-E-Paid off,link,Paid off,E,Paid off,0.3126,57,81.0,8.7776
+L-E-Paid off,link,Paid off,E,Paid off,0.3126,58,79.8125,9.6967
+L-E-Paid off,link,Paid off,E,Paid off,0.3126,59,78.625,10.739
+L-E-Paid off,link,Paid off,E,Paid off,0.3126,60,77.4375,11.8758
+L-E-Paid off,link,Paid off,E,Paid off,0.3126,61,76.25,13.0642
+L-E-Paid off,link,Paid off,E,Paid off,0.3126,62,75.0625,14.2526
+L-E-Paid off,link,Paid off,E,Paid off,0.3126,63,73.875,15.3894
+L-E-Paid off,link,Paid off,E,Paid off,0.3126,64,72.6875,16.4317
+L-E-Paid off,link,Paid off,E,Paid off,0.3126,65,71.5,17.3509
+L-E-Paid off,link,Paid off,E,Paid off,0.3126,66,70.3125,18.1339
+L-E-Paid off,link,Paid off,E,Paid off,0.3126,67,69.125,18.7816
+L-E-Paid off,link,Paid off,E,Paid off,0.3126,68,67.9375,19.3045
+L-E-Paid off,link,Paid off,E,Paid off,0.3126,69,66.75,19.7183
+L-E-Paid off,link,Paid off,E,Paid off,0.3126,70,65.5625,20.0408
+L-E-Paid off,link,Paid off,E,Paid off,0.3126,71,64.375,20.289
+L-E-Paid off,link,Paid off,E,Paid off,0.3126,72,63.1875,20.4782
+L-E-Paid off,link,Paid off,E,Paid off,0.3126,73,62.0,20.6215
+L-E-Paid off,link,Paid off,E,Paid off,0.3126,74,60.8125,20.7293
+L-E-Paid off,link,Paid off,E,Paid off,0.3126,75,59.625,20.8102
+L-E-Paid off,link,Paid off,E,Paid off,0.3126,76,58.4375,20.8707
+L-E-Paid off,link,Paid off,E,Paid off,0.3126,77,57.25,20.9157
+L-E-Paid off,link,Paid off,E,Paid off,0.3126,78,56.0625,20.9493
+L-E-Paid off,link,Paid off,E,Paid off,0.3126,79,54.875,20.9743
+L-E-Paid off,link,Paid off,E,Paid off,0.3126,80,53.6875,20.9928
+L-E-Paid off,link,Paid off,E,Paid off,0.3126,81,52.5,21.0066
+L-E-Still paying,link,Still paying,E,Still paying,0.494,0,52.5,21.0397
+L-E-Still paying,link,Still paying,E,Still paying,0.494,1,53.6875,21.0374
+L-E-Still paying,link,Still paying,E,Still paying,0.494,2,54.875,21.0344
+L-E-Still paying,link,Still paying,E,Still paying,0.494,3,56.0625,21.0304
+L-E-Still paying,link,Still paying,E,Still paying,0.494,4,57.25,21.0249
+L-E-Still paying,link,Still paying,E,Still paying,0.494,5,58.4375,21.0176
+L-E-Still paying,link,Still paying,E,Still paying,0.494,6,59.625,21.0078
+L-E-Still paying,link,Still paying,E,Still paying,0.494,7,60.8125,20.9947
+L-E-Still paying,link,Still paying,E,Still paying,0.494,8,62.0,20.9773
+L-E-Still paying,link,Still paying,E,Still paying,0.494,9,63.1875,20.954
+L-E-Still paying,link,Still paying,E,Still paying,0.494,10,64.375,20.9234
+L-E-Still paying,link,Still paying,E,Still paying,0.494,11,65.5625,20.8832
+L-E-Still paying,link,Still paying,E,Still paying,0.494,12,66.75,20.8309
+L-E-Still paying,link,Still paying,E,Still paying,0.494,13,67.9375,20.7639
+L-E-Still paying,link,Still paying,E,Still paying,0.494,14,69.125,20.6792
+L-E-Still paying,link,Still paying,E,Still paying,0.494,15,70.3125,20.5742
+L-E-Still paying,link,Still paying,E,Still paying,0.494,16,71.5,20.4474
+L-E-Still paying,link,Still paying,E,Still paying,0.494,17,72.6875,20.2985
+L-E-Still paying,link,Still paying,E,Still paying,0.494,18,73.875,20.1296
+L-E-Still paying,link,Still paying,E,Still paying,0.494,19,75.0625,19.9454
+L-E-Still paying,link,Still paying,E,Still paying,0.494,20,76.25,19.7529
+L-E-Still paying,link,Still paying,E,Still paying,0.494,21,77.4375,19.5604
+L-E-Still paying,link,Still paying,E,Still paying,0.494,22,78.625,19.3762
+L-E-Still paying,link,Still paying,E,Still paying,0.494,23,79.8125,19.2073
+L-E-Still paying,link,Still paying,E,Still paying,0.494,24,81.0,19.0584
+L-E-Still paying,link,Still paying,E,Still paying,0.494,25,82.1875,18.9316
+L-E-Still paying,link,Still paying,E,Still paying,0.494,26,83.375,18.8266
+L-E-Still paying,link,Still paying,E,Still paying,0.494,27,84.5625,18.7419
+L-E-Still paying,link,Still paying,E,Still paying,0.494,28,85.75,18.6749
+L-E-Still paying,link,Still paying,E,Still paying,0.494,29,86.9375,18.6226
+L-E-Still paying,link,Still paying,E,Still paying,0.494,30,88.125,18.5824
+L-E-Still paying,link,Still paying,E,Still paying,0.494,31,89.3125,18.5518
+L-E-Still paying,link,Still paying,E,Still paying,0.494,32,90.5,18.5286
+L-E-Still paying,link,Still paying,E,Still paying,0.494,33,91.6875,18.5111
+L-E-Still paying,link,Still paying,E,Still paying,0.494,34,92.875,18.498
+L-E-Still paying,link,Still paying,E,Still paying,0.494,35,94.0625,18.4882
+L-E-Still paying,link,Still paying,E,Still paying,0.494,36,95.25,18.4809
+L-E-Still paying,link,Still paying,E,Still paying,0.494,37,96.4375,18.4754
+L-E-Still paying,link,Still paying,E,Still paying,0.494,38,97.625,18.4714
+L-E-Still paying,link,Still paying,E,Still paying,0.494,39,98.8125,18.4684
+L-E-Still paying,link,Still paying,E,Still paying,0.494,40,100.0,18.4662
+L-E-Still paying,link,Still paying,E,Still paying,0.494,41,100.0,18.9601
+L-E-Still paying,link,Still paying,E,Still paying,0.494,42,98.8125,18.9624
+L-E-Still paying,link,Still paying,E,Still paying,0.494,43,97.625,18.9654
+L-E-Still paying,link,Still paying,E,Still paying,0.494,44,96.4375,18.9694
+L-E-Still paying,link,Still paying,E,Still paying,0.494,45,95.25,18.9749
+L-E-Still paying,link,Still paying,E,Still paying,0.494,46,94.0625,18.9822
+L-E-Still paying,link,Still paying,E,Still paying,0.494,47,92.875,18.9919
+L-E-Still paying,link,Still paying,E,Still paying,0.494,48,91.6875,19.0051
+L-E-Still paying,link,Still paying,E,Still paying,0.494,49,90.5,19.0225
+L-E-Still paying,link,Still paying,E,Still paying,0.494,50,89.3125,19.0457
+L-E-Still paying,link,Still paying,E,Still paying,0.494,51,88.125,19.0764
+L-E-Still paying,link,Still paying,E,Still paying,0.494,52,86.9375,19.1166
+L-E-Still paying,link,Still paying,E,Still paying,0.494,53,85.75,19.1688
+L-E-Still paying,link,Still paying,E,Still paying,0.494,54,84.5625,19.2359
+L-E-Still paying,link,Still paying,E,Still paying,0.494,55,83.375,19.3206
+L-E-Still paying,link,Still paying,E,Still paying,0.494,56,82.1875,19.4255
+L-E-Still paying,link,Still paying,E,Still paying,0.494,57,81.0,19.5524
+L-E-Still paying,link,Still paying,E,Still paying,0.494,58,79.8125,19.7013
+L-E-Still paying,link,Still paying,E,Still paying,0.494,59,78.625,19.8702
+L-E-Still paying,link,Still paying,E,Still paying,0.494,60,77.4375,20.0543
+L-E-Still paying,link,Still paying,E,Still paying,0.494,61,76.25,20.2469
+L-E-Still paying,link,Still paying,E,Still paying,0.494,62,75.0625,20.4394
+L-E-Still paying,link,Still paying,E,Still paying,0.494,63,73.875,20.6236
+L-E-Still paying,link,Still paying,E,Still paying,0.494,64,72.6875,20.7924
+L-E-Still paying,link,Still paying,E,Still paying,0.494,65,71.5,20.9414
+L-E-Still paying,link,Still paying,E,Still paying,0.494,66,70.3125,21.0682
+L-E-Still paying,link,Still paying,E,Still paying,0.494,67,69.125,21.1731
+L-E-Still paying,link,Still paying,E,Still paying,0.494,68,67.9375,21.2579
+L-E-Still paying,link,Still paying,E,Still paying,0.494,69,66.75,21.3249
+L-E-Still paying,link,Still paying,E,Still paying,0.494,70,65.5625,21.3771
+L-E-Still paying,link,Still paying,E,Still paying,0.494,71,64.375,21.4174
+L-E-Still paying,link,Still paying,E,Still paying,0.494,72,63.1875,21.448
+L-E-Still paying,link,Still paying,E,Still paying,0.494,73,62.0,21.4712
+L-E-Still paying,link,Still paying,E,Still paying,0.494,74,60.8125,21.4887
+L-E-Still paying,link,Still paying,E,Still paying,0.494,75,59.625,21.5018
+L-E-Still paying,link,Still paying,E,Still paying,0.494,76,58.4375,21.5116
+L-E-Still paying,link,Still paying,E,Still paying,0.494,77,57.25,21.5189
+L-E-Still paying,link,Still paying,E,Still paying,0.494,78,56.0625,21.5243
+L-E-Still paying,link,Still paying,E,Still paying,0.494,79,54.875,21.5284
+L-E-Still paying,link,Still paying,E,Still paying,0.494,80,53.6875,21.5314
+L-E-Still paying,link,Still paying,E,Still paying,0.494,81,52.5,21.5336
+L-E-Late,link,Late,E,Late,0.0495,0,52.5,21.5376
+L-E-Late,link,Late,E,Late,0.0495,1,53.6875,21.5368
+L-E-Late,link,Late,E,Late,0.0495,2,54.875,21.5357
+L-E-Late,link,Late,E,Late,0.0495,3,56.0625,21.5342
+L-E-Late,link,Late,E,Late,0.0495,4,57.25,21.5321
+L-E-Late,link,Late,E,Late,0.0495,5,58.4375,21.5294
+L-E-Late,link,Late,E,Late,0.0495,6,59.625,21.5258
+L-E-Late,link,Late,E,Late,0.0495,7,60.8125,21.5209
+L-E-Late,link,Late,E,Late,0.0495,8,62.0,21.5144
+L-E-Late,link,Late,E,Late,0.0495,9,63.1875,21.5057
+L-E-Late,link,Late,E,Late,0.0495,10,64.375,21.4943
+L-E-Late,link,Late,E,Late,0.0495,11,65.5625,21.4793
+L-E-Late,link,Late,E,Late,0.0495,12,66.75,21.4599
+L-E-Late,link,Late,E,Late,0.0495,13,67.9375,21.4349
+L-E-Late,link,Late,E,Late,0.0495,14,69.125,21.4033
+L-E-Late,link,Late,E,Late,0.0495,15,70.3125,21.3642
+L-E-Late,link,Late,E,Late,0.0495,16,71.5,21.317
+L-E-Late,link,Late,E,Late,0.0495,17,72.6875,21.2615
+L-E-Late,link,Late,E,Late,0.0495,18,73.875,21.1986
+L-E-Late,link,Late,E,Late,0.0495,19,75.0625,21.1299
+L-E-Late,link,Late,E,Late,0.0495,20,76.25,21.0582
+L-E-Late,link,Late,E,Late,0.0495,21,77.4375,20.9865
+L-E-Late,link,Late,E,Late,0.0495,22,78.625,20.9179
+L-E-Late,link,Late,E,Late,0.0495,23,79.8125,20.8549
+L-E-Late,link,Late,E,Late,0.0495,24,81.0,20.7995
+L-E-Late,link,Late,E,Late,0.0495,25,82.1875,20.7522
+L-E-Late,link,Late,E,Late,0.0495,26,83.375,20.7131
+L-E-Late,link,Late,E,Late,0.0495,27,84.5625,20.6815
+L-E-Late,link,Late,E,Late,0.0495,28,85.75,20.6565
+L-E-Late,link,Late,E,Late,0.0495,29,86.9375,20.6371
+L-E-Late,link,Late,E,Late,0.0495,30,88.125,20.6221
+L-E-Late,link,Late,E,Late,0.0495,31,89.3125,20.6107
+L-E-Late,link,Late,E,Late,0.0495,32,90.5,20.602
+L-E-Late,link,Late,E,Late,0.0495,33,91.6875,20.5955
+L-E-Late,link,Late,E,Late,0.0495,34,92.875,20.5906
+L-E-Late,link,Late,E,Late,0.0495,35,94.0625,20.587
+L-E-Late,link,Late,E,Late,0.0495,36,95.25,20.5843
+L-E-Late,link,Late,E,Late,0.0495,37,96.4375,20.5822
+L-E-Late,link,Late,E,Late,0.0495,38,97.625,20.5807
+L-E-Late,link,Late,E,Late,0.0495,39,98.8125,20.5796
+L-E-Late,link,Late,E,Late,0.0495,40,100.0,20.5788
+L-E-Late,link,Late,E,Late,0.0495,41,100.0,20.6283
+L-E-Late,link,Late,E,Late,0.0495,42,98.8125,20.6292
+L-E-Late,link,Late,E,Late,0.0495,43,97.625,20.6303
+L-E-Late,link,Late,E,Late,0.0495,44,96.4375,20.6318
+L-E-Late,link,Late,E,Late,0.0495,45,95.25,20.6338
+L-E-Late,link,Late,E,Late,0.0495,46,94.0625,20.6365
+L-E-Late,link,Late,E,Late,0.0495,47,92.875,20.6402
+L-E-Late,link,Late,E,Late,0.0495,48,91.6875,20.6451
+L-E-Late,link,Late,E,Late,0.0495,49,90.5,20.6516
+L-E-Late,link,Late,E,Late,0.0495,50,89.3125,20.6602
+L-E-Late,link,Late,E,Late,0.0495,51,88.125,20.6716
+L-E-Late,link,Late,E,Late,0.0495,52,86.9375,20.6866
+L-E-Late,link,Late,E,Late,0.0495,53,85.75,20.7061
+L-E-Late,link,Late,E,Late,0.0495,54,84.5625,20.7311
+L-E-Late,link,Late,E,Late,0.0495,55,83.375,20.7626
+L-E-Late,link,Late,E,Late,0.0495,56,82.1875,20.8017
+L-E-Late,link,Late,E,Late,0.0495,57,81.0,20.849
+L-E-Late,link,Late,E,Late,0.0495,58,79.8125,20.9045
+L-E-Late,link,Late,E,Late,0.0495,59,78.625,20.9674
+L-E-Late,link,Late,E,Late,0.0495,60,77.4375,21.036
+L-E-Late,link,Late,E,Late,0.0495,61,76.25,21.1077
+L-E-Late,link,Late,E,Late,0.0495,62,75.0625,21.1795
+L-E-Late,link,Late,E,Late,0.0495,63,73.875,21.2481
+L-E-Late,link,Late,E,Late,0.0495,64,72.6875,21.311
+L-E-Late,link,Late,E,Late,0.0495,65,71.5,21.3665
+L-E-Late,link,Late,E,Late,0.0495,66,70.3125,21.4138
+L-E-Late,link,Late,E,Late,0.0495,67,69.125,21.4529
+L-E-Late,link,Late,E,Late,0.0495,68,67.9375,21.4844
+L-E-Late,link,Late,E,Late,0.0495,69,66.75,21.5094
+L-E-Late,link,Late,E,Late,0.0495,70,65.5625,21.5289
+L-E-Late,link,Late,E,Late,0.0495,71,64.375,21.5438
+L-E-Late,link,Late,E,Late,0.0495,72,63.1875,21.5553
+L-E-Late,link,Late,E,Late,0.0495,73,62.0,21.5639
+L-E-Late,link,Late,E,Late,0.0495,74,60.8125,21.5704
+L-E-Late,link,Late,E,Late,0.0495,75,59.625,21.5753
+L-E-Late,link,Late,E,Late,0.0495,76,58.4375,21.579
+L-E-Late,link,Late,E,Late,0.0495,77,57.25,21.5817
+L-E-Late,link,Late,E,Late,0.0495,78,56.0625,21.5837
+L-E-Late,link,Late,E,Late,0.0495,79,54.875,21.5852
+L-E-Late,link,Late,E,Late,0.0495,80,53.6875,21.5863
+L-E-Late,link,Late,E,Late,0.0495,81,52.5,21.5872
+L-E-Charged off,link,Charged off,E,Charged off,0.2386,0,52.5,21.5932
+L-E-Charged off,link,Charged off,E,Charged off,0.2386,1,53.6875,21.5945
+L-E-Charged off,link,Charged off,E,Charged off,0.2386,2,54.875,21.5962
+L-E-Charged off,link,Charged off,E,Charged off,0.2386,3,56.0625,21.5985
+L-E-Charged off,link,Charged off,E,Charged off,0.2386,4,57.25,21.6017
+L-E-Charged off,link,Charged off,E,Charged off,0.2386,5,58.4375,21.6059
+L-E-Charged off,link,Charged off,E,Charged off,0.2386,6,59.625,21.6115
+L-E-Charged off,link,Charged off,E,Charged off,0.2386,7,60.8125,21.619
+L-E-Charged off,link,Charged off,E,Charged off,0.2386,8,62.0,21.629
+L-E-Charged off,link,Charged off,E,Charged off,0.2386,9,63.1875,21.6424
+L-E-Charged off,link,Charged off,E,Charged off,0.2386,10,64.375,21.66
+L-E-Charged off,link,Charged off,E,Charged off,0.2386,11,65.5625,21.6831
+L-E-Charged off,link,Charged off,E,Charged off,0.2386,12,66.75,21.7131
+L-E-Charged off,link,Charged off,E,Charged off,0.2386,13,67.9375,21.7516
+L-E-Charged off,link,Charged off,E,Charged off,0.2386,14,69.125,21.8002
+L-E-Charged off,link,Charged off,E,Charged off,0.2386,15,70.3125,21.8605
+L-E-Charged off,link,Charged off,E,Charged off,0.2386,16,71.5,21.9333
+L-E-Charged off,link,Charged off,E,Charged off,0.2386,17,72.6875,22.0188
+L-E-Charged off,link,Charged off,E,Charged off,0.2386,18,73.875,22.1158
+L-E-Charged off,link,Charged off,E,Charged off,0.2386,19,75.0625,22.2215
+L-E-Charged off,link,Charged off,E,Charged off,0.2386,20,76.25,22.3321
+L-E-Charged off,link,Charged off,E,Charged off,0.2386,21,77.4375,22.4426
+L-E-Charged off,link,Charged off,E,Charged off,0.2386,22,78.625,22.5484
+L-E-Charged off,link,Charged off,E,Charged off,0.2386,23,79.8125,22.6454
+L-E-Charged off,link,Charged off,E,Charged off,0.2386,24,81.0,22.7309
+L-E-Charged off,link,Charged off,E,Charged off,0.2386,25,82.1875,22.8037
+L-E-Charged off,link,Charged off,E,Charged off,0.2386,26,83.375,22.864
+L-E-Charged off,link,Charged off,E,Charged off,0.2386,27,84.5625,22.9126
+L-E-Charged off,link,Charged off,E,Charged off,0.2386,28,85.75,22.9511
+L-E-Charged off,link,Charged off,E,Charged off,0.2386,29,86.9375,22.9811
+L-E-Charged off,link,Charged off,E,Charged off,0.2386,30,88.125,23.0042
+L-E-Charged off,link,Charged off,E,Charged off,0.2386,31,89.3125,23.0218
+L-E-Charged off,link,Charged off,E,Charged off,0.2386,32,90.5,23.0351
+L-E-Charged off,link,Charged off,E,Charged off,0.2386,33,91.6875,23.0452
+L-E-Charged off,link,Charged off,E,Charged off,0.2386,34,92.875,23.0527
+L-E-Charged off,link,Charged off,E,Charged off,0.2386,35,94.0625,23.0583
+L-E-Charged off,link,Charged off,E,Charged off,0.2386,36,95.25,23.0625
+L-E-Charged off,link,Charged off,E,Charged off,0.2386,37,96.4375,23.0656
+L-E-Charged off,link,Charged off,E,Charged off,0.2386,38,97.625,23.0679
+L-E-Charged off,link,Charged off,E,Charged off,0.2386,39,98.8125,23.0697
+L-E-Charged off,link,Charged off,E,Charged off,0.2386,40,100.0,23.0709
+L-E-Charged off,link,Charged off,E,Charged off,0.2386,41,100.0,23.3096
+L-E-Charged off,link,Charged off,E,Charged off,0.2386,42,98.8125,23.3083
+L-E-Charged off,link,Charged off,E,Charged off,0.2386,43,97.625,23.3066
+L-E-Charged off,link,Charged off,E,Charged off,0.2386,44,96.4375,23.3043
+L-E-Charged off,link,Charged off,E,Charged off,0.2386,45,95.25,23.3011
+L-E-Charged off,link,Charged off,E,Charged off,0.2386,46,94.0625,23.2969
+L-E-Charged off,link,Charged off,E,Charged off,0.2386,47,92.875,23.2913
+L-E-Charged off,link,Charged off,E,Charged off,0.2386,48,91.6875,23.2838
+L-E-Charged off,link,Charged off,E,Charged off,0.2386,49,90.5,23.2738
+L-E-Charged off,link,Charged off,E,Charged off,0.2386,50,89.3125,23.2604
+L-E-Charged off,link,Charged off,E,Charged off,0.2386,51,88.125,23.2428
+L-E-Charged off,link,Charged off,E,Charged off,0.2386,52,86.9375,23.2197
+L-E-Charged off,link,Charged off,E,Charged off,0.2386,53,85.75,23.1897
+L-E-Charged off,link,Charged off,E,Charged off,0.2386,54,84.5625,23.1512
+L-E-Charged off,link,Charged off,E,Charged off,0.2386,55,83.375,23.1026
+L-E-Charged off,link,Charged off,E,Charged off,0.2386,56,82.1875,23.0423
+L-E-Charged off,link,Charged off,E,Charged off,0.2386,57,81.0,22.9695
+L-E-Charged off,link,Charged off,E,Charged off,0.2386,58,79.8125,22.884
+L-E-Charged off,link,Charged off,E,Charged off,0.2386,59,78.625,22.787
+L-E-Charged off,link,Charged off,E,Charged off,0.2386,60,77.4375,22.6813
+L-E-Charged off,link,Charged off,E,Charged off,0.2386,61,76.25,22.5707
+L-E-Charged off,link,Charged off,E,Charged off,0.2386,62,75.0625,22.4602
+L-E-Charged off,link,Charged off,E,Charged off,0.2386,63,73.875,22.3544
+L-E-Charged off,link,Charged off,E,Charged off,0.2386,64,72.6875,22.2574
+L-E-Charged off,link,Charged off,E,Charged off,0.2386,65,71.5,22.1719
+L-E-Charged off,link,Charged off,E,Charged off,0.2386,66,70.3125,22.0991
+L-E-Charged off,link,Charged off,E,Charged off,0.2386,67,69.125,22.0388
+L-E-Charged off,link,Charged off,E,Charged off,0.2386,68,67.9375,21.9902
+L-E-Charged off,link,Charged off,E,Charged off,0.2386,69,66.75,21.9517
+L-E-Charged off,link,Charged off,E,Charged off,0.2386,70,65.5625,21.9217
+L-E-Charged off,link,Charged off,E,Charged off,0.2386,71,64.375,21.8986
+L-E-Charged off,link,Charged off,E,Charged off,0.2386,72,63.1875,21.881
+L-E-Charged off,link,Charged off,E,Charged off,0.2386,73,62.0,21.8677
+L-E-Charged off,link,Charged off,E,Charged off,0.2386,74,60.8125,21.8576
+L-E-Charged off,link,Charged off,E,Charged off,0.2386,75,59.625,21.8501
+L-E-Charged off,link,Charged off,E,Charged off,0.2386,76,58.4375,21.8445
+L-E-Charged off,link,Charged off,E,Charged off,0.2386,77,57.25,21.8403
+L-E-Charged off,link,Charged off,E,Charged off,0.2386,78,56.0625,21.8372
+L-E-Charged off,link,Charged off,E,Charged off,0.2386,79,54.875,21.8349
+L-E-Charged off,link,Charged off,E,Charged off,0.2386,80,53.6875,21.8331
+L-E-Charged off,link,Charged off,E,Charged off,0.2386,81,52.5,21.8319
+N-E,node,Grade E,E,,1.0947,0,50,20.7335
+N-E,node,Grade E,E,,1.0947,1,52.5,20.7335
+N-E,node,Grade E,E,,1.0947,2,52.5,21.8282
+N-E,node,Grade E,E,,1.0947,3,50,21.8282
+L-F-Paid off,link,Paid off,F,Paid off,0.1058,0,52.5,22.1359
+L-F-Paid off,link,Paid off,F,Paid off,0.1058,1,53.6875,22.1212
+L-F-Paid off,link,Paid off,F,Paid off,0.1058,2,54.875,22.1013
+L-F-Paid off,link,Paid off,F,Paid off,0.1058,3,56.0625,22.0746
+L-F-Paid off,link,Paid off,F,Paid off,0.1058,4,57.25,22.0386
+L-F-Paid off,link,Paid off,F,Paid off,0.1058,5,58.4375,21.9904
+L-F-Paid off,link,Paid off,F,Paid off,0.1058,6,59.625,21.9256
+L-F-Paid off,link,Paid off,F,Paid off,0.1058,7,60.8125,21.839
+L-F-Paid off,link,Paid off,F,Paid off,0.1058,8,62.0,21.7235
+L-F-Paid off,link,Paid off,F,Paid off,0.1058,9,63.1875,21.5701
+L-F-Paid off,link,Paid off,F,Paid off,0.1058,10,64.375,21.3674
+L-F-Paid off,link,Paid off,F,Paid off,0.1058,11,65.5625,21.1016
+L-F-Paid off,link,Paid off,F,Paid off,0.1058,12,66.75,20.7563
+L-F-Paid off,link,Paid off,F,Paid off,0.1058,13,67.9375,20.3131
+L-F-Paid off,link,Paid off,F,Paid off,0.1058,14,69.125,19.7531
+L-F-Paid off,link,Paid off,F,Paid off,0.1058,15,70.3125,19.0595
+L-F-Paid off,link,Paid off,F,Paid off,0.1058,16,71.5,18.2209
+L-F-Paid off,link,Paid off,F,Paid off,0.1058,17,72.6875,17.2366
+L-F-Paid off,link,Paid off,F,Paid off,0.1058,18,73.875,16.1204
+L-F-Paid off,link,Paid off,F,Paid off,0.1058,19,75.0625,14.9029
+L-F-Paid off,link,Paid off,F,Paid off,0.1058,20,76.25,13.6303
+L-F-Paid off,link,Paid off,F,Paid off,0.1058,21,77.4375,12.3576
+L-F-Paid off,link,Paid off,F,Paid off,0.1058,22,78.625,11.1402
+L-F-Paid off,link,Paid off,F,Paid off,0.1058,23,79.8125,10.0239
+L-F-Paid off,link,Paid off,F,Paid off,0.1058,24,81.0,9.0396
+L-F-Paid off,link,Paid off,F,Paid off,0.1058,25,82.1875,8.2011
+L-F-Paid off,link,Paid off,F,Paid off,0.1058,26,83.375,7.5075
+L-F-Paid off,link,Paid off,F,Paid off,0.1058,27,84.5625,6.9475
+L-F-Paid off,link,Paid off,F,Paid off,0.1058,28,85.75,6.5043
+L-F-Paid off,link,Paid off,F,Paid off,0.1058,29,86.9375,6.159
+L-F-Paid off,link,Paid off,F,Paid off,0.1058,30,88.125,5.8932
+L-F-Paid off,link,Paid off,F,Paid off,0.1058,31,89.3125,5.6905
+L-F-Paid off,link,Paid off,F,Paid off,0.1058,32,90.5,5.5371
+L-F-Paid off,link,Paid off,F,Paid off,0.1058,33,91.6875,5.4216
+L-F-Paid off,link,Paid off,F,Paid off,0.1058,34,92.875,5.335
+L-F-Paid off,link,Paid off,F,Paid off,0.1058,35,94.0625,5.2702
+L-F-Paid off,link,Paid off,F,Paid off,0.1058,36,95.25,5.2219
+L-F-Paid off,link,Paid off,F,Paid off,0.1058,37,96.4375,5.186
+L-F-Paid off,link,Paid off,F,Paid off,0.1058,38,97.625,5.1593
+L-F-Paid off,link,Paid off,F,Paid off,0.1058,39,98.8125,5.1394
+L-F-Paid off,link,Paid off,F,Paid off,0.1058,40,100.0,5.1247
+L-F-Paid off,link,Paid off,F,Paid off,0.1058,41,100.0,5.2305
+L-F-Paid off,link,Paid off,F,Paid off,0.1058,42,98.8125,5.2452
+L-F-Paid off,link,Paid off,F,Paid off,0.1058,43,97.625,5.2651
+L-F-Paid off,link,Paid off,F,Paid off,0.1058,44,96.4375,5.2918
+L-F-Paid off,link,Paid off,F,Paid off,0.1058,45,95.25,5.3277
+L-F-Paid off,link,Paid off,F,Paid off,0.1058,46,94.0625,5.376
+L-F-Paid off,link,Paid off,F,Paid off,0.1058,47,92.875,5.4408
+L-F-Paid off,link,Paid off,F,Paid off,0.1058,48,91.6875,5.5274
+L-F-Paid off,link,Paid off,F,Paid off,0.1058,49,90.5,5.6429
+L-F-Paid off,link,Paid off,F,Paid off,0.1058,50,89.3125,5.7963
+L-F-Paid off,link,Paid off,F,Paid off,0.1058,51,88.125,5.999
+L-F-Paid off,link,Paid off,F,Paid off,0.1058,52,86.9375,6.2648
+L-F-Paid off,link,Paid off,F,Paid off,0.1058,53,85.75,6.6101
+L-F-Paid off,link,Paid off,F,Paid off,0.1058,54,84.5625,7.0533
+L-F-Paid off,link,Paid off,F,Paid off,0.1058,55,83.375,7.6133
+L-F-Paid off,link,Paid off,F,Paid off,0.1058,56,82.1875,8.3069
+L-F-Paid off,link,Paid off,F,Paid off,0.1058,57,81.0,9.1455
+L-F-Paid off,link,Paid off,F,Paid off,0.1058,58,79.8125,10.1297
+L-F-Paid off,link,Paid off,F,Paid off,0.1058,59,78.625,11.246
+L-F-Paid off,link,Paid off,F,Paid off,0.1058,60,77.4375,12.4634
+L-F-Paid off,link,Paid off,F,Paid off,0.1058,61,76.25,13.7361
+L-F-Paid off,link,Paid off,F,Paid off,0.1058,62,75.0625,15.0087
+L-F-Paid off,link,Paid off,F,Paid off,0.1058,63,73.875,16.2262
+L-F-Paid off,link,Paid off,F,Paid off,0.1058,64,72.6875,17.3424
+L-F-Paid off,link,Paid off,F,Paid off,0.1058,65,71.5,18.3267
+L-F-Paid off,link,Paid off,F,Paid off,0.1058,66,70.3125,19.1653
+L-F-Paid off,link,Paid off,F,Paid off,0.1058,67,69.125,19.8589
+L-F-Paid off,link,Paid off,F,Paid off,0.1058,68,67.9375,20.4189
+L-F-Paid off,link,Paid off,F,Paid off,0.1058,69,66.75,20.8621
+L-F-Paid off,link,Paid off,F,Paid off,0.1058,70,65.5625,21.2074
+L-F-Paid off,link,Paid off,F,Paid off,0.1058,71,64.375,21.4732
+L-F-Paid off,link,Paid off,F,Paid off,0.1058,72,63.1875,21.6759
+L-F-Paid off,link,Paid off,F,Paid off,0.1058,73,62.0,21.8293
+L-F-Paid off,link,Paid off,F,Paid off,0.1058,74,60.8125,21.9448
+L-F-Paid off,link,Paid off,F,Paid off,0.1058,75,59.625,22.0314
+L-F-Paid off,link,Paid off,F,Paid off,0.1058,76,58.4375,22.0962
+L-F-Paid off,link,Paid off,F,Paid off,0.1058,77,57.25,22.1444
+L-F-Paid off,link,Paid off,F,Paid off,0.1058,78,56.0625,22.1804
+L-F-Paid off,link,Paid off,F,Paid off,0.1058,79,54.875,22.2071
+L-F-Paid off,link,Paid off,F,Paid off,0.1058,80,53.6875,22.227
+L-F-Paid off,link,Paid off,F,Paid off,0.1058,81,52.5,22.2417
+L-F-Still paying,link,Still paying,F,Still paying,0.1232,0,52.5,22.2758
+L-F-Still paying,link,Still paying,F,Still paying,0.1232,1,53.6875,22.2729
+L-F-Still paying,link,Still paying,F,Still paying,0.1232,2,54.875,22.269
+L-F-Still paying,link,Still paying,F,Still paying,0.1232,3,56.0625,22.2638
+L-F-Still paying,link,Still paying,F,Still paying,0.1232,4,57.25,22.2568
+L-F-Still paying,link,Still paying,F,Still paying,0.1232,5,58.4375,22.2474
+L-F-Still paying,link,Still paying,F,Still paying,0.1232,6,59.625,22.2348
+L-F-Still paying,link,Still paying,F,Still paying,0.1232,7,60.8125,22.2179
+L-F-Still paying,link,Still paying,F,Still paying,0.1232,8,62.0,22.1954
+L-F-Still paying,link,Still paying,F,Still paying,0.1232,9,63.1875,22.1655
+L-F-Still paying,link,Still paying,F,Still paying,0.1232,10,64.375,22.126
+L-F-Still paying,link,Still paying,F,Still paying,0.1232,11,65.5625,22.0743
+L-F-Still paying,link,Still paying,F,Still paying,0.1232,12,66.75,22.007
+L-F-Still paying,link,Still paying,F,Still paying,0.1232,13,67.9375,21.9207
+L-F-Still paying,link,Still paying,F,Still paying,0.1232,14,69.125,21.8116
+L-F-Still paying,link,Still paying,F,Still paying,0.1232,15,70.3125,21.6765
+L-F-Still paying,link,Still paying,F,Still paying,0.1232,16,71.5,21.5131
+L-F-Still paying,link,Still paying,F,Still paying,0.1232,17,72.6875,21.3214
+L-F-Still paying,link,Still paying,F,Still paying,0.1232,18,73.875,21.1039
+L-F-Still paying,link,Still paying,F,Still paying,0.1232,19,75.0625,20.8668
+L-F-Still paying,link,Still paying,F,Still paying,0.1232,20,76.25,20.6189
+L-F-Still paying,link,Still paying,F,Still paying,0.1232,21,77.4375,20.371
+L-F-Still paying,link,Still paying,F,Still paying,0.1232,22,78.625,20.1338
+L-F-Still paying,link,Still paying,F,Still paying,0.1232,23,79.8125,19.9163
+L-F-Still paying,link,Still paying,F,Still paying,0.1232,24,81.0,19.7246
+L-F-Still paying,link,Still paying,F,Still paying,0.1232,25,82.1875,19.5613
+L-F-Still paying,link,Still paying,F,Still paying,0.1232,26,83.375,19.4261
+L-F-Still paying,link,Still paying,F,Still paying,0.1232,27,84.5625,19.3171
+L-F-Still paying,link,Still paying,F,Still paying,0.1232,28,85.75,19.2307
+L-F-Still paying,link,Still paying,F,Still paying,0.1232,29,86.9375,19.1635
+L-F-Still paying,link,Still paying,F,Still paying,0.1232,30,88.125,19.1117
+L-F-Still paying,link,Still paying,F,Still paying,0.1232,31,89.3125,19.0722
+L-F-Still paying,link,Still paying,F,Still paying,0.1232,32,90.5,19.0423
+L-F-Still paying,link,Still paying,F,Still paying,0.1232,33,91.6875,19.0198
+L-F-Still paying,link,Still paying,F,Still paying,0.1232,34,92.875,19.0029
+L-F-Still paying,link,Still paying,F,Still paying,0.1232,35,94.0625,18.9903
+L-F-Still paying,link,Still paying,F,Still paying,0.1232,36,95.25,18.9809
+L-F-Still paying,link,Still paying,F,Still paying,0.1232,37,96.4375,18.9739
+L-F-Still paying,link,Still paying,F,Still paying,0.1232,38,97.625,18.9687
+L-F-Still paying,link,Still paying,F,Still paying,0.1232,39,98.8125,18.9648
+L-F-Still paying,link,Still paying,F,Still paying,0.1232,40,100.0,18.962
+L-F-Still paying,link,Still paying,F,Still paying,0.1232,41,100.0,19.0851
+L-F-Still paying,link,Still paying,F,Still paying,0.1232,42,98.8125,19.088
+L-F-Still paying,link,Still paying,F,Still paying,0.1232,43,97.625,19.0919
+L-F-Still paying,link,Still paying,F,Still paying,0.1232,44,96.4375,19.0971
+L-F-Still paying,link,Still paying,F,Still paying,0.1232,45,95.25,19.1041
+L-F-Still paying,link,Still paying,F,Still paying,0.1232,46,94.0625,19.1135
+L-F-Still paying,link,Still paying,F,Still paying,0.1232,47,92.875,19.1261
+L-F-Still paying,link,Still paying,F,Still paying,0.1232,48,91.6875,19.143
+L-F-Still paying,link,Still paying,F,Still paying,0.1232,49,90.5,19.1655
+L-F-Still paying,link,Still paying,F,Still paying,0.1232,50,89.3125,19.1954
+L-F-Still paying,link,Still paying,F,Still paying,0.1232,51,88.125,19.2348
+L-F-Still paying,link,Still paying,F,Still paying,0.1232,52,86.9375,19.2866
+L-F-Still paying,link,Still paying,F,Still paying,0.1232,53,85.75,19.3539
+L-F-Still paying,link,Still paying,F,Still paying,0.1232,54,84.5625,19.4402
+L-F-Still paying,link,Still paying,F,Still paying,0.1232,55,83.375,19.5493
+L-F-Still paying,link,Still paying,F,Still paying,0.1232,56,82.1875,19.6844
+L-F-Still paying,link,Still paying,F,Still paying,0.1232,57,81.0,19.8478
+L-F-Still paying,link,Still paying,F,Still paying,0.1232,58,79.8125,20.0395
+L-F-Still paying,link,Still paying,F,Still paying,0.1232,59,78.625,20.257
+L-F-Still paying,link,Still paying,F,Still paying,0.1232,60,77.4375,20.4941
+L-F-Still paying,link,Still paying,F,Still paying,0.1232,61,76.25,20.742
+L-F-Still paying,link,Still paying,F,Still paying,0.1232,62,75.0625,20.9899
+L-F-Still paying,link,Still paying,F,Still paying,0.1232,63,73.875,21.2271
+L-F-Still paying,link,Still paying,F,Still paying,0.1232,64,72.6875,21.4445
+L-F-Still paying,link,Still paying,F,Still paying,0.1232,65,71.5,21.6363
+L-F-Still paying,link,Still paying,F,Still paying,0.1232,66,70.3125,21.7996
+L-F-Still paying,link,Still paying,F,Still paying,0.1232,67,69.125,21.9348
+L-F-Still paying,link,Still paying,F,Still paying,0.1232,68,67.9375,22.0438
+L-F-Still paying,link,Still paying,F,Still paying,0.1232,69,66.75,22.1302
+L-F-Still paying,link,Still paying,F,Still paying,0.1232,70,65.5625,22.1974
+L-F-Still paying,link,Still paying,F,Still paying,0.1232,71,64.375,22.2492
+L-F-Still paying,link,Still paying,F,Still paying,0.1232,72,63.1875,22.2887
+L-F-Still paying,link,Still paying,F,Still paying,0.1232,73,62.0,22.3186
+L-F-Still paying,link,Still paying,F,Still paying,0.1232,74,60.8125,22.3411
+L-F-Still paying,link,Still paying,F,Still paying,0.1232,75,59.625,22.358
+L-F-Still paying,link,Still paying,F,Still paying,0.1232,76,58.4375,22.3706
+L-F-Still paying,link,Still paying,F,Still paying,0.1232,77,57.25,22.38
+L-F-Still paying,link,Still paying,F,Still paying,0.1232,78,56.0625,22.387
+L-F-Still paying,link,Still paying,F,Still paying,0.1232,79,54.875,22.3922
+L-F-Still paying,link,Still paying,F,Still paying,0.1232,80,53.6875,22.396
+L-F-Still paying,link,Still paying,F,Still paying,0.1232,81,52.5,22.3989
+L-F-Late,link,Late,F,Late,0.0172,0,52.5,22.4028
+L-F-Late,link,Late,F,Late,0.0172,1,53.6875,22.4012
+L-F-Late,link,Late,F,Late,0.0172,2,54.875,22.3991
+L-F-Late,link,Late,F,Late,0.0172,3,56.0625,22.3964
+L-F-Late,link,Late,F,Late,0.0172,4,57.25,22.3926
+L-F-Late,link,Late,F,Late,0.0172,5,58.4375,22.3876
+L-F-Late,link,Late,F,Late,0.0172,6,59.625,22.3808
+L-F-Late,link,Late,F,Late,0.0172,7,60.8125,22.3718
+L-F-Late,link,Late,F,Late,0.0172,8,62.0,22.3598
+L-F-Late,link,Late,F,Late,0.0172,9,63.1875,22.3438
+L-F-Late,link,Late,F,Late,0.0172,10,64.375,22.3227
+L-F-Late,link,Late,F,Late,0.0172,11,65.5625,22.295
+L-F-Late,link,Late,F,Late,0.0172,12,66.75,22.259
+L-F-Late,link,Late,F,Late,0.0172,13,67.9375,22.2128
+L-F-Late,link,Late,F,Late,0.0172,14,69.125,22.1545
+L-F-Late,link,Late,F,Late,0.0172,15,70.3125,22.0822
+L-F-Late,link,Late,F,Late,0.0172,16,71.5,21.9948
+L-F-Late,link,Late,F,Late,0.0172,17,72.6875,21.8923
+L-F-Late,link,Late,F,Late,0.0172,18,73.875,21.776
+L-F-Late,link,Late,F,Late,0.0172,19,75.0625,21.6491
+L-F-Late,link,Late,F,Late,0.0172,20,76.25,21.5165
+L-F-Late,link,Late,F,Late,0.0172,21,77.4375,21.3839
+L-F-Late,link,Late,F,Late,0.0172,22,78.625,21.2571
+L-F-Late,link,Late,F,Late,0.0172,23,79.8125,21.1408
+L-F-Late,link,Late,F,Late,0.0172,24,81.0,21.0382
+L-F-Late,link,Late,F,Late,0.0172,25,82.1875,20.9509
+L-F-Late,link,Late,F,Late,0.0172,26,83.375,20.8786
+L-F-Late,link,Late,F,Late,0.0172,27,84.5625,20.8203
+L-F-Late,link,Late,F,Late,0.0172,28,85.75,20.7741
+L-F-Late,link,Late,F,Late,0.0172,29,86.9375,20.7381
+L-F-Late,link,Late,F,Late,0.0172,30,88.125,20.7104
+L-F-Late,link,Late,F,Late,0.0172,31,89.3125,20.6893
+L-F-Late,link,Late,F,Late,0.0172,32,90.5,20.6733
+L-F-Late,link,Late,F,Late,0.0172,33,91.6875,20.6613
+L-F-Late,link,Late,F,Late,0.0172,34,92.875,20.6523
+L-F-Late,link,Late,F,Late,0.0172,35,94.0625,20.6455
+L-F-Late,link,Late,F,Late,0.0172,36,95.25,20.6405
+L-F-Late,link,Late,F,Late,0.0172,37,96.4375,20.6367
+L-F-Late,link,Late,F,Late,0.0172,38,97.625,20.6339
+L-F-Late,link,Late,F,Late,0.0172,39,98.8125,20.6319
+L-F-Late,link,Late,F,Late,0.0172,40,100.0,20.6303
+L-F-Late,link,Late,F,Late,0.0172,41,100.0,20.6475
+L-F-Late,link,Late,F,Late,0.0172,42,98.8125,20.649
+L-F-Late,link,Late,F,Late,0.0172,43,97.625,20.6511
+L-F-Late,link,Late,F,Late,0.0172,44,96.4375,20.6539
+L-F-Late,link,Late,F,Late,0.0172,45,95.25,20.6576
+L-F-Late,link,Late,F,Late,0.0172,46,94.0625,20.6627
+L-F-Late,link,Late,F,Late,0.0172,47,92.875,20.6694
+L-F-Late,link,Late,F,Late,0.0172,48,91.6875,20.6784
+L-F-Late,link,Late,F,Late,0.0172,49,90.5,20.6905
+L-F-Late,link,Late,F,Late,0.0172,50,89.3125,20.7064
+L-F-Late,link,Late,F,Late,0.0172,51,88.125,20.7276
+L-F-Late,link,Late,F,Late,0.0172,52,86.9375,20.7553
+L-F-Late,link,Late,F,Late,0.0172,53,85.75,20.7912
+L-F-Late,link,Late,F,Late,0.0172,54,84.5625,20.8374
+L-F-Late,link,Late,F,Late,0.0172,55,83.375,20.8958
+L-F-Late,link,Late,F,Late,0.0172,56,82.1875,20.968
+L-F-Late,link,Late,F,Late,0.0172,57,81.0,21.0554
+L-F-Late,link,Late,F,Late,0.0172,58,79.8125,21.1579
+L-F-Late,link,Late,F,Late,0.0172,59,78.625,21.2743
+L-F-Late,link,Late,F,Late,0.0172,60,77.4375,21.4011
+L-F-Late,link,Late,F,Late,0.0172,61,76.25,21.5337
+L-F-Late,link,Late,F,Late,0.0172,62,75.0625,21.6663
+L-F-Late,link,Late,F,Late,0.0172,63,73.875,21.7931
+L-F-Late,link,Late,F,Late,0.0172,64,72.6875,21.9094
+L-F-Late,link,Late,F,Late,0.0172,65,71.5,22.012
+L-F-Late,link,Late,F,Late,0.0172,66,70.3125,22.0994
+L-F-Late,link,Late,F,Late,0.0172,67,69.125,22.1716
+L-F-Late,link,Late,F,Late,0.0172,68,67.9375,22.23
+L-F-Late,link,Late,F,Late,0.0172,69,66.75,22.2762
+L-F-Late,link,Late,F,Late,0.0172,70,65.5625,22.3121
+L-F-Late,link,Late,F,Late,0.0172,71,64.375,22.3398
+L-F-Late,link,Late,F,Late,0.0172,72,63.1875,22.3609
+L-F-Late,link,Late,F,Late,0.0172,73,62.0,22.3769
+L-F-Late,link,Late,F,Late,0.0172,74,60.8125,22.389
+L-F-Late,link,Late,F,Late,0.0172,75,59.625,22.398
+L-F-Late,link,Late,F,Late,0.0172,76,58.4375,22.4047
+L-F-Late,link,Late,F,Late,0.0172,77,57.25,22.4098
+L-F-Late,link,Late,F,Late,0.0172,78,56.0625,22.4135
+L-F-Late,link,Late,F,Late,0.0172,79,54.875,22.4163
+L-F-Late,link,Late,F,Late,0.0172,80,53.6875,22.4184
+L-F-Late,link,Late,F,Late,0.0172,81,52.5,22.4199
+L-F-Charged off,link,Charged off,F,Charged off,0.1122,0,52.5,22.4265
+L-F-Charged off,link,Charged off,F,Charged off,0.1122,1,53.6875,22.4273
+L-F-Charged off,link,Charged off,F,Charged off,0.1122,2,54.875,22.4283
+L-F-Charged off,link,Charged off,F,Charged off,0.1122,3,56.0625,22.4297
+L-F-Charged off,link,Charged off,F,Charged off,0.1122,4,57.25,22.4316
+L-F-Charged off,link,Charged off,F,Charged off,0.1122,5,58.4375,22.4341
+L-F-Charged off,link,Charged off,F,Charged off,0.1122,6,59.625,22.4374
+L-F-Charged off,link,Charged off,F,Charged off,0.1122,7,60.8125,22.4419
+L-F-Charged off,link,Charged off,F,Charged off,0.1122,8,62.0,22.4479
+L-F-Charged off,link,Charged off,F,Charged off,0.1122,9,63.1875,22.4559
+L-F-Charged off,link,Charged off,F,Charged off,0.1122,10,64.375,22.4665
+L-F-Charged off,link,Charged off,F,Charged off,0.1122,11,65.5625,22.4803
+L-F-Charged off,link,Charged off,F,Charged off,0.1122,12,66.75,22.4982
+L-F-Charged off,link,Charged off,F,Charged off,0.1122,13,67.9375,22.5213
+L-F-Charged off,link,Charged off,F,Charged off,0.1122,14,69.125,22.5504
+L-F-Charged off,link,Charged off,F,Charged off,0.1122,15,70.3125,22.5865
+L-F-Charged off,link,Charged off,F,Charged off,0.1122,16,71.5,22.6301
+L-F-Charged off,link,Charged off,F,Charged off,0.1122,17,72.6875,22.6813
+L-F-Charged off,link,Charged off,F,Charged off,0.1122,18,73.875,22.7393
+L-F-Charged off,link,Charged off,F,Charged off,0.1122,19,75.0625,22.8026
+L-F-Charged off,link,Charged off,F,Charged off,0.1122,20,76.25,22.8688
+L-F-Charged off,link,Charged off,F,Charged off,0.1122,21,77.4375,22.935
+L-F-Charged off,link,Charged off,F,Charged off,0.1122,22,78.625,22.9983
+L-F-Charged off,link,Charged off,F,Charged off,0.1122,23,79.8125,23.0563
+L-F-Charged off,link,Charged off,F,Charged off,0.1122,24,81.0,23.1075
+L-F-Charged off,link,Charged off,F,Charged off,0.1122,25,82.1875,23.1511
+L-F-Charged off,link,Charged off,F,Charged off,0.1122,26,83.375,23.1872
+L-F-Charged off,link,Charged off,F,Charged off,0.1122,27,84.5625,23.2163
+L-F-Charged off,link,Charged off,F,Charged off,0.1122,28,85.75,23.2393
+L-F-Charged off,link,Charged off,F,Charged off,0.1122,29,86.9375,23.2573
+L-F-Charged off,link,Charged off,F,Charged off,0.1122,30,88.125,23.2711
+L-F-Charged off,link,Charged off,F,Charged off,0.1122,31,89.3125,23.2816
+L-F-Charged off,link,Charged off,F,Charged off,0.1122,32,90.5,23.2896
+L-F-Charged off,link,Charged off,F,Charged off,0.1122,33,91.6875,23.2956
+L-F-Charged off,link,Charged off,F,Charged off,0.1122,34,92.875,23.3001
+L-F-Charged off,link,Charged off,F,Charged off,0.1122,35,94.0625,23.3035
+L-F-Charged off,link,Charged off,F,Charged off,0.1122,36,95.25,23.306
+L-F-Charged off,link,Charged off,F,Charged off,0.1122,37,96.4375,23.3079
+L-F-Charged off,link,Charged off,F,Charged off,0.1122,38,97.625,23.3093
+L-F-Charged off,link,Charged off,F,Charged off,0.1122,39,98.8125,23.3103
+L-F-Charged off,link,Charged off,F,Charged off,0.1122,40,100.0,23.3111
+L-F-Charged off,link,Charged off,F,Charged off,0.1122,41,100.0,23.4232
+L-F-Charged off,link,Charged off,F,Charged off,0.1122,42,98.8125,23.4225
+L-F-Charged off,link,Charged off,F,Charged off,0.1122,43,97.625,23.4214
+L-F-Charged off,link,Charged off,F,Charged off,0.1122,44,96.4375,23.42
+L-F-Charged off,link,Charged off,F,Charged off,0.1122,45,95.25,23.4182
+L-F-Charged off,link,Charged off,F,Charged off,0.1122,46,94.0625,23.4157
+L-F-Charged off,link,Charged off,F,Charged off,0.1122,47,92.875,23.4123
+L-F-Charged off,link,Charged off,F,Charged off,0.1122,48,91.6875,23.4078
+L-F-Charged off,link,Charged off,F,Charged off,0.1122,49,90.5,23.4018
+L-F-Charged off,link,Charged off,F,Charged off,0.1122,50,89.3125,23.3938
+L-F-Charged off,link,Charged off,F,Charged off,0.1122,51,88.125,23.3833
+L-F-Charged off,link,Charged off,F,Charged off,0.1122,52,86.9375,23.3694
+L-F-Charged off,link,Charged off,F,Charged off,0.1122,53,85.75,23.3515
+L-F-Charged off,link,Charged off,F,Charged off,0.1122,54,84.5625,23.3284
+L-F-Charged off,link,Charged off,F,Charged off,0.1122,55,83.375,23.2993
+L-F-Charged off,link,Charged off,F,Charged off,0.1122,56,82.1875,23.2633
+L-F-Charged off,link,Charged off,F,Charged off,0.1122,57,81.0,23.2196
+L-F-Charged off,link,Charged off,F,Charged off,0.1122,58,79.8125,23.1685
+L-F-Charged off,link,Charged off,F,Charged off,0.1122,59,78.625,23.1104
+L-F-Charged off,link,Charged off,F,Charged off,0.1122,60,77.4375,23.0471
+L-F-Charged off,link,Charged off,F,Charged off,0.1122,61,76.25,22.9809
+L-F-Charged off,link,Charged off,F,Charged off,0.1122,62,75.0625,22.9148
+L-F-Charged off,link,Charged off,F,Charged off,0.1122,63,73.875,22.8515
+L-F-Charged off,link,Charged off,F,Charged off,0.1122,64,72.6875,22.7934
+L-F-Charged off,link,Charged off,F,Charged off,0.1122,65,71.5,22.7422
+L-F-Charged off,link,Charged off,F,Charged off,0.1122,66,70.3125,22.6986
+L-F-Charged off,link,Charged off,F,Charged off,0.1122,67,69.125,22.6626
+L-F-Charged off,link,Charged off,F,Charged off,0.1122,68,67.9375,22.6334
+L-F-Charged off,link,Charged off,F,Charged off,0.1122,69,66.75,22.6104
+L-F-Charged off,link,Charged off,F,Charged off,0.1122,70,65.5625,22.5924
+L-F-Charged off,link,Charged off,F,Charged off,0.1122,71,64.375,22.5786
+L-F-Charged off,link,Charged off,F,Charged off,0.1122,72,63.1875,22.5681
+L-F-Charged off,link,Charged off,F,Charged off,0.1122,73,62.0,22.5601
+L-F-Charged off,link,Charged off,F,Charged off,0.1122,74,60.8125,22.5541
+L-F-Charged off,link,Charged off,F,Charged off,0.1122,75,59.625,22.5496
+L-F-Charged off,link,Charged off,F,Charged off,0.1122,76,58.4375,22.5462
+L-F-Charged off,link,Charged off,F,Charged off,0.1122,77,57.25,22.5437
+L-F-Charged off,link,Charged off,F,Charged off,0.1122,78,56.0625,22.5419
+L-F-Charged off,link,Charged off,F,Charged off,0.1122,79,54.875,22.5405
+L-F-Charged off,link,Charged off,F,Charged off,0.1122,80,53.6875,22.5394
+L-F-Charged off,link,Charged off,F,Charged off,0.1122,81,52.5,22.5387
+N-F,node,Grade F,F,,0.3583,0,50,22.1782
+N-F,node,Grade F,F,,0.3583,1,52.5,22.1782
+N-F,node,Grade F,F,,0.3583,2,52.5,22.5365
+N-F,node,Grade F,F,,0.3583,3,50,22.5365
+L-G-Paid off,link,Paid off,G,Paid off,0.0402,0,52.5,22.8427
+L-G-Paid off,link,Paid off,G,Paid off,0.0402,1,53.6875,22.8274
+L-G-Paid off,link,Paid off,G,Paid off,0.0402,2,54.875,22.8069
+L-G-Paid off,link,Paid off,G,Paid off,0.0402,3,56.0625,22.7792
+L-G-Paid off,link,Paid off,G,Paid off,0.0402,4,57.25,22.742
+L-G-Paid off,link,Paid off,G,Paid off,0.0402,5,58.4375,22.692
+L-G-Paid off,link,Paid off,G,Paid off,0.0402,6,59.625,22.625
+L-G-Paid off,link,Paid off,G,Paid off,0.0402,7,60.8125,22.5353
+L-G-Paid off,link,Paid off,G,Paid off,0.0402,8,62.0,22.4157
+L-G-Paid off,link,Paid off,G,Paid off,0.0402,9,63.1875,22.2569
+L-G-Paid off,link,Paid off,G,Paid off,0.0402,10,64.375,22.0471
+L-G-Paid off,link,Paid off,G,Paid off,0.0402,11,65.5625,21.7719
+L-G-Paid off,link,Paid off,G,Paid off,0.0402,12,66.75,21.4145
+L-G-Paid off,link,Paid off,G,Paid off,0.0402,13,67.9375,20.9556
+L-G-Paid off,link,Paid off,G,Paid off,0.0402,14,69.125,20.3759
+L-G-Paid off,link,Paid off,G,Paid off,0.0402,15,70.3125,19.6579
+L-G-Paid off,link,Paid off,G,Paid off,0.0402,16,71.5,18.7898
+L-G-Paid off,link,Paid off,G,Paid off,0.0402,17,72.6875,17.7708
+L-G-Paid off,link,Paid off,G,Paid off,0.0402,18,73.875,16.6152
+L-G-Paid off,link,Paid off,G,Paid off,0.0402,19,75.0625,15.3548
+L-G-Paid off,link,Paid off,G,Paid off,0.0402,20,76.25,14.0373
+L-G-Paid off,link,Paid off,G,Paid off,0.0402,21,77.4375,12.7198
+L-G-Paid off,link,Paid off,G,Paid off,0.0402,22,78.625,11.4595
+L-G-Paid off,link,Paid off,G,Paid off,0.0402,23,79.8125,10.3039
+L-G-Paid off,link,Paid off,G,Paid off,0.0402,24,81.0,9.2849
+L-G-Paid off,link,Paid off,G,Paid off,0.0402,25,82.1875,8.4168
+L-G-Paid off,link,Paid off,G,Paid off,0.0402,26,83.375,7.6987
+L-G-Paid off,link,Paid off,G,Paid off,0.0402,27,84.5625,7.119
+L-G-Paid off,link,Paid off,G,Paid off,0.0402,28,85.75,6.6602
+L-G-Paid off,link,Paid off,G,Paid off,0.0402,29,86.9375,6.3027
+L-G-Paid off,link,Paid off,G,Paid off,0.0402,30,88.125,6.0276
+L-G-Paid off,link,Paid off,G,Paid off,0.0402,31,89.3125,5.8177
+L-G-Paid off,link,Paid off,G,Paid off,0.0402,32,90.5,5.6589
+L-G-Paid off,link,Paid off,G,Paid off,0.0402,33,91.6875,5.5393
+L-G-Paid off,link,Paid off,G,Paid off,0.0402,34,92.875,5.4497
+L-G-Paid off,link,Paid off,G,Paid off,0.0402,35,94.0625,5.3827
+L-G-Paid off,link,Paid off,G,Paid off,0.0402,36,95.25,5.3327
+L-G-Paid off,link,Paid off,G,Paid off,0.0402,37,96.4375,5.2954
+L-G-Paid off,link,Paid off,G,Paid off,0.0402,38,97.625,5.2678
+L-G-Paid off,link,Paid off,G,Paid off,0.0402,39,98.8125,5.2472
+L-G-Paid off,link,Paid off,G,Paid off,0.0402,40,100.0,5.232
+L-G-Paid off,link,Paid off,G,Paid off,0.0402,41,100.0,5.2721
+L-G-Paid off,link,Paid off,G,Paid off,0.0402,42,98.8125,5.2874
+L-G-Paid off,link,Paid off,G,Paid off,0.0402,43,97.625,5.3079
+L-G-Paid off,link,Paid off,G,Paid off,0.0402,44,96.4375,5.3356
+L-G-Paid off,link,Paid off,G,Paid off,0.0402,45,95.25,5.3728
+L-G-Paid off,link,Paid off,G,Paid off,0.0402,46,94.0625,5.4228
+L-G-Paid off,link,Paid off,G,Paid off,0.0402,47,92.875,5.4898
+L-G-Paid off,link,Paid off,G,Paid off,0.0402,48,91.6875,5.5795
+L-G-Paid off,link,Paid off,G,Paid off,0.0402,49,90.5,5.6991
+L-G-Paid off,link,Paid off,G,Paid off,0.0402,50,89.3125,5.8579
+L-G-Paid off,link,Paid off,G,Paid off,0.0402,51,88.125,6.0677
+L-G-Paid off,link,Paid off,G,Paid off,0.0402,52,86.9375,6.3429
+L-G-Paid off,link,Paid off,G,Paid off,0.0402,53,85.75,6.7004
+L-G-Paid off,link,Paid off,G,Paid off,0.0402,54,84.5625,7.1592
+L-G-Paid off,link,Paid off,G,Paid off,0.0402,55,83.375,7.7389
+L-G-Paid off,link,Paid off,G,Paid off,0.0402,56,82.1875,8.457
+L-G-Paid off,link,Paid off,G,Paid off,0.0402,57,81.0,9.3251
+L-G-Paid off,link,Paid off,G,Paid off,0.0402,58,79.8125,10.344
+L-G-Paid off,link,Paid off,G,Paid off,0.0402,59,78.625,11.4996
+L-G-Paid off,link,Paid off,G,Paid off,0.0402,60,77.4375,12.76
+L-G-Paid off,link,Paid off,G,Paid off,0.0402,61,76.25,14.0775
+L-G-Paid off,link,Paid off,G,Paid off,0.0402,62,75.0625,15.395
+L-G-Paid off,link,Paid off,G,Paid off,0.0402,63,73.875,16.6554
+L-G-Paid off,link,Paid off,G,Paid off,0.0402,64,72.6875,17.8109
+L-G-Paid off,link,Paid off,G,Paid off,0.0402,65,71.5,18.8299
+L-G-Paid off,link,Paid off,G,Paid off,0.0402,66,70.3125,19.698
+L-G-Paid off,link,Paid off,G,Paid off,0.0402,67,69.125,20.4161
+L-G-Paid off,link,Paid off,G,Paid off,0.0402,68,67.9375,20.9958
+L-G-Paid off,link,Paid off,G,Paid off,0.0402,69,66.75,21.4546
+L-G-Paid off,link,Paid off,G,Paid off,0.0402,70,65.5625,21.8121
+L-G-Paid off,link,Paid off,G,Paid off,0.0402,71,64.375,22.0873
+L-G-Paid off,link,Paid off,G,Paid off,0.0402,72,63.1875,22.2971
+L-G-Paid off,link,Paid off,G,Paid off,0.0402,73,62.0,22.4559
+L-G-Paid off,link,Paid off,G,Paid off,0.0402,74,60.8125,22.5755
+L-G-Paid off,link,Paid off,G,Paid off,0.0402,75,59.625,22.6651
+L-G-Paid off,link,Paid off,G,Paid off,0.0402,76,58.4375,22.7322
+L-G-Paid off,link,Paid off,G,Paid off,0.0402,77,57.25,22.7822
+L-G-Paid off,link,Paid off,G,Paid off,0.0402,78,56.0625,22.8194
+L-G-Paid off,link,Paid off,G,Paid off,0.0402,79,54.875,22.847
+L-G-Paid off,link,Paid off,G,Paid off,0.0402,80,53.6875,22.8676
+L-G-Paid off,link,Paid off,G,Paid off,0.0402,81,52.5,22.8829
+L-G-Still paying,link,Still paying,G,Still paying,0.0417,0,52.5,22.9171
+L-G-Still paying,link,Still paying,G,Still paying,0.0417,1,53.6875,22.9138
+L-G-Still paying,link,Still paying,G,Still paying,0.0417,2,54.875,22.9093
+L-G-Still paying,link,Still paying,G,Still paying,0.0417,3,56.0625,22.9033
+L-G-Still paying,link,Still paying,G,Still paying,0.0417,4,57.25,22.8952
+L-G-Still paying,link,Still paying,G,Still paying,0.0417,5,58.4375,22.8843
+L-G-Still paying,link,Still paying,G,Still paying,0.0417,6,59.625,22.8697
+L-G-Still paying,link,Still paying,G,Still paying,0.0417,7,60.8125,22.8502
+L-G-Still paying,link,Still paying,G,Still paying,0.0417,8,62.0,22.8242
+L-G-Still paying,link,Still paying,G,Still paying,0.0417,9,63.1875,22.7897
+L-G-Still paying,link,Still paying,G,Still paying,0.0417,10,64.375,22.744
+L-G-Still paying,link,Still paying,G,Still paying,0.0417,11,65.5625,22.6842
+L-G-Still paying,link,Still paying,G,Still paying,0.0417,12,66.75,22.6064
+L-G-Still paying,link,Still paying,G,Still paying,0.0417,13,67.9375,22.5066
+L-G-Still paying,link,Still paying,G,Still paying,0.0417,14,69.125,22.3805
+L-G-Still paying,link,Still paying,G,Still paying,0.0417,15,70.3125,22.2243
+L-G-Still paying,link,Still paying,G,Still paying,0.0417,16,71.5,22.0355
+L-G-Still paying,link,Still paying,G,Still paying,0.0417,17,72.6875,21.8139
+L-G-Still paying,link,Still paying,G,Still paying,0.0417,18,73.875,21.5625
+L-G-Still paying,link,Still paying,G,Still paying,0.0417,19,75.0625,21.2883
+L-G-Still paying,link,Still paying,G,Still paying,0.0417,20,76.25,21.0018
+L-G-Still paying,link,Still paying,G,Still paying,0.0417,21,77.4375,20.7152
+L-G-Still paying,link,Still paying,G,Still paying,0.0417,22,78.625,20.441
+L-G-Still paying,link,Still paying,G,Still paying,0.0417,23,79.8125,20.1897
+L-G-Still paying,link,Still paying,G,Still paying,0.0417,24,81.0,19.968
+L-G-Still paying,link,Still paying,G,Still paying,0.0417,25,82.1875,19.7792
+L-G-Still paying,link,Still paying,G,Still paying,0.0417,26,83.375,19.623
+L-G-Still paying,link,Still paying,G,Still paying,0.0417,27,84.5625,19.4969
+L-G-Still paying,link,Still paying,G,Still paying,0.0417,28,85.75,19.3971
+L-G-Still paying,link,Still paying,G,Still paying,0.0417,29,86.9375,19.3193
+L-G-Still paying,link,Still paying,G,Still paying,0.0417,30,88.125,19.2595
+L-G-Still paying,link,Still paying,G,Still paying,0.0417,31,89.3125,19.2138
+L-G-Still paying,link,Still paying,G,Still paying,0.0417,32,90.5,19.1793
+L-G-Still paying,link,Still paying,G,Still paying,0.0417,33,91.6875,19.1533
+L-G-Still paying,link,Still paying,G,Still paying,0.0417,34,92.875,19.1338
+L-G-Still paying,link,Still paying,G,Still paying,0.0417,35,94.0625,19.1192
+L-G-Still paying,link,Still paying,G,Still paying,0.0417,36,95.25,19.1083
+L-G-Still paying,link,Still paying,G,Still paying,0.0417,37,96.4375,19.1002
+L-G-Still paying,link,Still paying,G,Still paying,0.0417,38,97.625,19.0942
+L-G-Still paying,link,Still paying,G,Still paying,0.0417,39,98.8125,19.0897
+L-G-Still paying,link,Still paying,G,Still paying,0.0417,40,100.0,19.0864
+L-G-Still paying,link,Still paying,G,Still paying,0.0417,41,100.0,19.1281
+L-G-Still paying,link,Still paying,G,Still paying,0.0417,42,98.8125,19.1314
+L-G-Still paying,link,Still paying,G,Still paying,0.0417,43,97.625,19.1359
+L-G-Still paying,link,Still paying,G,Still paying,0.0417,44,96.4375,19.1419
+L-G-Still paying,link,Still paying,G,Still paying,0.0417,45,95.25,19.15
+L-G-Still paying,link,Still paying,G,Still paying,0.0417,46,94.0625,19.1609
+L-G-Still paying,link,Still paying,G,Still paying,0.0417,47,92.875,19.1755
+L-G-Still paying,link,Still paying,G,Still paying,0.0417,48,91.6875,19.195
+L-G-Still paying,link,Still paying,G,Still paying,0.0417,49,90.5,19.221
+L-G-Still paying,link,Still paying,G,Still paying,0.0417,50,89.3125,19.2555
+L-G-Still paying,link,Still paying,G,Still paying,0.0417,51,88.125,19.3012
+L-G-Still paying,link,Still paying,G,Still paying,0.0417,52,86.9375,19.361
+L-G-Still paying,link,Still paying,G,Still paying,0.0417,53,85.75,19.4388
+L-G-Still paying,link,Still paying,G,Still paying,0.0417,54,84.5625,19.5386
+L-G-Still paying,link,Still paying,G,Still paying,0.0417,55,83.375,19.6647
+L-G-Still paying,link,Still paying,G,Still paying,0.0417,56,82.1875,19.8209
+L-G-Still paying,link,Still paying,G,Still paying,0.0417,57,81.0,20.0097
+L-G-Still paying,link,Still paying,G,Still paying,0.0417,58,79.8125,20.2314
+L-G-Still paying,link,Still paying,G,Still paying,0.0417,59,78.625,20.4827
+L-G-Still paying,link,Still paying,G,Still paying,0.0417,60,77.4375,20.7569
+L-G-Still paying,link,Still paying,G,Still paying,0.0417,61,76.25,21.0435
+L-G-Still paying,link,Still paying,G,Still paying,0.0417,62,75.0625,21.3301
+L-G-Still paying,link,Still paying,G,Still paying,0.0417,63,73.875,21.6042
+L-G-Still paying,link,Still paying,G,Still paying,0.0417,64,72.6875,21.8556
+L-G-Still paying,link,Still paying,G,Still paying,0.0417,65,71.5,22.0772
+L-G-Still paying,link,Still paying,G,Still paying,0.0417,66,70.3125,22.266
+L-G-Still paying,link,Still paying,G,Still paying,0.0417,67,69.125,22.4222
+L-G-Still paying,link,Still paying,G,Still paying,0.0417,68,67.9375,22.5483
+L-G-Still paying,link,Still paying,G,Still paying,0.0417,69,66.75,22.6481
+L-G-Still paying,link,Still paying,G,Still paying,0.0417,70,65.5625,22.7259
+L-G-Still paying,link,Still paying,G,Still paying,0.0417,71,64.375,22.7858
+L-G-Still paying,link,Still paying,G,Still paying,0.0417,72,63.1875,22.8314
+L-G-Still paying,link,Still paying,G,Still paying,0.0417,73,62.0,22.8659
+L-G-Still paying,link,Still paying,G,Still paying,0.0417,74,60.8125,22.8919
+L-G-Still paying,link,Still paying,G,Still paying,0.0417,75,59.625,22.9115
+L-G-Still paying,link,Still paying,G,Still paying,0.0417,76,58.4375,22.926
+L-G-Still paying,link,Still paying,G,Still paying,0.0417,77,57.25,22.9369
+L-G-Still paying,link,Still paying,G,Still paying,0.0417,78,56.0625,22.945
+L-G-Still paying,link,Still paying,G,Still paying,0.0417,79,54.875,22.951
+L-G-Still paying,link,Still paying,G,Still paying,0.0417,80,53.6875,22.9555
+L-G-Still paying,link,Still paying,G,Still paying,0.0417,81,52.5,22.9588
+L-G-Late,link,Late,G,Late,0.0071,0,52.5,22.9626
+L-G-Late,link,Late,G,Late,0.0071,1,53.6875,22.9606
+L-G-Late,link,Late,G,Late,0.0071,2,54.875,22.9579
+L-G-Late,link,Late,G,Late,0.0071,3,56.0625,22.9542
+L-G-Late,link,Late,G,Late,0.0071,4,57.25,22.9493
+L-G-Late,link,Late,G,Late,0.0071,5,58.4375,22.9428
+L-G-Late,link,Late,G,Late,0.0071,6,59.625,22.934
+L-G-Late,link,Late,G,Late,0.0071,7,60.8125,22.9222
+L-G-Late,link,Late,G,Late,0.0071,8,62.0,22.9065
+L-G-Late,link,Late,G,Late,0.0071,9,63.1875,22.8856
+L-G-Late,link,Late,G,Late,0.0071,10,64.375,22.8581
+L-G-Late,link,Late,G,Late,0.0071,11,65.5625,22.8219
+L-G-Late,link,Late,G,Late,0.0071,12,66.75,22.7749
+L-G-Late,link,Late,G,Late,0.0071,13,67.9375,22.7147
+L-G-Late,link,Late,G,Late,0.0071,14,69.125,22.6385
+L-G-Late,link,Late,G,Late,0.0071,15,70.3125,22.5441
+L-G-Late,link,Late,G,Late,0.0071,16,71.5,22.4301
+L-G-Late,link,Late,G,Late,0.0071,17,72.6875,22.2962
+L-G-Late,link,Late,G,Late,0.0071,18,73.875,22.1444
+L-G-Late,link,Late,G,Late,0.0071,19,75.0625,21.9788
+L-G-Late,link,Late,G,Late,0.0071,20,76.25,21.8057
+L-G-Late,link,Late,G,Late,0.0071,21,77.4375,21.6326
+L-G-Late,link,Late,G,Late,0.0071,22,78.625,21.467
+L-G-Late,link,Late,G,Late,0.0071,23,79.8125,21.3152
+L-G-Late,link,Late,G,Late,0.0071,24,81.0,21.1813
+L-G-Late,link,Late,G,Late,0.0071,25,82.1875,21.0673
+L-G-Late,link,Late,G,Late,0.0071,26,83.375,20.9729
+L-G-Late,link,Late,G,Late,0.0071,27,84.5625,20.8968
+L-G-Late,link,Late,G,Late,0.0071,28,85.75,20.8365
+L-G-Late,link,Late,G,Late,0.0071,29,86.9375,20.7895
+L-G-Late,link,Late,G,Late,0.0071,30,88.125,20.7534
+L-G-Late,link,Late,G,Late,0.0071,31,89.3125,20.7258
+L-G-Late,link,Late,G,Late,0.0071,32,90.5,20.7049
+L-G-Late,link,Late,G,Late,0.0071,33,91.6875,20.6892
+L-G-Late,link,Late,G,Late,0.0071,34,92.875,20.6774
+L-G-Late,link,Late,G,Late,0.0071,35,94.0625,20.6686
+L-G-Late,link,Late,G,Late,0.0071,36,95.25,20.6621
+L-G-Late,link,Late,G,Late,0.0071,37,96.4375,20.6572
+L-G-Late,link,Late,G,Late,0.0071,38,97.625,20.6535
+L-G-Late,link,Late,G,Late,0.0071,39,98.8125,20.6508
+L-G-Late,link,Late,G,Late,0.0071,40,100.0,20.6488
+L-G-Late,link,Late,G,Late,0.0071,41,100.0,20.6559
+L-G-Late,link,Late,G,Late,0.0071,42,98.8125,20.6579
+L-G-Late,link,Late,G,Late,0.0071,43,97.625,20.6606
+L-G-Late,link,Late,G,Late,0.0071,44,96.4375,20.6643
+L-G-Late,link,Late,G,Late,0.0071,45,95.25,20.6692
+L-G-Late,link,Late,G,Late,0.0071,46,94.0625,20.6757
+L-G-Late,link,Late,G,Late,0.0071,47,92.875,20.6845
+L-G-Late,link,Late,G,Late,0.0071,48,91.6875,20.6963
+L-G-Late,link,Late,G,Late,0.0071,49,90.5,20.712
+L-G-Late,link,Late,G,Late,0.0071,50,89.3125,20.7329
+L-G-Late,link,Late,G,Late,0.0071,51,88.125,20.7605
+L-G-Late,link,Late,G,Late,0.0071,52,86.9375,20.7966
+L-G-Late,link,Late,G,Late,0.0071,53,85.75,20.8436
+L-G-Late,link,Late,G,Late,0.0071,54,84.5625,20.9039
+L-G-Late,link,Late,G,Late,0.0071,55,83.375,20.98
+L-G-Late,link,Late,G,Late,0.0071,56,82.1875,21.0744
+L-G-Late,link,Late,G,Late,0.0071,57,81.0,21.1884
+L-G-Late,link,Late,G,Late,0.0071,58,79.8125,21.3223
+L-G-Late,link,Late,G,Late,0.0071,59,78.625,21.4741
+L-G-Late,link,Late,G,Late,0.0071,60,77.4375,21.6397
+L-G-Late,link,Late,G,Late,0.0071,61,76.25,21.8128
+L-G-Late,link,Late,G,Late,0.0071,62,75.0625,21.9859
+L-G-Late,link,Late,G,Late,0.0071,63,73.875,22.1515
+L-G-Late,link,Late,G,Late,0.0071,64,72.6875,22.3033
+L-G-Late,link,Late,G,Late,0.0071,65,71.5,22.4372
+L-G-Late,link,Late,G,Late,0.0071,66,70.3125,22.5512
+L-G-Late,link,Late,G,Late,0.0071,67,69.125,22.6456
+L-G-Late,link,Late,G,Late,0.0071,68,67.9375,22.7217
+L-G-Late,link,Late,G,Late,0.0071,69,66.75,22.782
+L-G-Late,link,Late,G,Late,0.0071,70,65.5625,22.829
+L-G-Late,link,Late,G,Late,0.0071,71,64.375,22.8651
+L-G-Late,link,Late,G,Late,0.0071,72,63.1875,22.8927
+L-G-Late,link,Late,G,Late,0.0071,73,62.0,22.9136
+L-G-Late,link,Late,G,Late,0.0071,74,60.8125,22.9293
+L-G-Late,link,Late,G,Late,0.0071,75,59.625,22.9411
+L-G-Late,link,Late,G,Late,0.0071,76,58.4375,22.9499
+L-G-Late,link,Late,G,Late,0.0071,77,57.25,22.9564
+L-G-Late,link,Late,G,Late,0.0071,78,56.0625,22.9613
+L-G-Late,link,Late,G,Late,0.0071,79,54.875,22.965
+L-G-Late,link,Late,G,Late,0.0071,80,53.6875,22.9677
+L-G-Late,link,Late,G,Late,0.0071,81,52.5,22.9697
+L-G-Charged off,link,Charged off,G,Charged off,0.0463,0,52.5,22.9765
+L-G-Charged off,link,Charged off,G,Charged off,0.0463,1,53.6875,22.9769
+L-G-Charged off,link,Charged off,G,Charged off,0.0463,2,54.875,22.9774
+L-G-Charged off,link,Charged off,G,Charged off,0.0463,3,56.0625,22.9781
+L-G-Charged off,link,Charged off,G,Charged off,0.0463,4,57.25,22.9791
+L-G-Charged off,link,Charged off,G,Charged off,0.0463,5,58.4375,22.9804
+L-G-Charged off,link,Charged off,G,Charged off,0.0463,6,59.625,22.9821
+L-G-Charged off,link,Charged off,G,Charged off,0.0463,7,60.8125,22.9843
+L-G-Charged off,link,Charged off,G,Charged off,0.0463,8,62.0,22.9874
+L-G-Charged off,link,Charged off,G,Charged off,0.0463,9,63.1875,22.9914
+L-G-Charged off,link,Charged off,G,Charged off,0.0463,10,64.375,22.9968
+L-G-Charged off,link,Charged off,G,Charged off,0.0463,11,65.5625,23.0038
+L-G-Charged off,link,Charged off,G,Charged off,0.0463,12,66.75,23.0128
+L-G-Charged off,link,Charged off,G,Charged off,0.0463,13,67.9375,23.0245
+L-G-Charged off,link,Charged off,G,Charged off,0.0463,14,69.125,23.0393
+L-G-Charged off,link,Charged off,G,Charged off,0.0463,15,70.3125,23.0575
+L-G-Charged off,link,Charged off,G,Charged off,0.0463,16,71.5,23.0796
+L-G-Charged off,link,Charged off,G,Charged off,0.0463,17,72.6875,23.1055
+L-G-Charged off,link,Charged off,G,Charged off,0.0463,18,73.875,23.1349
+L-G-Charged off,link,Charged off,G,Charged off,0.0463,19,75.0625,23.1669
+L-G-Charged off,link,Charged off,G,Charged off,0.0463,20,76.25,23.2004
+L-G-Charged off,link,Charged off,G,Charged off,0.0463,21,77.4375,23.2339
+L-G-Charged off,link,Charged off,G,Charged off,0.0463,22,78.625,23.266
+L-G-Charged off,link,Charged off,G,Charged off,0.0463,23,79.8125,23.2953
+L-G-Charged off,link,Charged off,G,Charged off,0.0463,24,81.0,23.3213
+L-G-Charged off,link,Charged off,G,Charged off,0.0463,25,82.1875,23.3433
+L-G-Charged off,link,Charged off,G,Charged off,0.0463,26,83.375,23.3616
+L-G-Charged off,link,Charged off,G,Charged off,0.0463,27,84.5625,23.3763
+L-G-Charged off,link,Charged off,G,Charged off,0.0463,28,85.75,23.388
+L-G-Charged off,link,Charged off,G,Charged off,0.0463,29,86.9375,23.3971
+L-G-Charged off,link,Charged off,G,Charged off,0.0463,30,88.125,23.4041
+L-G-Charged off,link,Charged off,G,Charged off,0.0463,31,89.3125,23.4094
+L-G-Charged off,link,Charged off,G,Charged off,0.0463,32,90.5,23.4134
+L-G-Charged off,link,Charged off,G,Charged off,0.0463,33,91.6875,23.4165
+L-G-Charged off,link,Charged off,G,Charged off,0.0463,34,92.875,23.4188
+L-G-Charged off,link,Charged off,G,Charged off,0.0463,35,94.0625,23.4205
+L-G-Charged off,link,Charged off,G,Charged off,0.0463,36,95.25,23.4217
+L-G-Charged off,link,Charged off,G,Charged off,0.0463,37,96.4375,23.4227
+L-G-Charged off,link,Charged off,G,Charged off,0.0463,38,97.625,23.4234
+L-G-Charged off,link,Charged off,G,Charged off,0.0463,39,98.8125,23.4239
+L-G-Charged off,link,Charged off,G,Charged off,0.0463,40,100.0,23.4243
+L-G-Charged off,link,Charged off,G,Charged off,0.0463,41,100.0,23.4706
+L-G-Charged off,link,Charged off,G,Charged off,0.0463,42,98.8125,23.4703
+L-G-Charged off,link,Charged off,G,Charged off,0.0463,43,97.625,23.4697
+L-G-Charged off,link,Charged off,G,Charged off,0.0463,44,96.4375,23.469
+L-G-Charged off,link,Charged off,G,Charged off,0.0463,45,95.25,23.4681
+L-G-Charged off,link,Charged off,G,Charged off,0.0463,46,94.0625,23.4668
+L-G-Charged off,link,Charged off,G,Charged off,0.0463,47,92.875,23.4651
+L-G-Charged off,link,Charged off,G,Charged off,0.0463,48,91.6875,23.4628
+L-G-Charged off,link,Charged off,G,Charged off,0.0463,49,90.5,23.4598
+L-G-Charged off,link,Charged off,G,Charged off,0.0463,50,89.3125,23.4558
+L-G-Charged off,link,Charged off,G,Charged off,0.0463,51,88.125,23.4504
+L-G-Charged off,link,Charged off,G,Charged off,0.0463,52,86.9375,23.4434
+L-G-Charged off,link,Charged off,G,Charged off,0.0463,53,85.75,23.4343
+L-G-Charged off,link,Charged off,G,Charged off,0.0463,54,84.5625,23.4227
+L-G-Charged off,link,Charged off,G,Charged off,0.0463,55,83.375,23.4079
+L-G-Charged off,link,Charged off,G,Charged off,0.0463,56,82.1875,23.3897
+L-G-Charged off,link,Charged off,G,Charged off,0.0463,57,81.0,23.3676
+L-G-Charged off,link,Charged off,G,Charged off,0.0463,58,79.8125,23.3417
+L-G-Charged off,link,Charged off,G,Charged off,0.0463,59,78.625,23.3123
+L-G-Charged off,link,Charged off,G,Charged off,0.0463,60,77.4375,23.2803
+L-G-Charged off,link,Charged off,G,Charged off,0.0463,61,76.25,23.2468
+L-G-Charged off,link,Charged off,G,Charged off,0.0463,62,75.0625,23.2133
+L-G-Charged off,link,Charged off,G,Charged off,0.0463,63,73.875,23.1812
+L-G-Charged off,link,Charged off,G,Charged off,0.0463,64,72.6875,23.1518
+L-G-Charged off,link,Charged off,G,Charged off,0.0463,65,71.5,23.1259
+L-G-Charged off,link,Charged off,G,Charged off,0.0463,66,70.3125,23.1039
+L-G-Charged off,link,Charged off,G,Charged off,0.0463,67,69.125,23.0856
+L-G-Charged off,link,Charged off,G,Charged off,0.0463,68,67.9375,23.0709
+L-G-Charged off,link,Charged off,G,Charged off,0.0463,69,66.75,23.0592
+L-G-Charged off,link,Charged off,G,Charged off,0.0463,70,65.5625,23.0501
+L-G-Charged off,link,Charged off,G,Charged off,0.0463,71,64.375,23.0431
+L-G-Charged off,link,Charged off,G,Charged off,0.0463,72,63.1875,23.0378
+L-G-Charged off,link,Charged off,G,Charged off,0.0463,73,62.0,23.0337
+L-G-Charged off,link,Charged off,G,Charged off,0.0463,74,60.8125,23.0307
+L-G-Charged off,link,Charged off,G,Charged off,0.0463,75,59.625,23.0284
+L-G-Charged off,link,Charged off,G,Charged off,0.0463,76,58.4375,23.0267
+L-G-Charged off,link,Charged off,G,Charged off,0.0463,77,57.25,23.0254
+L-G-Charged off,link,Charged off,G,Charged off,0.0463,78,56.0625,23.0245
+L-G-Charged off,link,Charged off,G,Charged off,0.0463,79,54.875,23.0238
+L-G-Charged off,link,Charged off,G,Charged off,0.0463,80,53.6875,23.0233
+L-G-Charged off,link,Charged off,G,Charged off,0.0463,81,52.5,23.0229
+N-G,node,Grade G,G,,0.1353,0,50,22.8865
+N-G,node,Grade G,G,,0.1353,1,52.5,22.8865
+N-G,node,Grade G,G,,0.1353,2,52.5,23.0218
+N-G,node,Grade G,G,,0.1353,3,50,23.0218
+N-Paid off,node,Paid off,,Paid off,5.6784,0,100,-0.45
+N-Paid off,node,Paid off,,Paid off,5.6784,1,102.5,-0.45
+N-Paid off,node,Paid off,,Paid off,5.6784,2,102.5,5.2284
+N-Paid off,node,Paid off,,Paid off,5.6784,3,100,5.2284
+N-Still paying,node,Still paying,,Still paying,12.8903,0,100,6.2284
+N-Still paying,node,Still paying,,Still paying,12.8903,1,102.5,6.2284
+N-Still paying,node,Still paying,,Still paying,12.8903,2,102.5,19.1186
+N-Still paying,node,Still paying,,Still paying,12.8903,3,100,19.1186
+N-Late,node,Late,,Late,0.5316,0,100,20.1186
+N-Late,node,Late,,Late,0.5316,1,102.5,20.1186
+N-Late,node,Late,,Late,0.5316,2,102.5,20.6502
+N-Late,node,Late,,Late,0.5316,3,100,20.6502
+N-Charged off,node,Charged off,,Charged off,1.8216,0,100,21.6502
+N-Charged off,node,Charged off,,Charged off,1.8216,1,102.5,21.6502
+N-Charged off,node,Charged off,,Charged off,1.8216,2,102.5,23.4718
+N-Charged off,node,Charged off,,Charged off,1.8216,3,100,23.4718
