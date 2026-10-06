@@ -5,7 +5,7 @@ A Tableau dashboard on how $20.9B of Lending Club consumer loans (2016-2018 orig
 ## Findings
 
 - Grades E-G = 7.6% of dollars lent but 24% of principal lost
-- Mid-2016 batches (May-Aug) were the worst: about 9.1% of principal lost by month 24, vs 5.1% for Jan 2014. Later batches eased only gradually (month-12 losses of 2.3% for Jan 2018 vs 3.2-3.5% in mid-2016)
+- Mid-2016 batches were the worst: 36-month loans issued May, July and August 2016 had lost about 9.1% of principal by month 24, vs 5.1% for Jan 2014. Later batches eased only gradually (month-12 losses of 2.3% for Jan 2018 vs 2.7-3.5% for May-Aug 2016)
 - Net return peaks in grade B (sub-grade B4: 9.5%) and declines steadily after: E 5.1%, F 4.8%, G 1.5% (dollar-weighted). Only F5 and G5 lose money, both on small volumes
 
 ## Recommendation
