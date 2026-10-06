@@ -2,13 +2,21 @@
 
 A Tableau dashboard on how $20.9B of Lending Club consumer loans (2016-2018 originations) performed: where the dollars ended up, how loss rates developed by issue month, and whether higher interest rates covered higher losses by sub-grade.
 
-**Tableau Public:** coming soon
+## Findings
+
+- Grades E-G = 7.6% of dollars lent but 24% of principal lost
+- Mid-2016 batches were the worst; 2017+ improved after credit tightened
+- Returns peak at sub-grade B4 (9.5%) and fall beyond grade E; only F5 and G5 lose money
+
+## Recommendation
+
+Reprice or cap F-G, grow B-C, use the loss triangle to catch bad batches early.
 
 ## Data
 
 - Source: Lending Club accepted loans, 2007 to 2018 Q4 (public, CC0, via Hugging Face `codesignal/lending-club-loan-accepted`)
 - 2,260,668 loans, single snapshot with latest payment month March 2019
-- The raw file (1.6 GB) is not stored in this repo. Download it to `data_raw/accepted_2007_to_2018Q4.csv` to rebuild the tables.
+- The raw file (1.6 GB) is not stored in this repo. Download it from https://huggingface.co/datasets/codesignal/lending-club-loan-accepted to `data_raw/accepted_2007_to_2018Q4.csv` to rebuild the tables.
 
 ## Repo layout
 
