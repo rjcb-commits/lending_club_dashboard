@@ -1,8 +1,8 @@
 # Lending Club Portfolio Dashboard
 
-A Tableau dashboard on how $20.9B of Lending Club consumer loans (2016-2018 originations) performed: where the dollars ended up, how loss rates developed by issue month, and whether higher interest rates covered higher losses by sub-grade.
+**Status: in progress.** Data prep is done; the Tableau dashboard is being built.
 
-**Tableau Public:** dashboard in progress
+A Tableau dashboard on how $20.9B of Lending Club consumer loans (2016-2018 originations) performed: where the dollars ended up, how loss rates developed by issue month, and whether higher interest rates covered higher losses by sub-grade.
 
 ## Findings
 
