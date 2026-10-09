@@ -2,6 +2,8 @@
 
 A Tableau dashboard on how $20.9B of Lending Club consumer loans (2016-2018 originations) performed: where the dollars ended up, how loss rates developed by issue month, and whether higher interest rates covered higher losses by sub-grade.
 
+**Tableau Public:** dashboard in progress. The tables in `data_tableau/` are final.
+
 ## Findings
 
 - Grades E-G = 7.6% of dollars lent but 24% of principal lost
